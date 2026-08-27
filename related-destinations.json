@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T18:31:25.447Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Behr Construction",
+    "canonicalUrl": "https://behrconstruction.aiovisibility.net",
+    "primaryWebsiteUrl": "https://behrconstruction.com",
+    "aiDataHub": "https://behrconstruction.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Behr Construction — canonical website",
+      "url": "https://behrconstruction.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Behr Construction — AI Data Hub",
+      "url": "https://behrconstruction.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/behr-construction-ai-schemas-4knd"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/behr-construction-ai-schemas-4knd",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/behr-construction-ai-schemas-4knd"
+    }
+  }
+}
