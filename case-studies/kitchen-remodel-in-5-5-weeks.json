@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Kitchen Remodel in 5.5 Weeks",
+  "articleBody": "Sparkling new kitchen with design/craftsmanship focus; crew emphasized details, safety, tidiness. behrconstruction+1\n\nOutcome: Delivered much faster than anticipated; ongoing compliments; Kurt Knechtel praised for thorough management and client satisfaction. behrconstruction​",
+  "author": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "genre": "Case Study"
+}

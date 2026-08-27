@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Chris Behr on CBS-2 News",
+  "datePublished": "38596",
+  "url": "http://www.behrconstruction.com/pub-katrina.html behrconstruction​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "CBS-2 News"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  }
+}

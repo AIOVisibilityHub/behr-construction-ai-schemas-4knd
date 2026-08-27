@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Behr Construction - Behr Construction",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1363 Foothill Blvd #1 ​",
+    "addressLocality": "La Canada Flintridge ​",
+    "addressRegion": "CA ​",
+    "postalCode": "91011 ​"
+  },
+  "telephone": "(818) 952-2516 ​",
+  "url": "https://behrconstruction.com"
+}

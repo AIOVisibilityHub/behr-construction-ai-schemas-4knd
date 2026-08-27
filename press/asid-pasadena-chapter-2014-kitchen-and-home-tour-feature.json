@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "ASID Pasadena Chapter 2014 Kitchen and Home Tour Feature",
+  "datePublished": "2014",
+  "url": "https://behrconstruction.com ​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "ASID Pasadena Chapter"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  }
+}

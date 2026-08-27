@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Positive Remodel Experience"
+  },
+  "reviewBody": "Detailed estimate and AIA contract. Handled change orders well, quality very good, finished ahead of schedule for kitchen/living room addition and bathroom remodel. houzz​",
+  "datePublished": "41689",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  }
+}

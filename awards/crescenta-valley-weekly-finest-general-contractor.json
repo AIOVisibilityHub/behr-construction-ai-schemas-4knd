@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Crescenta Valley Weekly Finest General Contractor",
+  "datePublished": "2012, 2013, 2014, 2015, 2017 behrconstruction​",
+  "provider": {
+    "@type": "Organization",
+    "name": "Crescenta Valley Weekly"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "award": "Crescenta Valley Weekly Finest General Contractor"
+}

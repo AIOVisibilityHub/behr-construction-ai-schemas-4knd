@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Post-Storm Rebuilding Raises California Construction Prices",
+  "datePublished": "38612",
+  "url": "http://www.behrconstruction.com/pub-katrina.html behrconstruction​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Los Angeles Times"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  }
+}

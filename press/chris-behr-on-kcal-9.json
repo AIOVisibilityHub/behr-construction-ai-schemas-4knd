@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Chris Behr on KCAL-9",
+  "datePublished": "38596",
+  "url": "http://www.behrconstruction.com/pub-katrina.html behrconstruction​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "KCAL-9"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  }
+}
