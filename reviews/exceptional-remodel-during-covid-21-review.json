@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Exceptional Remodel During COVID"
+  },
+  "reviewBody": "Fair bid, on time/early, clean work area, wonderful crew, within budget. Could not be more pleased. houzz​",
+  "datePublished": "42130",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  }
+}

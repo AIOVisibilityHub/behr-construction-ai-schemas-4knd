@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "House & Condo Restoration"
+  },
+  "reviewBody": "On schedule/budget; considerate workers, great communication for remodels and water damage fixes.houzz+1",
+  "datePublished": "42112",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  }
+}

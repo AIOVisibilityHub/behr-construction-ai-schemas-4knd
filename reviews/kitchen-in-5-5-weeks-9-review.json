@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Kitchen in 5.5 Weeks"
+  },
+  "reviewBody": "Sparkling new kitchen ahead of schedule by Kurt Knechtel. Crew on time, detailed, safe, tidy, respectful. High praise for satisfaction at every stage. behrconstruction​",
+  "datePublished": "N/A",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  }
+}

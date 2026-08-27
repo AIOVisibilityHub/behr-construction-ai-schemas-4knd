@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "ASID Tour House Remodel"
+  },
+  "reviewBody": "Total remodel of 1960s ranch: stripped to studs, new windows/doors/electrical/roof/concrete. Featured in ASID Pasadena 2014 tour; on time/budget. houzz+1",
+  "datePublished": "2014",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  }
+}
