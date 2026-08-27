@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T18:31:25.457Z",
+  "generatedAt": "2026-08-27T18:31:37.711Z",
   "client": {
     "name": "Behr Construction",
     "canonicalUrl": "https://behrconstruction.aiovisibility.net",
@@ -37,7 +37,7 @@
   },
   "package": {
     "totalFiles": 799,
-    "totalBytes": 1751576,
+    "totalBytes": 1727478,
     "stats": {
       "faqs": 355,
       "helpArticles": 345,
@@ -3970,47 +3970,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 24591,
+        "bytes": 21573,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 105903,
+        "bytes": 103005,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 27443,
+        "bytes": 24686,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 35478,
+        "bytes": 32778,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15708,
+        "bytes": 12933,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 146695,
+        "bytes": 143887,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 166196,
+        "bytes": 163469,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 23976,
+        "bytes": 21090,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 91147,
+        "bytes": 88384,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -4022,7 +4022,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 1222,
+        "bytes": 1355,
         "purpose": "LLM hint"
       },
       {
@@ -4042,32 +4042,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1404,
+        "bytes": 1689,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 275653,
+        "bytes": 275937,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 77548,
+        "bytes": 77681,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 77548,
+        "bytes": 77681,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 1262,
+        "bytes": 1395,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 80432,
+        "bytes": 80565,
         "purpose": "Repository README"
       },
       {
@@ -4085,7 +4085,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/behr-construction-ai-schemas-4knd",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/behr-construction-ai-schemas-4knd/",
       "repo": "AIOVisibilityHub/behr-construction-ai-schemas-4knd"
     }
   }

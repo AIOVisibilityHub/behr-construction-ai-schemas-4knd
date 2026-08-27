@@ -21,6 +21,7 @@ Package contents:
 - [canonical] Behr Construction — canonical website — https://behrconstruction.aiovisibility.net
 - [ai-data-hub] Behr Construction — AI Data Hub — https://behrconstruction.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/behr-construction-ai-schemas-4knd
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/behr-construction-ai-schemas-4knd/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
