@@ -1,0 +1,4092 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T18:31:25.457Z",
+  "client": {
+    "name": "Behr Construction",
+    "canonicalUrl": "https://behrconstruction.aiovisibility.net",
+    "primaryWebsiteUrl": "https://behrconstruction.com",
+    "pagesUrl": "https://behrconstruction.aiovisibility.net",
+    "phone": "(818) 952-2516",
+    "email": "kurt@behrconstruction.com",
+    "locations": [
+      {
+        "name": "Behr Construction Office",
+        "address": "1363 Foothill Blvd #1 behrconstruction​",
+        "city": "La Canada Flintridge",
+        "state": "CA",
+        "zip": "91011 behrconstruction​",
+        "phone": "(818) 952-2516 behrconstruction​",
+        "email": "kurt@behrconstruction.com behrconstruction​"
+      },
+      {
+        "name": "Behr Construction",
+        "address": "1363 Foothill Blvd #1 ​",
+        "city": "La Canada Flintridge ​",
+        "state": "CA ​",
+        "zip": "91011 ​",
+        "phone": "(818) 952-2516 ​",
+        "email": "kurt@behrconstruction.com ​"
+      }
+    ],
+    "services": [
+      "Custom home construction"
+    ],
+    "cities": [
+      "Southern California"
+    ]
+  },
+  "package": {
+    "totalFiles": 799,
+    "totalBytes": 1751576,
+    "stats": {
+      "faqs": 355,
+      "helpArticles": 345,
+      "services": 1,
+      "webpages": 0,
+      "personnel": 28,
+      "products": 0,
+      "locations": 2,
+      "awards": 2,
+      "caseStudies": 7,
+      "organization": 1,
+      "press": 5,
+      "reviews": 30,
+      "qna": 0,
+      "research": 0,
+      "total": 776
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/what-services-does-behr-construction-offer.json",
+        "bytes": 896,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-behr-construction-licensed-and-bonded.json",
+        "bytes": 774,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-experience-level-of-the-team.json",
+        "bytes": 792,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-projects-do-they-handle.json",
+        "bytes": 788,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-they-focus-on-sustainable-practices.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-has-behr-construction-been-in-business.json",
+        "bytes": 675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-do-clients-say-about-communication-and-timelines.json",
+        "bytes": 847,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-custom-home-remodeling-cost.json",
+        "bytes": 804,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-a-remodel.json",
+        "bytes": 748,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-for-remodeling.json",
+        "bytes": 670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remodel-in-phases-or-all-at-once.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-a-reliable-contractor.json",
+        "bytes": 729,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-adds-the-most-value-to-a-remodel.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-home-during-remodeling.json",
+        "bytes": 699,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-start-planning-a-remodel.json",
+        "bytes": 669,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-hidden-costs.json",
+        "bytes": 650,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-update-kitchen-or-bathroom-first.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-disruption-should-i-expect.json",
+        "bytes": 697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-change-orders-common.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-sustainable-features-to-include.json",
+        "bytes": 658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-finance-a-remodel.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-an-architect-or-designer.json",
+        "bytes": 664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-find-surprises-like-mold-asbestos.json",
+        "bytes": 689,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-prepare-for-construction.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-remodeling-increase-my-property-taxes.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-materials-are-trending.json",
+        "bytes": 657,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-avoid-contractor-disputes.json",
+        "bytes": 662,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-diy-worth-it-for-remodeling.json",
+        "bytes": 658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-roi-can-i-expect.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-incorporate-smart-home-tech.json",
+        "bytes": 664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-inspections-occur-during-remodel.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-maximize-storage-in-remodel.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-home-restoration-vs-remodeling.json",
+        "bytes": 796,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-for-restoration-work.json",
+        "bytes": 756,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-home-restoration-cost.json",
+        "bytes": 725,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-surprises-in-old-homes.json",
+        "bytes": 708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-restoration-take.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-home-during-restoration.json",
+        "bytes": 666,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-find-restoration-specialists.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-asbestos-lead-paint.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-restoration-increase-property-value.json",
+        "bytes": 672,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-modern-updates-for-historic-homes.json",
+        "bytes": 648,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-match-original-materials.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-tax-incentives-for-restoration.json",
+        "bytes": 688,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-inspections-for-old-homes.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-handle-foundation-issues.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/preserve-or-update-kitchen-bath.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-financing-for-restoration.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-avoid-over-restoring.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/insurance-changes-post-restoration.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/neighborhood-historic-restrictions.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/energy-efficiency-in-old-homes.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/timeline-for-phased-restoration.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/hire-architect-for-restoration.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/dispose-of-demo-materials.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/post-project-warranties.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/sell-historic-restored-home.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-room-addition-cost-in-2026.json",
+        "bytes": 798,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-room-additions-require-permits.json",
+        "bytes": 669,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-room-addition-take.json",
+        "bytes": 648,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-a-room-addition-increase-property-taxes.json",
+        "bytes": 642,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-size-should-my-room-addition-be.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-an-architect-for-room-additions.json",
+        "bytes": 673,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-home-during-construction.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-blend-addition-with-existing-home.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-utilities-need-extension.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/upward-vs-outward-addition-costs.json",
+        "bytes": 658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-roi-on-room-additions.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/foundation-types-for-additions.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/hoa-approval-process.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/budget-breakdown-for-additions.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/common-room-addition-types.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/impact-on-natural-light.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/structural-engineering-needs.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/financing-room-additions.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/neighborhood-impact.json",
+        "bytes": 529,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/second-story-addition-feasibility.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/design-process-timeline.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/warranty-on-additions.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/adu-vs-room-addition.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/winter-construction-feasibility.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/resale-value-impact.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-kitchen-remodel-cost-in-2026.json",
+        "bytes": 832,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-drive-kitchen-remodel-costs.json",
+        "bytes": 704,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-kitchen-remodel-take.json",
+        "bytes": 654,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-for-kitchen-work.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-roi-on-kitchen-remodeling.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-refinish-or-replace-cabinets.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/best-kitchen-layout-for-my-space.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-home-during-remodel.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/trending-countertops-2026.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/appliance-upgrade-costs.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-choose-a-kitchen-contractor.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/kitchen-island-addition-cost.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/backsplash-trends-and-costs.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/flooring-options-for-kitchens.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/financing-kitchen-remodel.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/common-kitchen-remodel-mistakes.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/smart-kitchen-features-2026.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-maximize-storage.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/lighting-layers-for-kitchens.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/open-concept-kitchen-trends.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/eco-friendly-kitchen-materials.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/warranty-on-kitchen-remodel.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/prep-for-kitchen-remodel.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/designer-vs-contractor-kitchen.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/post-remodel-property-taxes.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-bathroom-remodel-cost-in-2026.json",
+        "bytes": 801,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-included-in-a-mid-range-bathroom-remodel.json",
+        "bytes": 753,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/primary-vs-guest-bathroom-costs.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/per-square-foot-bathroom-pricing-2026.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-bathroom-remodels-need-permits.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-roi-on-bathroom-remodeling.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-bathroom-remodel-take.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/cost-to-add-a-new-bathroom.json",
+        "bytes": 642,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/tub-to-shower-conversion-cost.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/common-bathroom-remodel-components.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/labor-percentage-of-total-cost.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/diy-bathroom-remodel-pitfalls.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/trending-bathroom-features-2026.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/financing-bathroom-remodels.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/guest-bath-vs-primary-differences.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/walk-in-shower-installation-cost.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/retiling-shower-tub-surround.json",
+        "bytes": 528,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/vanity-and-countertop-costs.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/property-tax-impact-post-remodel.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-choose-bathroom-contractor.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/eco-friendly-bathroom-upgrades.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/common-hidden-bathroom-costs.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/warranty-expectations.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/prep-for-bathroom-remodel.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-an-adu.json",
+        "bytes": 708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-2026-california-adu-size-limits.json",
+        "bytes": 652,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-adus-require-permits.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-multiple-adus-on-one-lot.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-adu-setbacks-height.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-adus-need-parking.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-for-adu-permitting-2026.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-legalize-existing-unpermitted-adu.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/adu-construction-costs-california-2026.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-adus-impact-property-taxes.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-rent-adu-short-term-airbnb.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/jadu-vs-adu-differences.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/pre-approved-adu-plans-available.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/adu-fire-sprinklers-required.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/hoa-restrictions-on-adus.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/adu-financing-options.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/timeline-to-build-adu.json",
+        "bytes": 497,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/notify-neighbors-for-adu.json",
+        "bytes": 514,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/adu-utilities-connection.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-adu-be-sold-separately.json",
+        "bytes": 500,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/coastal-zone-adu-rules.json",
+        "bytes": 512,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/adu-roi-rental-income.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/energy-code-compliance-adus.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/multifamily-lot-adus.json",
+        "bytes": 508,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/hcd-adu-handbook-2025.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-design-build-construction.json",
+        "bytes": 777,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-design-build-differ-from-design-bid-build.json",
+        "bytes": 808,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-design-build-process-steps.json",
+        "bytes": 731,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-design-build-benefits.json",
+        "bytes": 712,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-is-responsible-in-design-build.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-to-use-design-build.json",
+        "bytes": 652,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-progressive-design-build.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-design-build-save-money.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/design-build-team-structure.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/legal-risks-in-design-build.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/gmp-in-design-build.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/suitable-project-types.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/owner-role-in-design-build.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/change-orders-in-design-build.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/design-build-vs-cmar.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/preconstruction-services.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-select-design-builder.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/design-build-schedule-advantages.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/risks-for-design-builder.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/post-construction-phase.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/bim-in-design-build.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/public-vs-private-design-build.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/contract-types-in-design-build.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/owner-savings-examples.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/challenges-of-design-build.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-green-building-practices.json",
+        "bytes": 717,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-leed-certification.json",
+        "bytes": 738,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-calgreen-cover.json",
+        "bytes": 674,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-well-certification-work.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-energy-star-certification.json",
+        "bytes": 621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-costs-green-building-premium.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/bay-area-green-incentives.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/green-building-process-steps.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/documentation-for-certification.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/energy-efficiency-requirements.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/water-conservation-measures.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/indoor-air-quality-focus.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/sustainable-materials-criteria.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/payback-period-green-building.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/resale-value-premium.json",
+        "bytes": 542,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/living-building-challenge.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/green-globes-certification.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/start-green-project-when.json",
+        "bytes": 518,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/contractor-experience-needed.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/utility-rebates-available.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/biophilic-design-elements.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/recertification-timeline.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/local-ordinance-variations.json",
+        "bytes": 524,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/carbon-focus-in-certifications.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/choose-certification-how.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-radiant-floor-heating.json",
+        "bytes": 768,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-electric-radiant-heat-work.json",
+        "bytes": 735,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-radiant-floor-heating-safe.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-radiant-heat-be-primary-heat-source.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-flooring-works-with-radiant-heat.json",
+        "bytes": 693,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/electric-vs-hydronic-radiant.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/installation-cost-per-sq-ft.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/energy-savings-vs-forced-air.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-it-work-under-existing-floors.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/thermostat-programming-needs.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/heat-up-time.json",
+        "bytes": 508,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/maintenance-requirements.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/warranty-length.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/bathroom-vs-whole-house-use.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/slab-vs-retrofit-install.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/compatibility-with-pets.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/sound-transmission.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/zoning-multiple-thermostats.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/troubleshooting-no-heat.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/tile-cracking-risk.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/electric-bill-impact.json",
+        "bytes": 510,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/hydronic-boiler-sizing.json",
+        "bytes": 528,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/retrofits-over-hardwood.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/smart-thermostat-integration.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/diy-install-feasible.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-tenant-improvements-ti.json",
+        "bytes": 765,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-ti-allowance-tia.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-pays-for-tenant-improvements.json",
+        "bytes": 666,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-ti-projects-are-typical.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-negotiate-ti-allowance.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/ti-process-timeline.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-approves-ti-plans.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/turnkey-vs-vanilla-shell-ti.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-ti-affect-rent.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/ti-ownership-at-lease-end.json",
+        "bytes": 603,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/permits-needed-for-ti.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/budgeting-ti-costs.json",
+        "bytes": 520,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/landlord-vs-tenant-responsibilities.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/change-orders-during-ti.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/punch-list-process.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/lien-waivers-for-ti-payments.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/ti-for-retail-vs-office.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/lease-renewal-ti-negotiations.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/substantial-completion-definition.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/delays-in-ti-construction.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/insurance-during-ti-work.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/ada-compliance-in-ti.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/sustainability-in-ti.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/subcontractor-selection.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/restoration-obligations.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-construction-default-takeover.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-does-surety-takeover-occur.json",
+        "bytes": 707,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-takeover-agreement-include.json",
+        "bytes": 776,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-surety-rehire-defaulted-contractor.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/owner-responsibilities-in-takeover.json",
+        "bytes": 682,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/surety-completion-contractor-approval.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/payment-terms-in-takeover-agreement.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/handling-prior-contractor-payments.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/change-orders-post-takeover.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/liquidated-damages-in-takeover.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/latent-defects-responsibility.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/new-completion-date.json",
+        "bytes": 523,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/dbe-sbe-goals-in-takeover.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/federal-far-takeover-rules.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/lender-considerations.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/completion-contractor-risks.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/surety-risks-before-takeover.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/dispute-resolution-post-takeover.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/owner-claims-against-surety.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/takeover-vs-new-contract.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/performance-bond-activation.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/notice-requirements.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/tripartite-agreement-use.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/materials-title-post-default.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/surety-other-options.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-construction-expert-witness-do.json",
+        "bytes": 750,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-qualifications-make-a-good-contractor-expert.json",
+        "bytes": 771,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-cases-need-contractor-expert-testimony.json",
+        "bytes": 709,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-expert-evidence-gathered.json",
+        "bytes": 663,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-standard-of-care-testimony.json",
+        "bytes": 702,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-experts-testify-on-construction-costs.json",
+        "bytes": 691,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-daubert-challenge-for-experts.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-choose-right-contractor-expert.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-reports-do-experts-prepare.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-consulting-vs-testifying-experts-differ.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-experts-handle-delay-claims.json",
+        "bytes": 621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-licensing-expert-testimony.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/expert-role-in-defect-litigation.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/need-geographic-expertise.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-expert-involvement-last.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-experts-testify-on-safety.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-compensation-disclosure.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/expert-role-in-mediation-settlement.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/handle-forensic-investigations.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/need-multiple-experts-per-case.json",
+        "bytes": 628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-preparation-for-testimony.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-contractors-serve-as-experts.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/disclose-prior-testimony.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/expert-impact-on-case-outcomes.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/handle-code-compliance-opinions.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-hire-a-new-contractor-to-fix-bad-previous-work.json",
+        "bytes": 782,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-pays-to-fix-the-first-contractor-s-mistakes.json",
+        "bytes": 709,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-the-new-contractor-fix-old-shoddy-work-for-free.json",
+        "bytes": 732,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-fire-the-bad-contractor-first.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-first-contractor-didn-t-finish-on-time.json",
+        "bytes": 740,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-the-surety-make-the-bad-contractor-finish.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-a-takeover-agreement-exactly.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-get-my-money-back-from-first-contractor.json",
+        "bytes": 708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-money-is-left-for-new-contractor.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-new-contractor-start-immediately.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-decides-what-work-is-left-unfinished.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-hidden-problems-from-first-job-appear.json",
+        "bytes": 689,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-new-contractor-need-new-permits.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-change-the-project-scope-now.json",
+        "bytes": 630,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-handles-old-subcontractors.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-takeover-costs-exceed-funds.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-until-project-finishes-after-takeover.json",
+        "bytes": 656,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-team-members-for-this-process.json",
+        "bytes": 603,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-documents-does-new-contractor-need.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-surety-refuse-to-takeover.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-inspects-final-work.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-first-contractor-sues.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-bond-required-for-takeover.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-avoid-this-mess-next-time.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-faster-takeover-or-new-bids.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-custom-home-construction-take.json",
+        "bytes": 697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-biggest-hidden-cost-in-home-building.json",
+        "bytes": 673,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-get-pre-approved-financing-first.json",
+        "bytes": 661,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/architect-vs-production-builder-designs.json",
+        "bytes": 699,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-select-finishes-like-cabinets-countertops.json",
+        "bytes": 695,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-choose-a-reliable-custom-builder.json",
+        "bytes": 691,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-rough-in-phase-exactly.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-soil-geotech-testing.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-should-i-visit-construction-site.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-construction-draws-payments.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-make-changes-mid-build.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/builder-warranty-lengths.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/temporary-housing-during-build.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/energy-efficiency-must-haves.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/neighborhood-covenants-cc-rs-impact.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/slab-vs-crawlspace-vs-basement-foundation.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-budget-smartly.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/staging-new-home-for-photos-sale.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/weather-delay-protections.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/third-party-inspections-needed.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/smart-home-wiring-pre-build.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/landscaping-timing-budget.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/closing-walkthrough-checklist.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/resale-value-of-custom-features.json",
+        "bytes": 609,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/custom-home-construction-service.json",
+        "bytes": 7060,
+        "purpose": "schema"
+      }
+    ],
+    "team": [
+      {
+        "path": "team/kurt-knechtel-profile.json",
+        "bytes": 7809,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/kurt-knechtel-southern-california.json",
+        "bytes": 7807,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/kurt-knechtel-residential-construction-southern-california-faq.json",
+        "bytes": 7570,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/kurt-knechtel-custom-home-building-southern-california-faq.json",
+        "bytes": 7554,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/kurt-knechtel-whole-home-remodeling-southern-california-faq.json",
+        "bytes": 7558,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/kurt-knechtel-kitchen-remodeling-southern-california-faq.json",
+        "bytes": 7546,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/kurt-knechtel-bathroom-remodeling-southern-california-faq.json",
+        "bytes": 7550,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/john-mills-profile.json",
+        "bytes": 459,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/john-mills-southern-california.json",
+        "bytes": 457,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/john-mills-n-a-southern-california-faq.json",
+        "bytes": 738,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jeff-baker-profile.json",
+        "bytes": 408,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jeff-baker-southern-california.json",
+        "bytes": 406,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/jeff-baker-n-a-southern-california-faq.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/sandy-tucker-profile.json",
+        "bytes": 395,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/sandy-tucker-southern-california.json",
+        "bytes": 393,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/sandy-tucker-n-a-southern-california-faq.json",
+        "bytes": 678,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/matt-vuyovich-profile.json",
+        "bytes": 414,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/matt-vuyovich-southern-california.json",
+        "bytes": 412,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/matt-vuyovich-n-a-southern-california-faq.json",
+        "bytes": 699,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/dave-prange-profile.json",
+        "bytes": 421,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/dave-prange-southern-california.json",
+        "bytes": 419,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/dave-prange-n-a-southern-california-faq.json",
+        "bytes": 702,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/humberto-haro-profile.json",
+        "bytes": 388,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/humberto-haro-southern-california.json",
+        "bytes": 386,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/humberto-haro-n-a-southern-california-faq.json",
+        "bytes": 673,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/arturo-haro-profile.json",
+        "bytes": 390,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/arturo-haro-southern-california.json",
+        "bytes": 388,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/arturo-haro-n-a-southern-california-faq.json",
+        "bytes": 671,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/post-storm-rebuilding-raises-california-construction-prices.json",
+        "bytes": 779,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/about-behr-greetings.json",
+        "bytes": 742,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ultimate-2026-home-remodel-guide.json",
+        "bytes": 773,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/plan-your-2026-remodel-now.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-remodeling-forecast.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-home-trends-2026-guide.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/top-trends-in-home-design-2026.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/homeowner-expectations-for-2026-remodels.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-home-design-trends-forecast.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-improvement-trends-2026.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-design-trends-2026.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/building-trends-2026-luxury-custom.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-remodel-trends-2026.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainable-remodeling-2026.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/exterior-transformations-2026.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/flexible-living-spaces-2026.json",
+        "bytes": 542,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/remodel-budgeting-2026.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/remodel-timelines-2026.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/future-proof-remodels.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-process.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/full-home-remodeling.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-design-services.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/built-in-storage-solutions.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-closet-design.json",
+        "bytes": 514,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/wellness-driven-spaces.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/natural-materials-trend.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/timeless-craftsmanship.json",
+        "bytes": 516,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-restoration-vs-remodeling-guide.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-for-historic-home-restoration.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/old-home-surprises-and-contingencies.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/restoration-timelines-2026.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/finding-restoration-specialists.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/asbestos-and-lead-abatement.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/roi-on-historic-restoration.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/modern-updates-for-historic-homes.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sourcing-historic-materials.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/historic-tax-incentives-2026.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-restoration-inspections.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/foundation-repair-in-old-homes.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-bath-in-historic-homes.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/restoration-financing-options.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-over-restoration.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/insurance-after-restoration.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/historic-district-restrictions.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/energy-efficiency-for-old-homes.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/architect-role-in-restoration.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/demo-material-disposal.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-restoration-warranties.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/selling-restored-historic-homes.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/phased-vs-full-restoration.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mold-remediation-in-restoration.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hoa-approvals-for-restoration.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/room-addition-costs-2026-guide.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bedroom-addition-planning.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sunroom-and-family-room-extensions.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/room-addition-budget-breakdown.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/blending-additions-with-existing-homes.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-and-zoning-for-additions.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/room-addition-timelines-2026.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ultimate-room-addition-guide.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bay-area-2026-remodeling-checklist.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-addition-types-2026.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-addition-costs-explained.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-addition-house-plans-guide.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-2026-home-addition.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/attached-vs-detached-additions.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/foundation-options-for-additions.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/utilities-extension-planning.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/second-story-addition-feasibility.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hoa-approvals-for-additions.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/natural-light-in-additions.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/financing-room-additions.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/neighborhood-construction-impact.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/staying-home-during-addition.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/addition-roi-expectations.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/winter-addition-construction.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-addition-warranties.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-remodel-planning-2026.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-kitchen-trends-overview.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/45-kitchen-remodeling-ideas-2026.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-remodel-trends-survival.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-renovation-timeline-2026.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ultimate-kitchen-bath-guide-2026.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/budget-kitchen-remodel-2026.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-remodel-cost-guide-2026.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-cabinet-guide-2026.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-kitchen-trends-sea-pointe.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/virtual-kitchen-planning-tools.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-kitchen-appliances-2026.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainable-kitchen-materials.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-color-trends-2026.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/professional-team-selection.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/energy-efficient-appliances.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/workstation-sink-features.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bamboo-storage-organizers.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ceiling-beams-addition.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/beverage-nook-creation.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prep-kitchen-sculleries.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/layered-kitchen-lighting.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-cabinet-storage.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-work-triangle-update.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/temporary-kitchen-setup.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-remodel-cost-guide-2026.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/primary-bathroom-trends-2026.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-remodel-trends-2026.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/wet-room-bathroom-remodel.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-bathroom-trends-homeowners.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/complete-bathroom-remodel-guide.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bath-remodeling-trends-2026.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-remodeling-guide-2026.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/primary-bath-cost-breakdown.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/guest-bathroom-remodel-pricing.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/high-roi-bathroom-updates.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/new-bathroom-addition-costs.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tub-to-shower-conversion.json",
+        "bytes": 542,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/modern-minimalist-bathrooms.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/eco-friendly-bathroom-design.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/spa-like-bathroom-retreats.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/small-bathroom-solutions.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/open-concept-primary-layouts.json",
+        "bytes": 542,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/organic-minimalism-textures.json",
+        "bytes": 525,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-tech-in-bathrooms.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-layout-planning.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/luxury-accessibility-features.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/professional-vs-diy-remodel.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/remodel-process-timeline.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/material-selection-guide.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/california-adu-laws-2026-guide.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-adu-law-updates-sb-543.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/county-by-county-adu-requirements.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-adu-regulations-update.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/new-2026-adu-handbook.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sb-543-adu-jadu-changes.json",
+        "bytes": 603,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-handbook-pdf-guide.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-housing-law-impacts.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-permitting-timelines.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/detached-adu-standards.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/jadu-specific-rules.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/no-parking-adu-rules.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/unpermitted-adu-legalization.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prefab-adu-cost-savings.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hoa-cannot-block-adus.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-rental-regulations.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/school-impact-fees-exempt.json",
+        "bytes": 521,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/coastal-zone-adu-streamline.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-approved-adu-plans.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multifamily-adu-allowance.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/title-24-energy-compliance.json",
+        "bytes": 519,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-financing-incentives.json",
+        "bytes": 521,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sf-adu-specific-rules.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hcd-adu-resources.json",
+        "bytes": 514,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-build-timelines.json",
+        "bytes": 523,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-defined.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-complete-guide.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-vs-traditional.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/commercial-design-build.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/progressive-design-build-2026.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-guideline-pdf.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-method-explained.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-philosophy.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-construction-phase.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gmp-in-design-build.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-team-structure.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/value-engineering-benefits.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bim-in-design-build.json",
+        "bytes": 518,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/selecting-design-builder.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fast-track-scheduling.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/owner-role-simplified.json",
+        "bytes": 522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/change-orders-minimized.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/post-construction-services.json",
+        "bytes": 517,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-contract-types.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/public-sector-design-build.json",
+        "bytes": 523,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cmar-vs-design-build.json",
+        "bytes": 524,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preconstruction-assessments.json",
+        "bytes": 528,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-challenges.json",
+        "bytes": 542,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/green-building-practices-guide.json",
+        "bytes": 748,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/7-steps-green-certification.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/calgreen-compliance-2026.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/energy-efficiency-strategies.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainable-materials-guide.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/site-development-best-practices.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/water-efficiency-measures.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/indoor-air-quality-standards.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/net-zero-building-strategies.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/resilient-design-principles.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/leed-certification-overview.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/calgreen-tier-requirements.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/well-health-certification.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/passive-house-standards.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/living-building-challenge.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/integrated-design-process.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/green-incentives-california.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/payback-analysis.json",
+        "bytes": 521,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/construction-waste-mgmt.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/biophilic-design-elements.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/commissioning-process.json",
+        "bytes": 533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/m-v-post-occupancy.json",
+        "bytes": 526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ngbs-residential-green.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/federal-guiding-principles.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-started-checklist.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/radiant-floor-heating-new-construction-guide.json",
+        "bytes": 658,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/electric-radiant-floor-pros-cons-2026.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/diy-radiant-floor-heating-install.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hydronic-radiant-floor-heating-guide.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/underfloor-heating-design-guide.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/best-underfloor-systems-2026.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comprehensive-radiant-heating-guide.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/successful-radiant-install-tips.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/electric-vs-hydronic-comparison.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/safety-emf-concerns.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/flooring-compatibility-guide.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-per-sq-ft-breakdown.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/heat-up-time-expectations.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thermostat-selection-guide.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-zoning-applications.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/slab-vs-retrofit-methods.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/energy-bill-impact-calc.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/warranty-coverage-details.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/troubleshooting-no-heat.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pet-safety-considerations.json",
+        "bytes": 519,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/commercial-ti-complete-guide.json",
+        "bytes": 629,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tenant-improvements-owners-tenants.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ti-process-every-phase.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/commercial-ti-projects-guide.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/retail-ti-industry-applications.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/office-ti-layout-solutions.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/warehouse-ti-storage-upgrades.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/restaurant-ti-workflow-fixes.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ti-allowance-negotiations.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ti-cost-per-sq-ft-2026.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/turnkey-vs-vanilla-ti.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ti-lease-legal-terms.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/project-management-ti.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/material-selection-ti.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainability-ti-practices.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-for-commercial-ti.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ti-engineering-2026.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-ti-project-types.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ti-budgeting-best-practices.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/professional-hiring-ti.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ti-completion-inspection.json",
+        "bytes": 524,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ti-for-investors-guide.json",
+        "bytes": 513,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tenant-finish-projects-guide.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ti-planning-foundations.json",
+        "bytes": 518,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoid-ti-mistakes.json",
+        "bytes": 528,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/takeover-agreement-basics.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/contractor-default-procedures.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/drafting-takeover-agreements.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/surety-takeover-mechanics.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/far-default-termination.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/default-procedure-steps.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/owner-obligations-takeover.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/surety-completion-options.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/payment-handling-post-default.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/change-orders-takeover.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/liquidated-damages-negotiation.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/latent-defects-liability.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/completion-contractor-selection.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/new-completion-schedule.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dbe-requirements-takeover.json",
+        "bytes": 527,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lender-protections-takeover.json",
+        "bytes": 545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/risks-for-completion-contractor.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/surety-pre-takeover-due-diligence.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dispute-resolution-takeover.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/owner-claims-limits.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/takeover-vs-rebid.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/notice-cure-periods.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tripartite-agreement-use.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/materials-ownership-default.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/default-termination-avoidance.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-contractor-expert-witness.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/construction-dispute-expert-role.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/construction-litigation-guide.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/selecting-construction-experts.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/contractor-licensing-experts.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hse-construction-witness-services.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/defect-litigation-expert-role.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/california-contractor-witness.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/expert-testimony-impact.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/expert-report-requirements.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/daubert-methodology-standards.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/consulting-vs-testifying-experts.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/delay-claims-analysis.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deposition-preparation-tips.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/trial-testimony-best-practices.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/standard-of-care-opinions.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-estimation-testimony.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/safety-osha-compliance.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/forensic-engineering-role.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/code-compliance-expertise.json",
+        "bytes": 536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multiple-expert-coordination.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/geographic-expertise-need.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/report-writing-excellence.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prior-testimony-disclosure.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/expert-practice-building.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/takeover-agreement-explained.json",
+        "bytes": 618,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/default-termination-procedures.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/drafting-takeover-contracts.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/surety-takeover-nuts-bolts.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fixing-bad-contractor-work.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/who-pays-for-previous-mistakes.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/new-contractor-responsibilities.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cure-notice-before-firing.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hidden-problems-from-old-work.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/timeline-after-takeover-starts.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/keeping-old-subcontractors.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-for-takeover-work.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/change-requests-mid-takeover.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/final-inspection-process.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/team-members-role-in-takeovers.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/documents-new-contractor-needs.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/surety-refusal-scenarios.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-overruns-in-takeover.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/original-contractor-lawsuits.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bond-requirements-for-new-contractor.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-future-defaults.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/takeover-vs-full-rebid-speed.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/site-access-after-default.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/materials-from-old-contractor.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/insurance-during-takeover.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-new-home-building-steps.json",
+        "bytes": 630,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/land-custom-build-guide.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-custom-home-features.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-build-custom-in-2026.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-custom-planning-strategy.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-home-design-trends.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/luxury-custom-trends-2026.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-luxury-interiors.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2026-building-trends.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/high-end-2026-interiors.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/site-truth-in-design.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/early-material-selection.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permit-sequencing.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rochester-custom-expertise.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/value-add-features.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-2026-trends.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/color-trends-2026.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fha-custom-financing.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/contractor-vetting-process.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permit-types-list.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-vs-resale-benefits.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/flexible-space-design.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainable-envelope.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-construction-pacing.json",
+        "bytes": 548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/local-builder-advantages.json",
+        "bytes": 545,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/behr-construction-office.json",
+        "bytes": 396,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations/behr-construction.json",
+        "bytes": 349,
+        "purpose": "schema"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards/top-500-remodeling-companies-in-the-u-s.json",
+        "bytes": 382,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/crescenta-valley-weekly-finest-general-contractor.json",
+        "bytes": 409,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/beach-condo-water-damage-restoration.json",
+        "bytes": 793,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/1960s-ranch-house-total-remodel.json",
+        "bytes": 649,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/aged-home-restoration-for-zaun-family.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/kitchen-remodel-in-5-5-weeks.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/covid-era-deck-and-home-remodel.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/14-year-multi-project-relationship.json",
+        "bytes": 742,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/sherman-oaks-home-addition.json",
+        "bytes": 554,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/behr-construction-organization.json",
+        "bytes": 7460,
+        "purpose": "schema"
+      }
+    ],
+    "press": [
+      {
+        "path": "press/post-storm-rebuilding-raises-california-construction-prices.json",
+        "bytes": 390,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/chris-behr-on-cbs-2-news.json",
+        "bytes": 348,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/chris-behr-on-kcal-9.json",
+        "bytes": 340,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/chris-behr-on-knx-news-radio.json",
+        "bytes": 356,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/asid-pasadena-chapter-2014-kitchen-and-home-tour-feature.json",
+        "bytes": 354,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/exceptional-remodel-during-covid-1-review.json",
+        "bytes": 460,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/highly-recommend-behr-construction-2-review.json",
+        "bytes": 513,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/positive-remodel-experience-3-review.json",
+        "bytes": 432,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/terrific-home-addition-4-review.json",
+        "bytes": 430,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/rescue-after-pin-hole-leak-5-review.json",
+        "bytes": 393,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/great-kitchen-upgrade-6-review.json",
+        "bytes": 383,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/reliable-roof-repairs-7-review.json",
+        "bytes": 439,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/zaun-family-restoration-8-review.json",
+        "bytes": 453,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/kitchen-in-5-5-weeks-9-review.json",
+        "bytes": 420,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/family-room-and-kitchen-remodel-10-review.json",
+        "bytes": 431,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/responsive-repairs-and-additions-11-review.json",
+        "bytes": 445,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/1929-home-remodel-12-review.json",
+        "bytes": 379,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/kitchen-and-driveway-13-review.json",
+        "bytes": 383,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/asid-tour-house-remodel-14-review.json",
+        "bytes": 407,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/beach-condo-restoration-15-review.json",
+        "bytes": 387,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/10-years-of-quality-work-16-review.json",
+        "bytes": 371,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/new-house-build-17-review.json",
+        "bytes": 361,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/pin-hole-leak-rescue-18-review.json",
+        "bytes": 387,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/great-kitchen-upgrade-19-review.json",
+        "bytes": 383,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/reliable-roof-repairs-20-review.json",
+        "bytes": 394,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/exceptional-remodel-during-covid-21-review.json",
+        "bytes": 372,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/highly-recommend-behr-construction-22-review.json",
+        "bytes": 391,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/positive-remodel-experience-23-review.json",
+        "bytes": 372,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/terrific-home-addition-24-review.json",
+        "bytes": 357,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/family-room-and-kitchen-remodel-25-review.json",
+        "bytes": 348,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/pin-hole-leak-rescue-26-review.json",
+        "bytes": 373,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/great-kitchen-upgrade-27-review.json",
+        "bytes": 373,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/reliable-roof-repairs-28-review.json",
+        "bytes": 356,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/exceptional-remodel-during-covid-29-review.json",
+        "bytes": 347,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/house-condo-restoration-30-review.json",
+        "bytes": 361,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 24591,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 105903,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 27443,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 35478,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 15708,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 146695,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 166196,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 23976,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 91147,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 325,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 1222,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 360,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 205,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1404,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 275653,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 77548,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 77548,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 1262,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 80432,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 85065,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 1084,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/behr-construction-ai-schemas-4knd",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/behr-construction-ai-schemas-4knd"
+    }
+  }
+}
