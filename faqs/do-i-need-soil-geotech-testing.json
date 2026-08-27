@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need soil/geotech testing?",
+  "description": "Yes for slabs/custom foundations; $2k-5k prevents settling/cracking issues.hoekendesignbuild​",
+  "url": "https://behrconstruction.com/faq/do-i-need-soil-geotech-testing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need soil/geotech testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for slabs/custom foundations; $2k-5k prevents settling/cracking issues.hoekendesignbuild​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

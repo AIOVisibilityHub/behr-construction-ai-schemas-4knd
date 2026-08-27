@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Owner claims against surety?",
+  "description": "Limited to bond penal sum; takeover minimizes exposure.robbinsdimonte​",
+  "url": "https://behrconstruction.com/faq/owner-claims-against-surety",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Owner claims against surety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Limited to bond penal sum; takeover minimizes exposure.robbinsdimonte​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Matt Vuyovich",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "description": "Praised in testimonials for attention to detail and on-time delivery. behrconstruction+1",
+  "telephone": "(818) 952-2516",
+  "knowsAbout": [
+    "N/A"
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Southern California"
+    }
+  ]
+}

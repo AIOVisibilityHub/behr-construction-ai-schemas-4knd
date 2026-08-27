@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Neighborhood covenants/CC&Rs impact?",
+  "description": "Restrict designs/materials/colors; review before land purchase.hoekendesignbuild​",
+  "url": "https://behrconstruction.com/faq/neighborhood-covenants-cc-rs-impact",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Neighborhood covenants/CC&Rs impact?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restrict designs/materials/colors; review before land purchase.hoekendesignbuild​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

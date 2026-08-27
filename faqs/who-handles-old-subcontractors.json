@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who handles old subcontractors?",
+  "description": "Surety coordinates; may keep if reliable, pays from contract funds.txdot​",
+  "url": "https://behrconstruction.com/faq/who-handles-old-subcontractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who handles old subcontractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surety coordinates; may keep if reliable, pays from contract funds.txdot​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can the surety make the bad contractor finish?",
+  "description": "Yes; surety can rehire original with owner consent, or pick new completion contractor.sweeneylawpa+1",
+  "url": "https://behrconstruction.com/faq/can-the-surety-make-the-bad-contractor-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the surety make the bad contractor finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; surety can rehire original with owner consent, or pick new completion contractor.sweeneylawpa+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

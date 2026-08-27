@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Weather delay protections?",
+  "description": "Force majeure clause; liquidated damages only after responsible delays.krmcustomhomes​",
+  "url": "https://behrconstruction.com/faq/weather-delay-protections",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Weather delay protections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Force majeure clause; liquidated damages only after responsible delays.krmcustomhomes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

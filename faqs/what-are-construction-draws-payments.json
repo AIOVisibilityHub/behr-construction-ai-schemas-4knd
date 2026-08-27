@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are construction draws/payments?",
+  "description": "Progress payments at milestones (foundation 10%, framing 20%); lien waivers required.gjgardner​",
+  "url": "https://behrconstruction.com/faq/what-are-construction-draws-payments",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are construction draws/payments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Progress payments at milestones (foundation 10%, framing 20%); lien waivers required.gjgardner​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

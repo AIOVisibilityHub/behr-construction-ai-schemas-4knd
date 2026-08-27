@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can experts testify on safety?",
+  "description": "Yes; OSHA compliance, work zone safety, accident reconstruction.hsecontractors+1",
+  "url": "https://behrconstruction.com/faq/can-experts-testify-on-safety",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can experts testify on safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; OSHA compliance, work zone safety, accident reconstruction.hsecontractors+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

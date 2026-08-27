@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Handle code compliance opinions?",
+  "description": "Yes; local/state building codes, permit requirements, variances.hsecontractors+1",
+  "url": "https://behrconstruction.com/faq/handle-code-compliance-opinions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Handle code compliance opinions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; local/state building codes, permit requirements, variances.hsecontractors+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

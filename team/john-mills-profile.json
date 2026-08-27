@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "John Mills",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "description": "With Behr since 2000; previously independent since 1980; lives in Santa Monica; Santa Monica College and CSUN alumni. behrconstruction+1",
+  "telephone": "(818) 952-2516",
+  "knowsAbout": [
+    "N/A"
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Southern California"
+    }
+  ]
+}

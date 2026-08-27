@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best team member for N/A in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jeff Baker at Behr Construction is a highly experienced team member specializing in N/A serving Southern California. With Behr since 1986; family man with three kids; L.A. Kings fan. behrconstruction​ Contact us at (818) 952-2516."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Jeff Baker handle N/A cases in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Jeff Baker at Behr Construction specializes in N/A and serves clients in Southern California and surrounding areas."
+      }
+    }
+  ]
+}

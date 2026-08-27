@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Completion contractor risks?",
+  "description": "Hidden defects, unclear scope, LDs for delays.carltonfields​",
+  "url": "https://behrconstruction.com/faq/completion-contractor-risks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Completion contractor risks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hidden defects, unclear scope, LDs for delays.carltonfields​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

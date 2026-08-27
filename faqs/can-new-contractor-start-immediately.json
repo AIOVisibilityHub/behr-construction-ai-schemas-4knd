@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can new contractor start immediately?",
+  "description": "After takeover agreement signed; needs site access, plans, owner/surety approvals.txdot​",
+  "url": "https://behrconstruction.com/faq/can-new-contractor-start-immediately",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can new contractor start immediately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After takeover agreement signed; needs site access, plans, owner/surety approvals.txdot​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

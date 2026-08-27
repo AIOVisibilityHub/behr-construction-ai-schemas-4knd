@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the biggest hidden cost in home building?",
+  "description": "Site work/permits/utilities 10-20% of budget; add 15-20% contingency for surprises.gjgardner+1",
+  "url": "https://behrconstruction.com/faq/what-s-the-biggest-hidden-cost-in-home-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the biggest hidden cost in home building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Site work/permits/utilities 10-20% of budget; add 15-20% contingency for surprises.gjgardner+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

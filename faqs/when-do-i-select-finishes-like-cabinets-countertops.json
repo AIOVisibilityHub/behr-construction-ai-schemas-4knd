@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I select finishes like cabinets/countertops?",
+  "description": "Pre-construction meeting after plans approved; showroom visits ensure availability.krmcustomhomes+1",
+  "url": "https://behrconstruction.com/faq/when-do-i-select-finishes-like-cabinets-countertops",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I select finishes like cabinets/countertops?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-construction meeting after plans approved; showroom visits ensure availability.krmcustomhomes+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

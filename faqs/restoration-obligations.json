@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Restoration obligations?",
+  "description": "Return to vanilla shell; exceptions for approved improvements.darroweverett​",
+  "url": "https://behrconstruction.com/faq/restoration-obligations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Restoration obligations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Return to vanilla shell; exceptions for approved improvements.darroweverett​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

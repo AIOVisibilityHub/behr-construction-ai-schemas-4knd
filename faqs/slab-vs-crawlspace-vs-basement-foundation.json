@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Slab vs crawlspace vs basement foundation?",
+  "description": "Slab cheapest/fastest; crawlspace for utilities; basement expensive but adds space.newhomesource​",
+  "url": "https://behrconstruction.com/faq/slab-vs-crawlspace-vs-basement-foundation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Slab vs crawlspace vs basement foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Slab cheapest/fastest; crawlspace for utilities; basement expensive but adds space.newhomesource​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

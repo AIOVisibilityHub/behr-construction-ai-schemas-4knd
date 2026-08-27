@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Third-party inspections needed?",
+  "description": "Yes at foundation, framing, final; $500-1k catches issues early.hoekendesignbuild​",
+  "url": "https://behrconstruction.com/faq/third-party-inspections-needed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Third-party inspections needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes at foundation, framing, final; $500-1k catches issues early.hoekendesignbuild​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

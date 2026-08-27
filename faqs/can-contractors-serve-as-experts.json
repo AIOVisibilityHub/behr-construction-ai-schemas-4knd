@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can contractors serve as experts?",
+  "description": "Yes; extensive field experience preferred over pure academics.leaders-in-law+1",
+  "url": "https://behrconstruction.com/faq/can-contractors-serve-as-experts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can contractors serve as experts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; extensive field experience preferred over pure academics.leaders-in-law+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does expert involvement last?",
+  "description": "Discovery to trial; site visits, depositions, report deadlines, testimony.leaders-in-law+1",
+  "url": "https://behrconstruction.com/faq/how-long-does-expert-involvement-last",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does expert involvement last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Discovery to trial; site visits, depositions, report deadlines, testimony.leaders-in-law+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

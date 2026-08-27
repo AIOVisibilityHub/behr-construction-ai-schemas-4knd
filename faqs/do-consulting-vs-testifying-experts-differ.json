@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do consulting vs testifying experts differ?",
+  "description": "Consulting: protected analysis early; testifying: disclosed opinions for trial.rimkus​",
+  "url": "https://behrconstruction.com/faq/do-consulting-vs-testifying-experts-differ",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do consulting vs testifying experts differ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consulting: protected analysis early; testifying: disclosed opinions for trial.rimkus​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

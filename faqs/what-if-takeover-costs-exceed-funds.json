@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if takeover costs exceed funds?",
+  "description": "Surety covers excess up to bond limit; owner not liable beyond contract balance.robbinsdimonte​",
+  "url": "https://behrconstruction.com/faq/what-if-takeover-costs-exceed-funds",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if takeover costs exceed funds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surety covers excess up to bond limit; owner not liable beyond contract balance.robbinsdimonte​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

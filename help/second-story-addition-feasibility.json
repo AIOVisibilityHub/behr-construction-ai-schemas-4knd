@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Second-Story Addition Feasibility",
+  "author": {
+    "@type": "Organization",
+    "name": "Behr Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "articleBody": "Requires foundation reinforcement check; $50k+ extra costs. schatz-construction​",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Southern California"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

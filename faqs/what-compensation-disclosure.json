@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What compensation disclosure?",
+  "description": "Hourly rates, total fees, prior case list required in reports.rimkus​",
+  "url": "https://behrconstruction.com/faq/what-compensation-disclosure",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What compensation disclosure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hourly rates, total fees, prior case list required in reports.rimkus​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

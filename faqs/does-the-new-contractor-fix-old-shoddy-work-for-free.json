@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does the new contractor fix old shoddy work for free?",
+  "description": "No; agreement specifies original contractor liable for defects; new one handles only remaining scope.sweeneylawpa​",
+  "url": "https://behrconstruction.com/faq/does-the-new-contractor-fix-old-shoddy-work-for-free",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does the new contractor fix old shoddy work for free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No; agreement specifies original contractor liable for defects; new one handles only remaining scope.sweeneylawpa​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

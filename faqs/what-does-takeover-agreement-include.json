@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does takeover agreement include?",
+  "description": "Original contract default confirmation, remaining scope, adjusted completion date, payments/retainage, change orders, damages, defects responsibility.sweeneylaw",
+  "url": "https://behrconstruction.com/faq/what-does-takeover-agreement-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does takeover agreement include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Original contract default confirmation, remaining scope, adjusted completion date, payments/retainage, change orders, damages, defects responsibility.sweeneylawpa+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

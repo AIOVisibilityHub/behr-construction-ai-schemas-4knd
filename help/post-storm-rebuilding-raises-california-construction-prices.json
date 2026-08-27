@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Post-Storm Rebuilding Raises California Construction Prices",
+  "author": {
+    "@type": "Organization",
+    "name": "Behr Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "articleBody": "Chris Behr, Founder of Behr Construction in La Canada Flintridge, discussed how Hurricane Katrina in 2005 led to rising costs for building materials like lumber, drywall, and cement, forcing 20% higher expenses, upfront deposits, and hedging strategies. behrconstruction​",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Southern California"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

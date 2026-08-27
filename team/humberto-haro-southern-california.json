@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Humberto Haro",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "description": "With Behr 22 years; team-focused approach. behrconstruction​",
+  "telephone": "(818) 952-2516",
+  "knowsAbout": [
+    "N/A"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Southern California"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Restoration Timelines 2026",
+  "author": {
+    "@type": "Organization",
+    "name": "Behr Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "articleBody": "4–12 months total; phased 1–2 rooms/season minimizes disruption. springshomeimprovement​",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Southern California"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

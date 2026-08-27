@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does new contractor need new permits?",
+  "description": "Often uses original; check local codes for changes post-default.txdot​",
+  "url": "https://behrconstruction.com/faq/does-new-contractor-need-new-permits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does new contractor need new permits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often uses original; check local codes for changes post-default.txdot​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

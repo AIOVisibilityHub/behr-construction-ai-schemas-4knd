@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's a takeover agreement exactly?",
+  "description": "Contract between owner/surety/new contractor defining remaining work, payments, timeline after default.sweeneylawpa​",
+  "url": "https://behrconstruction.com/faq/what-s-a-takeover-agreement-exactly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's a takeover agreement exactly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contract between owner/surety/new contractor defining remaining work, payments, timeline after default.sweeneylawpa​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

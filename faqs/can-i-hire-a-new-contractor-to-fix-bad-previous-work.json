@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I hire a new contractor to fix bad previous work?",
+  "description": "Yes; new contractor assesses damage, gets owner/surety approval, uses remaining contract funds minus fixes for original faults.sweeneylawpa+1",
+  "url": "https://behrconstruction.com/faq/can-i-hire-a-new-contractor-to-fix-bad-previous-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I hire a new contractor to fix bad previous work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; new contractor assesses damage, gets owner/surety approval, uses remaining contract funds minus fixes for original faults.sweeneylawpa+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

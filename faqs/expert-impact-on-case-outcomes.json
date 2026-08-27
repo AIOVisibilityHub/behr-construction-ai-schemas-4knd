@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Expert impact on case outcomes?",
+  "description": "Clarifies technical issues, bolsters arguments, influences settlements.litiligroup​",
+  "url": "https://behrconstruction.com/faq/expert-impact-on-case-outcomes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Expert impact on case outcomes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clarifies technical issues, bolsters arguments, influences settlements.litiligroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

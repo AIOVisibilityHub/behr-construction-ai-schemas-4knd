@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When does surety takeover occur?",
+  "description": "After owner terminates contractor for default (cause + notice); surety has options: takeover, new contractor, or finish payment.txdot+1",
+  "url": "https://behrconstruction.com/faq/when-does-surety-takeover-occur",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does surety takeover occur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After owner terminates contractor for default (cause + notice); surety has options: takeover, new contractor, or finish payment.txdot+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

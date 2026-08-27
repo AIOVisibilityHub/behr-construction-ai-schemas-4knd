@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Expert role in defect litigation?",
+  "description": "Identify failure causes, responsibility attribution, repair scope/costs.macyhanson​",
+  "url": "https://behrconstruction.com/faq/expert-role-in-defect-litigation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Expert role in defect litigation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Identify failure causes, responsibility attribution, repair scope/costs.macyhanson​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

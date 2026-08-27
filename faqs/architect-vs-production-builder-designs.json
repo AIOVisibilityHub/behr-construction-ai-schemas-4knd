@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Architect vs production builder designs?",
+  "description": "Architect: fully custom (expensive, 10-15% of budget); production: modify existing plans (faster, cheaper).gjgardner​",
+  "url": "https://behrconstruction.com/faq/architect-vs-production-builder-designs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Architect vs production builder designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Architect: fully custom (expensive, 10-15% of budget); production: modify existing plans (faster, cheaper).gjgardner​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to choose right contractor expert?",
+  "description": "Case-specific experience, local code knowledge, unbiased opinions, strong testimony track record.leaders-in-law​",
+  "url": "https://behrconstruction.com/faq/how-to-choose-right-contractor-expert",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to choose right contractor expert?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Case-specific experience, local code knowledge, unbiased opinions, strong testimony track record.leaders-in-law​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

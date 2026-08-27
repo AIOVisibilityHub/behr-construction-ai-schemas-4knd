@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Disclose prior testimony?",
+  "description": "Yes; last 4 years cases listed in reports for bias evaluation.rimkus​",
+  "url": "https://behrconstruction.com/faq/disclose-prior-testimony",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Disclose prior testimony?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; last 4 years cases listed in reports for bias evaluation.rimkus​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

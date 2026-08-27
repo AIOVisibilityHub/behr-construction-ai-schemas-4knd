@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Change orders post-takeover?",
+  "description": "Defined process; pending orders analyzed/credited.carltonfields​",
+  "url": "https://behrconstruction.com/faq/change-orders-post-takeover",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Change orders post-takeover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Defined process; pending orders analyzed/credited.carltonfields​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

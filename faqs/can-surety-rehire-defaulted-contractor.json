@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can surety rehire defaulted contractor?",
+  "description": "Yes, with owner consent; surety selects completion contractor.sweeneylawpa+1",
+  "url": "https://behrconstruction.com/faq/can-surety-rehire-defaulted-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can surety rehire defaulted contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with owner consent; surety selects completion contractor.sweeneylawpa+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

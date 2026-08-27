@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Federal FAR takeover rules?",
+  "description": "Applies to fixed-price construction; surety proposes completion; tripartite agreement possible.acquisition​",
+  "url": "https://behrconstruction.com/faq/federal-far-takeover-rules",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Federal FAR takeover rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applies to fixed-price construction; surety proposes completion; tripartite agreement possible.acquisition​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

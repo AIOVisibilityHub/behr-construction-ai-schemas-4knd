@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What qualifications make a good contractor expert?",
+  "description": "Licensed contractor (20+ years experience), PE license preferred, case-relevant projects, publications, clear communication.leaders-in-law+1",
+  "url": "https://behrconstruction.com/faq/what-qualifications-make-a-good-contractor-expert",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What qualifications make a good contractor expert?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Licensed contractor (20+ years experience), PE license preferred, case-relevant projects, publications, clear communication.leaders-in-law+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I fire the bad contractor first?",
+  "description": "Send written default notice listing failures + cure period (10+ days); then terminate with surety notification.txdot+1",
+  "url": "https://behrconstruction.com/faq/how-do-i-fire-the-bad-contractor-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I fire the bad contractor first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Send written default notice listing failures + cure period (10+ days); then terminate with surety notification.txdot+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

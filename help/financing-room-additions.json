@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Financing Room Additions",
+  "author": {
+    "@type": "Organization",
+    "name": "Behr Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "articleBody": "HELOC, construction loans, cash-out refinance; 7–9% rates. fbfs​",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Southern California"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Bathroom Remodel Trends 2026",
+  "author": {
+    "@type": "Organization",
+    "name": "Behr Construction"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Behr Construction",
+    "url": "https://behrconstruction.com"
+  },
+  "articleBody": "Modern minimalism, sustainable designs, spa features, small space solutions, luxury elements like freestanding tubs. goodlifeconstruction​",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Southern California"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

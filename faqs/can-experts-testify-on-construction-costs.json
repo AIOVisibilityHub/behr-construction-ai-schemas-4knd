@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can experts testify on construction costs?",
+  "description": "Yes; estimate reasonable costs, analyze overruns, value engineering, change order justification.hsecontractors+1",
+  "url": "https://behrconstruction.com/faq/can-experts-testify-on-construction-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can experts testify on construction costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; estimate reasonable costs, analyze overruns, value engineering, change order justification.hsecontractors+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

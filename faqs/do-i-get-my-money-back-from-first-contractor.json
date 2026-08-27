@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I get my money back from first contractor?",
+  "description": "Surety pursues original contractor/subcontractors; owner gets project completed, not direct refund.robbinsdimonte​",
+  "url": "https://behrconstruction.com/faq/do-i-get-my-money-back-from-first-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I get my money back from first contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surety pursues original contractor/subcontractors; owner gets project completed, not direct refund.robbinsdimonte​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
