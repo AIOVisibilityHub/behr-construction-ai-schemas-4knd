@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Neighborhood/historic restrictions?",
+  "description": "HOA/landmarks board review plans; variances needed for changes. gaboconstruction​",
+  "url": "https://behrconstruction.com/faq/neighborhood-historic-restrictions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Neighborhood/historic restrictions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HOA/landmarks board review plans; variances needed for changes. gaboconstruction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

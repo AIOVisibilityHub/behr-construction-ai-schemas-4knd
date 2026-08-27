@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Thermostat/programming needs?",
+  "description": "Floor-sensing thermostat required (not air-only); programmable saves 10-20%.warmyourfloor+1",
+  "url": "https://behrconstruction.com/faq/thermostat-programming-needs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Thermostat/programming needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Floor-sensing thermostat required (not air-only); programmable saves 10-20%.warmyourfloor+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

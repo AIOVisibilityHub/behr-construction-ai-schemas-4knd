@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Common kitchen remodel mistakes?",
+  "description": "Underbudgeting (add 20%), poor planning, trend-chasing over function. allreno​",
+  "url": "https://behrconstruction.com/faq/common-kitchen-remodel-mistakes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Common kitchen remodel mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Underbudgeting (add 20%), poor planning, trend-chasing over function. allreno​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

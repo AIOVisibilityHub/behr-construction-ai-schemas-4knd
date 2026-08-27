@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Permits needed for TI?",
+  "description": "Yes for electrical/plumbing/structural; landlord provides CO after completion.wellsandwest+1",
+  "url": "https://behrconstruction.com/faq/permits-needed-for-ti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Permits needed for TI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for electrical/plumbing/structural; landlord provides CO after completion.wellsandwest+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

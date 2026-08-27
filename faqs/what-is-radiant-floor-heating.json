@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is radiant floor heating?",
+  "description": "Heating system embedded in floor (electric cables/mats or hydronic tubing) that warms floor surface, radiating heat upward to warm objects/people directly vs ai",
+  "url": "https://behrconstruction.com/faq/what-is-radiant-floor-heating",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is radiant floor heating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heating system embedded in floor (electric cables/mats or hydronic tubing) that warms floor surface, radiating heat upward to warm objects/people directly vs air.warmyourfloor+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

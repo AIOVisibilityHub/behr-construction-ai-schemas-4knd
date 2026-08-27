@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can ADU be sold separately?",
+  "description": "No, tied to primary property. bwslaw​",
+  "url": "https://behrconstruction.com/faq/can-adu-be-sold-separately",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can ADU be sold separately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, tied to primary property. bwslaw​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

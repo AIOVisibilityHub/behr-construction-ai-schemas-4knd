@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to avoid over-restoring?",
+  "description": "Focus on code/safety first; enhancements secondary to authenticity. springshomeimprovement​",
+  "url": "https://behrconstruction.com/faq/how-to-avoid-over-restoring",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to avoid over-restoring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Focus on code/safety first; enhancements secondary to authenticity. springshomeimprovement​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does WELL certification work?",
+  "description": "Health-focused: air/water/light/fitness/thermal comfort; Silver $12k-$20k, 8-14 months.greenberg​",
+  "url": "https://behrconstruction.com/faq/how-does-well-certification-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does WELL certification work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Health-focused: air/water/light/fitness/thermal comfort; Silver $12k-$20k, 8-14 months.greenberg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

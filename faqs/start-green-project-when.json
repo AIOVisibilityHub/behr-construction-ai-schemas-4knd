@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Start green project when?",
+  "description": "Design phase; retrofit harder/costlier.greenberg​",
+  "url": "https://behrconstruction.com/faq/start-green-project-when",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Start green project when?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design phase; retrofit harder/costlier.greenberg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

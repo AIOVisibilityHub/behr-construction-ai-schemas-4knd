@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Legal risks in design-build?",
+  "description": "Single responsibility reduces owner liability; clear contracts essential for scope changes.wikipedia​",
+  "url": "https://behrconstruction.com/faq/legal-risks-in-design-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Legal risks in design-build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Single responsibility reduces owner liability; clear contracts essential for scope changes.wikipedia​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

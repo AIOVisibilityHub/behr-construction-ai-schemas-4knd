@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for kitchen work?",
+  "description": "Yes for electrical/plumbing/layout changes; 4–8 weeks processing. usacabinetstore​",
+  "url": "https://behrconstruction.com/faq/do-i-need-permits-for-kitchen-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for kitchen work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for electrical/plumbing/layout changes; 4–8 weeks processing. usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

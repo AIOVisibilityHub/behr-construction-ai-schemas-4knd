@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Sustainable materials criteria?",
+  "description": "Recycled/regional/low-emission; construction waste 65% diversion.greenberg​",
+  "url": "https://behrconstruction.com/faq/sustainable-materials-criteria",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Sustainable materials criteria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recycled/regional/low-emission; construction waste 65% diversion.greenberg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

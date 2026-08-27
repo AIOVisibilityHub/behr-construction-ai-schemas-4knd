@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Recertification timeline?",
+  "description": "LEED every 5 years; operational performance measured.wbdg​",
+  "url": "https://behrconstruction.com/faq/recertification-timeline",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Recertification timeline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LEED every 5 years; operational performance measured.wbdg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

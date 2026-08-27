@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does it work under existing floors?",
+  "description": "No; requires subfloor access (new construction/renovation ideal).warmlyyours​",
+  "url": "https://behrconstruction.com/faq/does-it-work-under-existing-floors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does it work under existing floors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No; requires subfloor access (new construction/renovation ideal).warmlyyours​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

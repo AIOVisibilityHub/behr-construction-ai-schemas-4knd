@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I stay home during remodel?",
+  "description": "Temporary kitchen setup possible; major plumbing/electrical requires relocation. allreno​",
+  "url": "https://behrconstruction.com/faq/can-i-stay-home-during-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I stay home during remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Temporary kitchen setup possible; major plumbing/electrical requires relocation. allreno​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

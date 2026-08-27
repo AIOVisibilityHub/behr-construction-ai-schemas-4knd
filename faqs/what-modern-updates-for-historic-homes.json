@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What modern updates for historic homes?",
+  "description": "Energy-efficient windows/HVAC hidden in original style; smart tech concealed. southernliving​",
+  "url": "https://behrconstruction.com/faq/what-modern-updates-for-historic-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What modern updates for historic homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Energy-efficient windows/HVAC hidden in original style; smart tech concealed. southernliving​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common surprises in old homes?",
+  "description": "Rotting floors, outdated wiring/plumbing, asbestos, mold, foundation issues; budget 15–25% contingency. behrconstruction​",
+  "url": "https://behrconstruction.com/faq/what-are-common-surprises-in-old-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common surprises in old homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rotting floors, outdated wiring/plumbing, asbestos, mold, foundation issues; budget 15–25% contingency. behrconstruction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

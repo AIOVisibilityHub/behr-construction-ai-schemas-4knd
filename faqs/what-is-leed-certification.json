@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is LEED certification?",
+  "description": "Leadership in Energy & Environmental Design: points-based (Certified-Silver-Gold-Platinum) for energy, water, materials, IEQ; $8k-$15k residential.greenberg+1",
+  "url": "https://behrconstruction.com/faq/what-is-leed-certification",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is LEED certification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leadership in Energy & Environmental Design: points-based (Certified-Silver-Gold-Platinum) for energy, water, materials, IEQ; $8k-$15k residential.greenberg+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

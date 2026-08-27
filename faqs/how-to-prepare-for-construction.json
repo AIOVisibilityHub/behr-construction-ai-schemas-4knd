@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to prepare for construction?",
+  "description": "Clear space, protect valuables, set up temp kitchen/bath, notify neighbors/HOA. planforward​",
+  "url": "https://behrconstruction.com/faq/how-to-prepare-for-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to prepare for construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clear space, protect valuables, set up temp kitchen/bath, notify neighbors/HOA. planforward​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

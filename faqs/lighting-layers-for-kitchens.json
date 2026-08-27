@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Lighting layers for kitchens?",
+  "description": "Ambient (recessed), task (under-cabinet), accent (pendants). allreno​",
+  "url": "https://behrconstruction.com/faq/lighting-layers-for-kitchens",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Lighting layers for kitchens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ambient (recessed), task (under-cabinet), accent (pendants). allreno​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Primary vs guest bathroom costs?",
+  "description": "Primary $29k–$50k mid-range (includes custom tile/layout); guest $14k–$22k. usacabinetstore+1",
+  "url": "https://behrconstruction.com/faq/primary-vs-guest-bathroom-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Primary vs guest bathroom costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Primary $29k–$50k mid-range (includes custom tile/layout); guest $14k–$22k. usacabinetstore+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

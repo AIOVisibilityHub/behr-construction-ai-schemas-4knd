@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Structural engineering needs?",
+  "description": "Always for load paths, foundation, roof ties; coastal/wind zones extra calculations. coastalcreekdesign​",
+  "url": "https://behrconstruction.com/faq/structural-engineering-needs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Structural engineering needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always for load paths, foundation, roof ties; coastal/wind zones extra calculations. coastalcreekdesign​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

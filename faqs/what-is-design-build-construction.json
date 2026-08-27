@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is design-build construction?",
+  "description": "Single contract where one entity handles both design (architects/engineers) and construction (contractors/subs), providing owner a single point of contact.horst",
+  "url": "https://behrconstruction.com/faq/what-is-design-build-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is design-build construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Single contract where one entity handles both design (architects/engineers) and construction (contractors/subs), providing owner a single point of contact.horstconstruction+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

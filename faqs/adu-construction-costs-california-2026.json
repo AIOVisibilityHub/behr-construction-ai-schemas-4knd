@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "ADU construction costs California 2026?",
+  "description": "$200–$400/sq ft; prefab lowers to $150–$250/sq ft. nestadu​",
+  "url": "https://behrconstruction.com/faq/adu-construction-costs-california-2026",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "ADU construction costs California 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$200–$400/sq ft; prefab lowers to $150–$250/sq ft. nestadu​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

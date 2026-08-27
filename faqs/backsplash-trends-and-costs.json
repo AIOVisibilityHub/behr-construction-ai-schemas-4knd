@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Backsplash trends and costs?",
+  "description": "Subway/large format tile $20–$60/sq ft installed. usacabinetstore​",
+  "url": "https://behrconstruction.com/faq/backsplash-trends-and-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Backsplash trends and costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Subway/large format tile $20–$60/sq ft installed. usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

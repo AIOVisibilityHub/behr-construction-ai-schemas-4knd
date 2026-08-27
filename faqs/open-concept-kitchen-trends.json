@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Open concept kitchen trends?",
+  "description": "Wall removal common; support beams if structural. gomezcontractors​",
+  "url": "https://behrconstruction.com/faq/open-concept-kitchen-trends",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Open concept kitchen trends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wall removal common; support beams if structural. gomezcontractors​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

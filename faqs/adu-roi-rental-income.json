@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "ADU ROI/rental income?",
+  "description": "$2.5k–$5k/month SoCal; 8–12% annual return. aduwestcoast​",
+  "url": "https://behrconstruction.com/faq/adu-roi-rental-income",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "ADU ROI/rental income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$2.5k–$5k/month SoCal; 8–12% annual return. aduwestcoast​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

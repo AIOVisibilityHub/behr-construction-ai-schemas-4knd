@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Prep for bathroom remodel?",
+  "description": "Clear space, protect adjacent areas, temp facilities. thisoldhouse​",
+  "url": "https://behrconstruction.com/faq/prep-for-bathroom-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Prep for bathroom remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clear space, protect adjacent areas, temp facilities. thisoldhouse​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

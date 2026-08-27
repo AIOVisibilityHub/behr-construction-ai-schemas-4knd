@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What inspections for old homes?",
+  "description": "Structural, electrical, plumbing, radon, mold, pests before starting. gaboconstruction​",
+  "url": "https://behrconstruction.com/faq/what-inspections-for-old-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What inspections for old homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structural, electrical, plumbing, radon, mold, pests before starting. gaboconstruction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

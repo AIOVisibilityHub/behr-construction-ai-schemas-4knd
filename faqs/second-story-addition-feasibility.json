@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Second-story addition feasibility?",
+  "description": "Check existing foundation capacity; often requires reinforcement. schatz-construction​",
+  "url": "https://behrconstruction.com/faq/second-story-addition-feasibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Second-story addition feasibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check existing foundation capacity; often requires reinforcement. schatz-construction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

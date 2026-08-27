@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to choose bathroom contractor?",
+  "description": "Licensed/insured, portfolio/reviews, detailed contract with timeline. usathomes​",
+  "url": "https://behrconstruction.com/faq/how-to-choose-bathroom-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to choose bathroom contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Licensed/insured, portfolio/reviews, detailed contract with timeline. usathomes​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

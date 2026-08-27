@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who approves TI plans?",
+  "description": "Landlord (aesthetic/quality standards), local permits/codes; timelines for review/deemed approval.darroweverett​",
+  "url": "https://behrconstruction.com/faq/who-approves-ti-plans",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who approves TI plans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Landlord (aesthetic/quality standards), local permits/codes; timelines for review/deemed approval.darroweverett​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Preserve or update kitchen/bath?",
+  "description": "Blend: period fronts on modern appliances/cabinets for function. southernliving​",
+  "url": "https://behrconstruction.com/faq/preserve-or-update-kitchen-bath",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Preserve or update kitchen/bath?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blend: period fronts on modern appliances/cabinets for function. southernliving​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

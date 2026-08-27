@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What ROI on room additions?",
+  "description": "50–70% recouped; primary suite/office highest value additions. davefox​",
+  "url": "https://behrconstruction.com/faq/what-roi-on-room-additions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What ROI on room additions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "50–70% recouped; primary suite/office highest value additions. davefox​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Zoning/multiple thermostats?",
+  "description": "Yes; separate mats/thermostats per room/area.thermosoft​",
+  "url": "https://behrconstruction.com/faq/zoning-multiple-thermostats",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Zoning/multiple thermostats?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; separate mats/thermostats per room/area.thermosoft​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an ADU?",
+  "description": "Accessory Dwelling Unit: secondary housing unit on same lot as primary residence; attached, detached, or converted garage; includes kitchen/bath/living. nestadu",
+  "url": "https://behrconstruction.com/faq/what-is-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Accessory Dwelling Unit: secondary housing unit on same lot as primary residence; attached, detached, or converted garage; includes kitchen/bath/living. nestadu+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

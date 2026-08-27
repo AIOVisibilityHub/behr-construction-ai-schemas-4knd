@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-approved ADU plans available?",
+  "description": "Yes, required by AB 434; cities post online by Jan 2026. aduwestcoast​",
+  "url": "https://behrconstruction.com/faq/pre-approved-adu-plans-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-approved ADU plans available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, required by AB 434; cities post online by Jan 2026. aduwestcoast​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

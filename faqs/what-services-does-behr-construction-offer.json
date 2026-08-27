@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What services does Behr Construction offer?",
+  "description": "Full-service construction including custom home remodeling, restoration, new construction, room additions, repairs, alterations, kitchen and bathroom remodeling",
+  "url": "https://behrconstruction.com/faq/what-services-does-behr-construction-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What services does Behr Construction offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full-service construction including custom home remodeling, restoration, new construction, room additions, repairs, alterations, kitchen and bathroom remodeling, commercial projects, sustainable building, default take-overs, and expert witnessing. behrconstruction+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

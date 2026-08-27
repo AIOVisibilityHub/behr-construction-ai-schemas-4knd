@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Bathroom vs whole house use?",
+  "description": "Bathrooms ideal (toilet area zoning); whole house possible with zoning.warmyourfloor​",
+  "url": "https://behrconstruction.com/faq/bathroom-vs-whole-house-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Bathroom vs whole house use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bathrooms ideal (toilet area zoning); whole house possible with zoning.warmyourfloor​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

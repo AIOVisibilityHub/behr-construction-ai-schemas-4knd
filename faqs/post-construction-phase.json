@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Post-construction phase?",
+  "description": "Warranty, commissioning, owner training, punch list.korteco​",
+  "url": "https://behrconstruction.com/faq/post-construction-phase",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Post-construction phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Warranty, commissioning, owner training, punch list.korteco​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

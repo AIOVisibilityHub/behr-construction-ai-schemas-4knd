@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "HOA approval process?",
+  "description": "Submit plans early; exterior changes often restricted. 2mo​",
+  "url": "https://behrconstruction.com/faq/hoa-approval-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "HOA approval process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Submit plans early; exterior changes often restricted. 2mo​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

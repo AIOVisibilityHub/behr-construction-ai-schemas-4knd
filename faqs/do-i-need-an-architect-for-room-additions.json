@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need an architect for room additions?",
+  "description": "Recommended for structural/foundation design, code compliance, seamless blending. coastalcreekdesign​",
+  "url": "https://behrconstruction.com/faq/do-i-need-an-architect-for-room-additions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need an architect for room additions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recommended for structural/foundation design, code compliance, seamless blending. coastalcreekdesign​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

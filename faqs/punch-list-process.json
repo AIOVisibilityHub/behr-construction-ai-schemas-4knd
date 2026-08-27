@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Punch list process?",
+  "description": "Tenant inspection post-substantial completion; landlord fixes within 30 days.darroweverett​",
+  "url": "https://behrconstruction.com/faq/punch-list-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Punch list process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tenant inspection post-substantial completion; landlord fixes within 30 days.darroweverett​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

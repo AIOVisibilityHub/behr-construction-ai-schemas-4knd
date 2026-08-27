@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What inspections occur during remodel?",
+  "description": "Rough-in (framing/electrical/plumbing), insulation, final before occupancy. blockrenovation​",
+  "url": "https://behrconstruction.com/faq/what-inspections-occur-during-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What inspections occur during remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rough-in (framing/electrical/plumbing), insulation, final before occupancy. blockrenovation​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

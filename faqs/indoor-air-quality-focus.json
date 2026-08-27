@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Indoor air quality focus?",
+  "description": "Low-VOC paints/adhesives, ventilation, filtration.greenberg+1",
+  "url": "https://behrconstruction.com/faq/indoor-air-quality-focus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Indoor air quality focus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Low-VOC paints/adhesives, ventilation, filtration.greenberg+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

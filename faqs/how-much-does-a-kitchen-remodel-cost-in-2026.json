@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a kitchen remodel cost in 2026?",
+  "description": "National average $27,000–$35,000; small kitchens $15,000–$30,000, mid-range $35,000–$70,000, high-end $70,000–$120,000+. Costs higher in CA (~40% above national",
+  "url": "https://behrconstruction.com/faq/how-much-does-a-kitchen-remodel-cost-in-2026",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a kitchen remodel cost in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "National average $27,000–$35,000; small kitchens $15,000–$30,000, mid-range $35,000–$70,000, high-end $70,000–$120,000+. Costs higher in CA (~40% above national).usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

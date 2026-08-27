@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Budgeting TI costs?",
+  "description": "20-50% contingency; detailed scopes prevent overruns.mastt​",
+  "url": "https://behrconstruction.com/faq/budgeting-ti-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Budgeting TI costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "20-50% contingency; detailed scopes prevent overruns.mastt​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

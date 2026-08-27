@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Bay Area green incentives?",
+  "description": "SF fee reductions $15k, San Jose waivers, Berkeley tax exemptions.greenberg​",
+  "url": "https://behrconstruction.com/faq/bay-area-green-incentives",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Bay Area green incentives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SF fee reductions $15k, San Jose waivers, Berkeley tax exemptions.greenberg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

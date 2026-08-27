@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does electric radiant heat work?",
+  "description": "Conductive wires/mats convert electricity to heat via resistance; thermostat controls; 100% efficient energy-to-heat conversion.warmyourfloor+1",
+  "url": "https://behrconstruction.com/faq/how-does-electric-radiant-heat-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does electric radiant heat work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conductive wires/mats convert electricity to heat via resistance; thermostat controls; 100% efficient energy-to-heat conversion.warmyourfloor+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

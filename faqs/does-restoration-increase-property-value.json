@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does restoration increase property value?",
+  "description": "Yes, 60–90% ROI for historic homes; tax credits available in designated areas. greatdayimprovements​",
+  "url": "https://behrconstruction.com/faq/does-restoration-increase-property-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does restoration increase property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 60–90% ROI for historic homes; tax credits available in designated areas. greatdayimprovements​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I update kitchen or bathroom first?",
+  "description": "Fix structural/systems first; prioritize high-ROI areas like kitchen for usability/value. blockrenovation​",
+  "url": "https://behrconstruction.com/faq/should-i-update-kitchen-or-bathroom-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I update kitchen or bathroom first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fix structural/systems first; prioritize high-ROI areas like kitchen for usability/value. blockrenovation​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

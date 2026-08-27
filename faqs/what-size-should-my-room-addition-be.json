@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What size should my room addition be?",
+  "description": "Match function: master suite 400–600 sq ft, office 150–250 sq ft, family room 300–500 sq ft. marwoodconstruction​",
+  "url": "https://behrconstruction.com/faq/what-size-should-my-room-addition-be",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size should my room addition be?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Match function: master suite 400–600 sq ft, office 150–250 sq ft, family room 300–500 sq ft. marwoodconstruction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

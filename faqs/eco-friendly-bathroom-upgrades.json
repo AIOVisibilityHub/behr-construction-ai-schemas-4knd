@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Eco-friendly bathroom upgrades?",
+  "description": "Low-flow fixtures, LED lighting, recycled tile. usacabinetstore​",
+  "url": "https://behrconstruction.com/faq/eco-friendly-bathroom-upgrades",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Eco-friendly bathroom upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Low-flow fixtures, LED lighting, recycled tile. usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

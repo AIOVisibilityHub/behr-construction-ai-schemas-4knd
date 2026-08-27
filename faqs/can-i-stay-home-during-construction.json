@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I stay home during construction?",
+  "description": "Possible with single-story; major foundation/roof work often requires temporary relocation. sweeten​",
+  "url": "https://behrconstruction.com/faq/can-i-stay-home-during-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I stay home during construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible with single-story; major foundation/roof work often requires temporary relocation. sweeten​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

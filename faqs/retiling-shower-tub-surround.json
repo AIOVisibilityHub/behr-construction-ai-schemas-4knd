@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Retiling shower/tub surround?",
+  "description": "$1.8k–$4k; porcelain/natural stone. modernize​",
+  "url": "https://behrconstruction.com/faq/retiling-shower-tub-surround",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Retiling shower/tub surround?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$1.8k–$4k; porcelain/natural stone. modernize​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

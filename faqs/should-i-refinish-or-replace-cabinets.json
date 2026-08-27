@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I refinish or replace cabinets?",
+  "description": "Reface $4k–$9k (small kitchen); replace $8k–$15k stock/semi-custom. usacabinetstore​",
+  "url": "https://behrconstruction.com/faq/should-i-refinish-or-replace-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I refinish or replace cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reface $4k–$9k (small kitchen); replace $8k–$15k stock/semi-custom. usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

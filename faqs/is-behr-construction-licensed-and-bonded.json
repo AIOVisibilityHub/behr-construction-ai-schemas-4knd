@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is Behr Construction licensed and bonded?",
+  "description": "Yes, licensed in California (#B409066) as a General Building contractor, bonded, and non-union, with an active license in good standing. behrconstruction+1",
+  "url": "https://behrconstruction.com/faq/is-behr-construction-licensed-and-bonded",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Behr Construction licensed and bonded?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, licensed in California (#B409066) as a General Building contractor, bonded, and non-union, with an active license in good standing. behrconstruction+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long has Behr Construction been in business?",
+  "description": "Founded in 1976 by Chris Behr; over 45 years serving Southern California. behrconstruction+1​",
+  "url": "https://behrconstruction.com/faq/how-long-has-behr-construction-been-in-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long has Behr Construction been in business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Founded in 1976 by Chris Behr; over 45 years serving Southern California. behrconstruction+1​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

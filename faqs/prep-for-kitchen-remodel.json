@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Prep for kitchen remodel?",
+  "description": "Temp kitchen, clear space, protect adjacent areas. allreno​",
+  "url": "https://behrconstruction.com/faq/prep-for-kitchen-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Prep for kitchen remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Temp kitchen, clear space, protect adjacent areas. allreno​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

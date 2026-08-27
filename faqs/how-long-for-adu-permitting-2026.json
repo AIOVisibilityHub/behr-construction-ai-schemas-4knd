@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long for ADU permitting 2026?",
+  "description": "Completeness check 15 days, final 60 days; deemed approved if delayed. aduwestcoast​",
+  "url": "https://behrconstruction.com/faq/how-long-for-adu-permitting-2026",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long for ADU permitting 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Completeness check 15 days, final 60 days; deemed approved if delayed. aduwestcoast​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Dispose of demo materials?",
+  "description": "Recycle 70%+; hazardous waste proper channels. southernliving​",
+  "url": "https://behrconstruction.com/faq/dispose-of-demo-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Dispose of demo materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recycle 70%+; hazardous waste proper channels. southernliving​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

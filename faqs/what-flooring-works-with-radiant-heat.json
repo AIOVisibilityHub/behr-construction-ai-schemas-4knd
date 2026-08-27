@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What flooring works with radiant heat?",
+  "description": "Tile/stone best; laminate/engineered wood ok; solid hardwood/carpet poor conductors (use electric only).warmyourfloor+1",
+  "url": "https://behrconstruction.com/faq/what-flooring-works-with-radiant-heat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What flooring works with radiant heat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tile/stone best; laminate/engineered wood ok; solid hardwood/carpet poor conductors (use electric only).warmyourfloor+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

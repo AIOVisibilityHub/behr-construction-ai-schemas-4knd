@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What adds the most value to a remodel?",
+  "description": "Kitchens/baths (70–80% ROI), open floor plans, energy-efficient upgrades like windows/appliances. konkolcustom​",
+  "url": "https://behrconstruction.com/faq/what-adds-the-most-value-to-a-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What adds the most value to a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kitchens/baths (70–80% ROI), open floor plans, energy-efficient upgrades like windows/appliances. konkolcustom​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

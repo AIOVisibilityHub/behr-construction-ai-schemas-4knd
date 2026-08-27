@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does restoration take?",
+  "description": "4–12 months; inspections/permits add 4–12 weeks, surprises extend timelines. gaboconstruction​",
+  "url": "https://behrconstruction.com/faq/how-long-does-restoration-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does restoration take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4–12 months; inspections/permits add 4–12 weeks, surprises extend timelines. gaboconstruction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

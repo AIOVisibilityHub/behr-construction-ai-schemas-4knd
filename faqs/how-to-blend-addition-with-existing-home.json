@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to blend addition with existing home?",
+  "description": "Match roof/siding/windows; consider contrasting modern style if deliberate. sweeten​",
+  "url": "https://behrconstruction.com/faq/how-to-blend-addition-with-existing-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to blend addition with existing home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Match roof/siding/windows; consider contrasting modern style if deliberate. sweeten​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

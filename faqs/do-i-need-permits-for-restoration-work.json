@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for restoration work?",
+  "description": "Yes for structural, electrical, plumbing, or exterior changes; historic districts require additional preservation board approval. gaboconstruction​",
+  "url": "https://behrconstruction.com/faq/do-i-need-permits-for-restoration-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for restoration work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for structural, electrical, plumbing, or exterior changes; historic districts require additional preservation board approval. gaboconstruction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

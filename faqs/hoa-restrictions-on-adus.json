@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "HOA restrictions on ADUs?",
+  "description": "Cannot prohibit; state law preempts (SB 9/AB 1033). aduwestcoast​",
+  "url": "https://behrconstruction.com/faq/hoa-restrictions-on-adus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "HOA restrictions on ADUs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cannot prohibit; state law preempts (SB 9/AB 1033). aduwestcoast​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

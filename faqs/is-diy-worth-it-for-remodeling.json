@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is DIY worth it for remodeling?",
+  "description": "Minor cosmetics yes; structural/plumbing/electrical no—hire pros to avoid costly fixes. marwoodconstruction​",
+  "url": "https://behrconstruction.com/faq/is-diy-worth-it-for-remodeling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is DIY worth it for remodeling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minor cosmetics yes; structural/plumbing/electrical no—hire pros to avoid costly fixes. marwoodconstruction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Guest bath vs primary differences?",
+  "description": "Guest simpler (bathtub/shower + vanity); primary custom layout/tile. usacabinetstore​",
+  "url": "https://behrconstruction.com/faq/guest-bath-vs-primary-differences",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Guest bath vs primary differences?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Guest simpler (bathtub/shower + vanity); primary custom layout/tile. usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

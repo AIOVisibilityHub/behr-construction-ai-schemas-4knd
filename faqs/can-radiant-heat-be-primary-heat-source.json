@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can radiant heat be primary heat source?",
+  "description": "Yes for well-insulated homes; supplemental in cold climates/large spaces.warmlyyours​",
+  "url": "https://behrconstruction.com/faq/can-radiant-heat-be-primary-heat-source",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can radiant heat be primary heat source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for well-insulated homes; supplemental in cold climates/large spaces.warmlyyours​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

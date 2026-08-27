@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Appliance upgrade costs?",
+  "description": "Fridge $800–$15k, range $600–$15k, dishwasher $400–$2.5k. usacabinetstore​",
+  "url": "https://behrconstruction.com/faq/appliance-upgrade-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Appliance upgrade costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fridge $800–$15k, range $600–$15k, dishwasher $400–$2.5k. usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

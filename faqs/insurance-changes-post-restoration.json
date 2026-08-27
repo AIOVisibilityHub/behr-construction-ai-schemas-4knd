@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Insurance changes post-restoration?",
+  "description": "Updates lower premiums; document for claims/proof of quality work. gallerykbny​",
+  "url": "https://behrconstruction.com/faq/insurance-changes-post-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Insurance changes post-restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Updates lower premiums; document for claims/proof of quality work. gallerykbny​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

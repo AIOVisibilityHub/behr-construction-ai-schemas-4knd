@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does TI affect rent?",
+  "description": "Yes; TIA amortized into higher base rent; impacts lease rate/sq ft calculation.alliescommercialrealty​",
+  "url": "https://behrconstruction.com/faq/does-ti-affect-rent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does TI affect rent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; TIA amortized into higher base rent; impacts lease rate/sq ft calculation.alliescommercialrealty​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

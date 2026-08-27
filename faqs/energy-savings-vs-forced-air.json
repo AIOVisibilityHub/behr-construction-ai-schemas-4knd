@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Energy savings vs forced air?",
+  "description": "25-40% lower bills; operates 80-100°F vs 120°F+; even heat no stratification.warmup+1",
+  "url": "https://behrconstruction.com/faq/energy-savings-vs-forced-air",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Energy savings vs forced air?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "25-40% lower bills; operates 80-100°F vs 120°F+; even heat no stratification.warmup+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

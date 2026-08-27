@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "ADU fire sprinklers required?",
+  "description": "Often exempt; check local codes (varies 2026). calbo​",
+  "url": "https://behrconstruction.com/faq/adu-fire-sprinklers-required",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "ADU fire sprinklers required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often exempt; check local codes (varies 2026). calbo​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

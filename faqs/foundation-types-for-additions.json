@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Foundation types for additions?",
+  "description": "Slab-on-grade common; piers/stem wall for poor soil; engineer required. coastalcreekdesign​",
+  "url": "https://behrconstruction.com/faq/foundation-types-for-additions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Foundation types for additions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Slab-on-grade common; piers/stem wall for poor soil; engineer required. coastalcreekdesign​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Sell historic restored home?",
+  "description": "Premium pricing; disclose work/permits; appraiser values upgrades. greatdayimprovements​",
+  "url": "https://behrconstruction.com/faq/sell-historic-restored-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Sell historic restored home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Premium pricing; disclose work/permits; appraiser values upgrades. greatdayimprovements​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

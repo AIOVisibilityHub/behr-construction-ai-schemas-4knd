@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "TI for retail vs office?",
+  "description": "Retail: storefronts/signage; office: workstations/conference; specialized needs vary.mastt​",
+  "url": "https://behrconstruction.com/faq/ti-for-retail-vs-office",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "TI for retail vs office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retail: storefronts/signage; office: workstations/conference; specialized needs vary.mastt​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Resale value premium?",
+  "description": "3-10% higher; documented green features boost appraisals.greenberg​",
+  "url": "https://behrconstruction.com/faq/resale-value-premium",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Resale value premium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3-10% higher; documented green features boost appraisals.greenberg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

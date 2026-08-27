@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Post-remodel property taxes?",
+  "description": "Reassessment adds ~1% of improvement value annually. usacabinetstore​",
+  "url": "https://behrconstruction.com/faq/post-remodel-property-taxes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Post-remodel property taxes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reassessment adds ~1% of improvement value annually. usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

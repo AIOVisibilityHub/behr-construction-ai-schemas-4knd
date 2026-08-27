@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to maximize storage in remodel?",
+  "description": "Built-ins, pull-outs, islands with cabinets, niche shelves, multi-use furniture. worthingtonindy​",
+  "url": "https://behrconstruction.com/faq/how-to-maximize-storage-in-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to maximize storage in remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Built-ins, pull-outs, islands with cabinets, niche shelves, multi-use furniture. worthingtonindy​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Timeline for phased restoration?",
+  "description": "1–2 rooms/season to minimize disruption; full 6–18 months. springshomeimprovement​",
+  "url": "https://behrconstruction.com/faq/timeline-for-phased-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Timeline for phased restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1–2 rooms/season to minimize disruption; full 6–18 months. springshomeimprovement​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multifamily lot ADUs?",
+  "description": "Allowed up to 25% of existing units. aduwestcoast​",
+  "url": "https://behrconstruction.com/faq/multifamily-lot-adus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multifamily lot ADUs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Allowed up to 25% of existing units. aduwestcoast​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

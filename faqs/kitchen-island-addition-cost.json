@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Kitchen island addition cost?",
+  "description": "$3k–$10k basic, $15k+ custom with seating/plumbing. usacabinetstore​",
+  "url": "https://behrconstruction.com/faq/kitchen-island-addition-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Kitchen island addition cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$3k–$10k basic, $15k+ custom with seating/plumbing. usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

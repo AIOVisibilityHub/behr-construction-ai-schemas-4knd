@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Challenges of design-build?",
+  "description": "Requires qualified teams; less owner design control initially.energysystemsgroup​",
+  "url": "https://behrconstruction.com/faq/challenges-of-design-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Challenges of design-build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Requires qualified teams; less owner design control initially.energysystemsgroup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

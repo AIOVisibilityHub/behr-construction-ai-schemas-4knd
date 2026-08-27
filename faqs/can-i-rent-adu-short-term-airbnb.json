@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I rent ADU short-term (Airbnb)?",
+  "description": "No, minimum 30 days; long-term residential only. smcadu​",
+  "url": "https://behrconstruction.com/faq/can-i-rent-adu-short-term-airbnb",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I rent ADU short-term (Airbnb)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, minimum 30 days; long-term residential only. smcadu​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

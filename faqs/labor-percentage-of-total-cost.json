@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Labor percentage of total cost?",
+  "description": "40–65%; plumbing $3k–$8k, tile $2.5k–$6k, electrical $800–$2.5k. usacabinetstore+1",
+  "url": "https://behrconstruction.com/faq/labor-percentage-of-total-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Labor percentage of total cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "40–65%; plumbing $3k–$8k, tile $2.5k–$6k, electrical $800–$2.5k. usacabinetstore+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

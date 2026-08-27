@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common hidden costs?",
+  "description": "Permits (5–10%), structural surprises, upgrades to meet code, temporary housing/utilities. blockrenovation​",
+  "url": "https://behrconstruction.com/faq/what-are-common-hidden-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common hidden costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permits (5–10%), structural surprises, upgrades to meet code, temporary housing/utilities. blockrenovation​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

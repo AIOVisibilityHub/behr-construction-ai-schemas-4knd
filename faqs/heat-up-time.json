@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Heat-up time?",
+  "description": "Electric 30-60 min to comfortable; hydronic 1-2+ hours.warmup​",
+  "url": "https://behrconstruction.com/faq/heat-up-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Heat-up time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electric 30-60 min to comfortable; hydronic 1-2+ hours.warmup​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What costs green building premium?",
+  "description": "2-18% above standard; LEED/CALGreen 8-15%, WELL 10-18%; rebates offset.greenberg​",
+  "url": "https://behrconstruction.com/faq/what-costs-green-building-premium",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What costs green building premium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2-18% above standard; LEED/CALGreen 8-15%, WELL 10-18%; rebates offset.greenberg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

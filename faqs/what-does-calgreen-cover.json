@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does CALGreen cover?",
+  "description": "California mandatory standards (Tier 1/2 voluntary): water reduction (20%), waste diversion (65%), low-VOC materials.greenberg​",
+  "url": "https://behrconstruction.com/faq/what-does-calgreen-cover",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does CALGreen cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "California mandatory standards (Tier 1/2 voluntary): water reduction (20%), waste diversion (65%), low-VOC materials.greenberg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

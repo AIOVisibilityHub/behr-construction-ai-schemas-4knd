@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the experience level of the team?",
+  "description": "Corporate team has over 90 years of combined experience; recognized as Top 500 U.S. Remodeling company since 1996 by Qualified Remodeler magazine. behrconstruct",
+  "url": "https://behrconstruction.com/faq/what-is-the-experience-level-of-the-team",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the experience level of the team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corporate team has over 90 years of combined experience; recognized as Top 500 U.S. Remodeling company since 1996 by Qualified Remodeler magazine. behrconstruction+1​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Cost to add a new bathroom?",
+  "description": "$15k–$50k+; includes HVAC ($1k–$3.5k), engineering ($500–$2.5k), plumbing relocation. usacabinetstore​",
+  "url": "https://behrconstruction.com/faq/cost-to-add-a-new-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cost to add a new bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$15k–$50k+; includes HVAC ($1k–$3.5k), engineering ($500–$2.5k), plumbing relocation. usacabinetstore​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

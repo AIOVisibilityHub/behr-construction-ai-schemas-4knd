@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much disruption should I expect?",
+  "description": "Significant dust/noise; plan for 1–2 weeks max chaos per phase; communicate with contractor daily. bromwellconstruction​",
+  "url": "https://behrconstruction.com/faq/how-much-disruption-should-i-expect",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much disruption should I expect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Significant dust/noise; plan for 1–2 weeks max chaos per phase; communicate with contractor daily. bromwellconstruction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

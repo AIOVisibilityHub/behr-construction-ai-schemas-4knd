@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need an architect or designer?",
+  "description": "Yes for complex layouts; they handle permits, maximize space, ensure code compliance. bromwellconstruction​",
+  "url": "https://behrconstruction.com/faq/do-i-need-an-architect-or-designer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need an architect or designer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for complex layouts; they handle permits, maximize space, ensure code compliance. bromwellconstruction​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
