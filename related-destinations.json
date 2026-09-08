@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-08T22:12:48.051Z",
+  "generatedAt": "2026-09-08T22:13:09.587Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/behr-construction-ai-schemas-4knd/ai-data.html"
+      "url": "https://behrconstruction.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/behr-construction-ai-schemas-4knd",
-      "pagesUrl": "https://aiovisibilityhub.github.io/behr-construction-ai-schemas-4knd/",
+      "pagesUrl": "https://behrconstruction.aiovisibility.net/",
       "repo": "AIOVisibilityHub/behr-construction-ai-schemas-4knd"
     }
   }

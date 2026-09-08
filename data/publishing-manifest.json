@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-08T22:12:48.065Z",
+  "generatedAt": "2026-09-08T22:13:09.598Z",
   "client": {
     "name": "Behr Construction",
     "canonicalUrl": "https://behrconstruction.aiovisibility.net",
@@ -123,7 +123,7 @@
   },
   "package": {
     "totalFiles": 1218,
-    "totalBytes": 6459968,
+    "totalBytes": 5027122,
     "stats": {
       "qna": 0,
       "faqs": 355,
@@ -4426,1772 +4426,1772 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21013,
+        "bytes": 16923,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 66094,
+        "bytes": 62124,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 677170,
+        "bytes": 672873,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 37622,
+        "bytes": 33850,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17852,
+        "bytes": 14005,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 148839,
+        "bytes": 144959,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 189917,
+        "bytes": 186118,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 26120,
+        "bytes": 22162,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 48418,
+        "bytes": 44583,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/post-storm-rebuilding-raises-california-construction-prices.html",
-        "bytes": 12020,
+        "bytes": 7187,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/about-behr-greetings.html",
-        "bytes": 11412,
+        "bytes": 6846,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ultimate-2026-home-remodel-guide.html",
-        "bytes": 11756,
+        "bytes": 7049,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/plan-your-2026-remodel-now.html",
-        "bytes": 10930,
+        "bytes": 6517,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-remodeling-forecast.html",
-        "bytes": 10632,
+        "bytes": 6347,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/custom-home-trends-2026-guide.html",
-        "bytes": 10280,
+        "bytes": 6122,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/top-trends-in-home-design-2026.html",
-        "bytes": 10292,
+        "bytes": 6130,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/homeowner-expectations-for-2026-remodels.html",
-        "bytes": 10299,
+        "bytes": 6130,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-home-design-trends-forecast.html",
-        "bytes": 10084,
+        "bytes": 6001,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/home-improvement-trends-2026.html",
-        "bytes": 9998,
+        "bytes": 5949,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/home-design-trends-2026.html",
-        "bytes": 9860,
+        "bytes": 5858,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/building-trends-2026-luxury-custom.html",
-        "bytes": 9870,
+        "bytes": 5851,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-remodel-trends-2026.html",
-        "bytes": 9900,
+        "bytes": 5876,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sustainable-remodeling-2026.html",
-        "bytes": 9890,
+        "bytes": 5869,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/exterior-transformations-2026.html",
-        "bytes": 9778,
+        "bytes": 5788,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/flexible-living-spaces-2026.html",
-        "bytes": 9782,
+        "bytes": 5788,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/remodel-budgeting-2026.html",
-        "bytes": 9792,
+        "bytes": 5794,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/remodel-timelines-2026.html",
-        "bytes": 9718,
+        "bytes": 5741,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/future-proof-remodels.html",
-        "bytes": 9668,
+        "bytes": 5707,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-process.html",
-        "bytes": 9764,
+        "bytes": 5771,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/full-home-remodeling.html",
-        "bytes": 9656,
+        "bytes": 5702,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/custom-design-services.html",
-        "bytes": 9690,
+        "bytes": 5722,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/built-in-storage-solutions.html",
-        "bytes": 9704,
+        "bytes": 5729,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/custom-closet-design.html",
-        "bytes": 9476,
+        "bytes": 5594,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/wellness-driven-spaces.html",
-        "bytes": 9656,
+        "bytes": 5715,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/natural-materials-trend.html",
-        "bytes": 9750,
+        "bytes": 5781,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/timeless-craftsmanship.html",
-        "bytes": 9590,
+        "bytes": 5694,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/home-restoration-vs-remodeling-guide.html",
-        "bytes": 10902,
+        "bytes": 6503,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permits-for-historic-home-restoration.html",
-        "bytes": 10622,
+        "bytes": 6333,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/old-home-surprises-and-contingencies.html",
-        "bytes": 10280,
+        "bytes": 6124,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/restoration-timelines-2026.html",
-        "bytes": 10046,
+        "bytes": 5981,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/finding-restoration-specialists.html",
-        "bytes": 10158,
+        "bytes": 6043,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/asbestos-and-lead-abatement.html",
-        "bytes": 9940,
+        "bytes": 5904,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roi-on-historic-restoration.html",
-        "bytes": 9872,
+        "bytes": 5863,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/modern-updates-for-historic-homes.html",
-        "bytes": 10168,
+        "bytes": 6039,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sourcing-historic-materials.html",
-        "bytes": 9958,
+        "bytes": 5916,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/historic-tax-incentives-2026.html",
-        "bytes": 9940,
+        "bytes": 5906,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pre-restoration-inspections.html",
-        "bytes": 9868,
+        "bytes": 5859,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/foundation-repair-in-old-homes.html",
-        "bytes": 9976,
+        "bytes": 5922,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-bath-in-historic-homes.html",
-        "bytes": 9934,
+        "bytes": 5895,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/restoration-financing-options.html",
-        "bytes": 9788,
+        "bytes": 5807,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-over-restoration.html",
-        "bytes": 9790,
+        "bytes": 5813,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/insurance-after-restoration.html",
-        "bytes": 9756,
+        "bytes": 5789,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/historic-district-restrictions.html",
-        "bytes": 9822,
+        "bytes": 5822,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/energy-efficiency-for-old-homes.html",
-        "bytes": 9946,
+        "bytes": 5900,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/architect-role-in-restoration.html",
-        "bytes": 9954,
+        "bytes": 5910,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/demo-material-disposal.html",
-        "bytes": 9706,
+        "bytes": 5759,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/post-restoration-warranties.html",
-        "bytes": 9794,
+        "bytes": 5809,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/selling-restored-historic-homes.html",
-        "bytes": 9986,
+        "bytes": 5925,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/phased-vs-full-restoration.html",
-        "bytes": 9930,
+        "bytes": 5901,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mold-remediation-in-restoration.html",
-        "bytes": 9878,
+        "bytes": 5862,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hoa-approvals-for-restoration.html",
-        "bytes": 9892,
+        "bytes": 5875,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/room-addition-costs-2026-guide.html",
-        "bytes": 10620,
+        "bytes": 6332,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bedroom-addition-planning.html",
-        "bytes": 10258,
+        "bytes": 6116,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sunroom-and-family-room-extensions.html",
-        "bytes": 10288,
+        "bytes": 6128,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/room-addition-budget-breakdown.html",
-        "bytes": 10244,
+        "bytes": 6103,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/blending-additions-with-existing-homes.html",
-        "bytes": 10402,
+        "bytes": 6196,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permits-and-zoning-for-additions.html",
-        "bytes": 10066,
+        "bytes": 5992,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/room-addition-timelines-2026.html",
-        "bytes": 9966,
+        "bytes": 5929,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ultimate-room-addition-guide.html",
-        "bytes": 10244,
+        "bytes": 6096,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bay-area-2026-remodeling-checklist.html",
-        "bytes": 10178,
+        "bytes": 6048,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/home-addition-types-2026.html",
-        "bytes": 10010,
+        "bytes": 5956,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/home-addition-costs-explained.html",
-        "bytes": 10134,
+        "bytes": 6030,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/home-addition-house-plans-guide.html",
-        "bytes": 10162,
+        "bytes": 6044,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/planning-your-2026-home-addition.html",
-        "bytes": 10114,
+        "bytes": 6016,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/attached-vs-detached-additions.html",
-        "bytes": 9962,
+        "bytes": 5926,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/foundation-options-for-additions.html",
-        "bytes": 10146,
+        "bytes": 6036,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/utilities-extension-planning.html",
-        "bytes": 9870,
+        "bytes": 5863,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/second-story-addition-feasibility.html",
-        "bytes": 10034,
+        "bytes": 5956,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hoa-approvals-for-additions.html",
-        "bytes": 9818,
+        "bytes": 5827,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/natural-light-in-additions.html",
-        "bytes": 9842,
+        "bytes": 5843,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/financing-room-additions.html",
-        "bytes": 9762,
+        "bytes": 5789,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/neighborhood-construction-impact.html",
-        "bytes": 9836,
+        "bytes": 5828,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/staying-home-during-addition.html",
-        "bytes": 9856,
+        "bytes": 5843,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/addition-roi-expectations.html",
-        "bytes": 9722,
+        "bytes": 5766,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/winter-addition-construction.html",
-        "bytes": 9810,
+        "bytes": 5815,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/post-addition-warranties.html",
-        "bytes": 9858,
+        "bytes": 5852,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-remodel-planning-2026.html",
-        "bytes": 10751,
+        "bytes": 6416,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-kitchen-trends-overview.html",
-        "bytes": 10462,
+        "bytes": 6233,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/45-kitchen-remodeling-ideas-2026.html",
-        "bytes": 10527,
+        "bytes": 6282,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-remodel-trends-survival.html",
-        "bytes": 10202,
+        "bytes": 6072,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-renovation-timeline-2026.html",
-        "bytes": 10177,
+        "bytes": 6064,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ultimate-kitchen-bath-guide-2026.html",
-        "bytes": 10076,
+        "bytes": 5990,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/budget-kitchen-remodel-2026.html",
-        "bytes": 10090,
+        "bytes": 6003,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-remodel-cost-guide-2026.html",
-        "bytes": 10086,
+        "bytes": 5995,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-cabinet-guide-2026.html",
-        "bytes": 9944,
+        "bytes": 5909,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-kitchen-trends-sea-pointe.html",
-        "bytes": 9964,
+        "bytes": 5919,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/virtual-kitchen-planning-tools.html",
-        "bytes": 10032,
+        "bytes": 5957,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/smart-kitchen-appliances-2026.html",
-        "bytes": 9954,
+        "bytes": 5910,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sustainable-kitchen-materials.html",
-        "bytes": 9940,
+        "bytes": 5899,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-color-trends-2026.html",
-        "bytes": 9842,
+        "bytes": 5838,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/professional-team-selection.html",
-        "bytes": 9874,
+        "bytes": 5853,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/energy-efficient-appliances.html",
-        "bytes": 9876,
+        "bytes": 5849,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/workstation-sink-features.html",
-        "bytes": 9814,
+        "bytes": 5810,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bamboo-storage-organizers.html",
-        "bytes": 9830,
+        "bytes": 5817,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ceiling-beams-addition.html",
-        "bytes": 9720,
+        "bytes": 5749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/beverage-nook-creation.html",
-        "bytes": 9746,
+        "bytes": 5763,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/prep-kitchen-sculleries.html",
-        "bytes": 9608,
+        "bytes": 5678,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/layered-kitchen-lighting.html",
-        "bytes": 9706,
+        "bytes": 5739,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/custom-cabinet-storage.html",
-        "bytes": 9734,
+        "bytes": 5766,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-work-triangle-update.html",
-        "bytes": 9784,
+        "bytes": 5795,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/temporary-kitchen-setup.html",
-        "bytes": 9816,
+        "bytes": 5823,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bathroom-remodel-cost-guide-2026.html",
-        "bytes": 10615,
+        "bytes": 6322,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/primary-bathroom-trends-2026.html",
-        "bytes": 10412,
+        "bytes": 6195,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bathroom-remodel-trends-2026.html",
-        "bytes": 10428,
+        "bytes": 6211,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/wet-room-bathroom-remodel.html",
-        "bytes": 10146,
+        "bytes": 6034,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-bathroom-trends-homeowners.html",
-        "bytes": 10214,
+        "bytes": 6072,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/complete-bathroom-remodel-guide.html",
-        "bytes": 10068,
+        "bytes": 5980,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bath-remodeling-trends-2026.html",
-        "bytes": 9935,
+        "bytes": 5911,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bathroom-remodeling-guide-2026.html",
-        "bytes": 9994,
+        "bytes": 5934,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/primary-bath-cost-breakdown.html",
-        "bytes": 9962,
+        "bytes": 5914,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/guest-bathroom-remodel-pricing.html",
-        "bytes": 9940,
+        "bytes": 5895,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/high-roi-bathroom-updates.html",
-        "bytes": 9902,
+        "bytes": 5874,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/new-bathroom-addition-costs.html",
-        "bytes": 9872,
+        "bytes": 5854,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tub-to-shower-conversion.html",
-        "bytes": 9776,
+        "bytes": 5794,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/modern-minimalist-bathrooms.html",
-        "bytes": 9878,
+        "bytes": 5854,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/eco-friendly-bathroom-design.html",
-        "bytes": 9920,
+        "bytes": 5880,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/spa-like-bathroom-retreats.html",
-        "bytes": 9894,
+        "bytes": 5868,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/small-bathroom-solutions.html",
-        "bytes": 9838,
+        "bytes": 5832,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/open-concept-primary-layouts.html",
-        "bytes": 9798,
+        "bytes": 5800,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/organic-minimalism-textures.html",
-        "bytes": 9660,
+        "bytes": 5717,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/smart-tech-in-bathrooms.html",
-        "bytes": 9738,
+        "bytes": 5772,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bathroom-layout-planning.html",
-        "bytes": 9794,
+        "bytes": 5803,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/luxury-accessibility-features.html",
-        "bytes": 9884,
+        "bytes": 5852,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/professional-vs-diy-remodel.html",
-        "bytes": 9834,
+        "bytes": 5828,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/remodel-process-timeline.html",
-        "bytes": 9760,
+        "bytes": 5787,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/material-selection-guide.html",
-        "bytes": 9840,
+        "bytes": 5840,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/california-adu-laws-2026-guide.html",
-        "bytes": 10537,
+        "bytes": 6276,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-adu-law-updates-sb-543.html",
-        "bytes": 10447,
+        "bytes": 6208,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/county-by-county-adu-requirements.html",
-        "bytes": 10473,
+        "bytes": 6230,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-adu-regulations-update.html",
-        "bytes": 10240,
+        "bytes": 6078,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/new-2026-adu-handbook.html",
-        "bytes": 10170,
+        "bytes": 6038,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sb-543-adu-jadu-changes.html",
-        "bytes": 10224,
+        "bytes": 6063,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adu-handbook-pdf-guide.html",
-        "bytes": 9854,
+        "bytes": 5829,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-housing-law-impacts.html",
-        "bytes": 10018,
+        "bytes": 5928,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adu-permitting-timelines.html",
-        "bytes": 9884,
+        "bytes": 5842,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/detached-adu-standards.html",
-        "bytes": 9912,
+        "bytes": 5866,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/jadu-specific-rules.html",
-        "bytes": 9638,
+        "bytes": 5697,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/no-parking-adu-rules.html",
-        "bytes": 9640,
+        "bytes": 5695,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/unpermitted-adu-legalization.html",
-        "bytes": 9920,
+        "bytes": 5862,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/prefab-adu-cost-savings.html",
-        "bytes": 9740,
+        "bytes": 5759,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hoa-cannot-block-adus.html",
-        "bytes": 9666,
+        "bytes": 5720,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adu-rental-regulations.html",
-        "bytes": 9630,
+        "bytes": 5692,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/school-impact-fees-exempt.html",
-        "bytes": 9615,
+        "bytes": 5675,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/coastal-zone-adu-streamline.html",
-        "bytes": 9748,
+        "bytes": 5766,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pre-approved-adu-plans.html",
-        "bytes": 9664,
+        "bytes": 5720,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/multifamily-adu-allowance.html",
-        "bytes": 9664,
+        "bytes": 5714,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/title-24-energy-compliance.html",
-        "bytes": 9564,
+        "bytes": 5643,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adu-financing-incentives.html",
-        "bytes": 9558,
+        "bytes": 5639,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sf-adu-specific-rules.html",
-        "bytes": 9564,
+        "bytes": 5642,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hcd-adu-resources.html",
-        "bytes": 9438,
+        "bytes": 5568,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adu-build-timelines.html",
-        "bytes": 9532,
+        "bytes": 5627,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-defined.html",
-        "bytes": 10208,
+        "bytes": 6050,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-complete-guide.html",
-        "bytes": 10145,
+        "bytes": 6019,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-vs-traditional.html",
-        "bytes": 10014,
+        "bytes": 5936,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/commercial-design-build.html",
-        "bytes": 9976,
+        "bytes": 5923,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/progressive-design-build-2026.html",
-        "bytes": 10088,
+        "bytes": 5984,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-guideline-pdf.html",
-        "bytes": 9934,
+        "bytes": 5887,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-method-explained.html",
-        "bytes": 10030,
+        "bytes": 5941,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-philosophy.html",
-        "bytes": 9858,
+        "bytes": 5838,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pre-construction-phase.html",
-        "bytes": 9866,
+        "bytes": 5844,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gmp-in-design-build.html",
-        "bytes": 9790,
+        "bytes": 5792,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-team-structure.html",
-        "bytes": 9736,
+        "bytes": 5751,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/value-engineering-benefits.html",
-        "bytes": 9670,
+        "bytes": 5710,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bim-in-design-build.html",
-        "bytes": 9506,
+        "bytes": 5616,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/selecting-design-builder.html",
-        "bytes": 9723,
+        "bytes": 5750,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fast-track-scheduling.html",
-        "bytes": 9698,
+        "bytes": 5731,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/owner-role-simplified.html",
-        "bytes": 9562,
+        "bytes": 5652,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/change-orders-minimized.html",
-        "bytes": 9702,
+        "bytes": 5739,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/post-construction-services.html",
-        "bytes": 9564,
+        "bytes": 5649,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-contract-types.html",
-        "bytes": 9688,
+        "bytes": 5730,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/public-sector-design-build.html",
-        "bytes": 9624,
+        "bytes": 5691,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cmar-vs-design-build.html",
-        "bytes": 9592,
+        "bytes": 5680,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/preconstruction-assessments.html",
-        "bytes": 9680,
+        "bytes": 5728,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-build-challenges.html",
-        "bytes": 9756,
+        "bytes": 5778,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/green-building-practices-guide.html",
-        "bytes": 11493,
+        "bytes": 6869,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/7-steps-green-certification.html",
-        "bytes": 10368,
+        "bytes": 6156,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/calgreen-compliance-2026.html",
-        "bytes": 10149,
+        "bytes": 6041,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/energy-efficiency-strategies.html",
-        "bytes": 10250,
+        "bytes": 6090,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sustainable-materials-guide.html",
-        "bytes": 10108,
+        "bytes": 6003,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/site-development-best-practices.html",
-        "bytes": 10188,
+        "bytes": 6052,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/water-efficiency-measures.html",
-        "bytes": 9994,
+        "bytes": 5936,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/indoor-air-quality-standards.html",
-        "bytes": 9954,
+        "bytes": 5908,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/net-zero-building-strategies.html",
-        "bytes": 10024,
+        "bytes": 5948,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/resilient-design-principles.html",
-        "bytes": 9944,
+        "bytes": 5899,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/leed-certification-overview.html",
-        "bytes": 10007,
+        "bytes": 5941,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/calgreen-tier-requirements.html",
-        "bytes": 9809,
+        "bytes": 5816,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/well-health-certification.html",
-        "bytes": 9812,
+        "bytes": 5811,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/passive-house-standards.html",
-        "bytes": 9745,
+        "bytes": 5765,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/living-building-challenge.html",
-        "bytes": 9768,
+        "bytes": 5776,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/integrated-design-process.html",
-        "bytes": 9900,
+        "bytes": 5857,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/green-incentives-california.html",
-        "bytes": 9748,
+        "bytes": 5755,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/payback-analysis.html",
-        "bytes": 9504,
+        "bytes": 5617,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/construction-waste-mgmt.html",
-        "bytes": 9710,
+        "bytes": 5735,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/biophilic-design-elements.html",
-        "bytes": 9676,
+        "bytes": 5708,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/commissioning-process.html",
-        "bytes": 9640,
+        "bytes": 5697,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/m-v-post-occupancy.html",
-        "bytes": 9596,
+        "bytes": 5666,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ngbs-residential-green.html",
-        "bytes": 9714,
+        "bytes": 5758,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/federal-guiding-principles.html",
-        "bytes": 9944,
+        "bytes": 5912,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/getting-started-checklist.html",
-        "bytes": 9914,
+        "bytes": 5904,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/radiant-floor-heating-new-construction-guide.html",
-        "bytes": 10975,
+        "bytes": 6565,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/electric-radiant-floor-pros-cons-2026.html",
-        "bytes": 10632,
+        "bytes": 6347,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/diy-radiant-floor-heating-install.html",
-        "bytes": 10614,
+        "bytes": 6350,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hydronic-radiant-floor-heating-guide.html",
-        "bytes": 10476,
+        "bytes": 6254,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/underfloor-heating-design-guide.html",
-        "bytes": 10370,
+        "bytes": 6186,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/best-underfloor-systems-2026.html",
-        "bytes": 10174,
+        "bytes": 6065,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/comprehensive-radiant-heating-guide.html",
-        "bytes": 10242,
+        "bytes": 6090,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/successful-radiant-install-tips.html",
-        "bytes": 10132,
+        "bytes": 6023,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/electric-vs-hydronic-comparison.html",
-        "bytes": 10165,
+        "bytes": 6047,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/safety-emf-concerns.html",
-        "bytes": 9853,
+        "bytes": 5836,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/flooring-compatibility-guide.html",
-        "bytes": 9974,
+        "bytes": 5913,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-per-sq-ft-breakdown.html",
-        "bytes": 9776,
+        "bytes": 5791,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/heat-up-time-expectations.html",
-        "bytes": 9732,
+        "bytes": 5764,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thermostat-selection-guide.html",
-        "bytes": 9786,
+        "bytes": 5793,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bathroom-zoning-applications.html",
-        "bytes": 9884,
+        "bytes": 5853,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/slab-vs-retrofit-methods.html",
-        "bytes": 9873,
+        "bytes": 5855,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/energy-bill-impact-calc.html",
-        "bytes": 9686,
+        "bytes": 5732,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/warranty-coverage-details.html",
-        "bytes": 9758,
+        "bytes": 5775,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/troubleshooting-no-heat.html",
-        "bytes": 9746,
+        "bytes": 5777,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pet-safety-considerations.html",
-        "bytes": 9600,
+        "bytes": 5683,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/commercial-ti-complete-guide.html",
-        "bytes": 10510,
+        "bytes": 6251,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tenant-improvements-owners-tenants.html",
-        "bytes": 10174,
+        "bytes": 6041,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ti-process-every-phase.html",
-        "bytes": 10112,
+        "bytes": 6015,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/commercial-ti-projects-guide.html",
-        "bytes": 10162,
+        "bytes": 6041,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/retail-ti-industry-applications.html",
-        "bytes": 10054,
+        "bytes": 5966,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/office-ti-layout-solutions.html",
-        "bytes": 9940,
+        "bytes": 5902,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/warehouse-ti-storage-upgrades.html",
-        "bytes": 9984,
+        "bytes": 5922,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/restaurant-ti-workflow-fixes.html",
-        "bytes": 9980,
+        "bytes": 5913,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ti-allowance-negotiations.html",
-        "bytes": 9952,
+        "bytes": 5894,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ti-cost-per-sq-ft-2026.html",
-        "bytes": 9760,
+        "bytes": 5771,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/turnkey-vs-vanilla-ti.html",
-        "bytes": 9650,
+        "bytes": 5698,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ti-lease-legal-terms.html",
-        "bytes": 9678,
+        "bytes": 5718,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/project-management-ti.html",
-        "bytes": 9724,
+        "bytes": 5748,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/material-selection-ti.html",
-        "bytes": 9720,
+        "bytes": 5744,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sustainability-ti-practices.html",
-        "bytes": 9846,
+        "bytes": 5819,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permits-for-commercial-ti.html",
-        "bytes": 9738,
+        "bytes": 5758,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ti-engineering-2026.html",
-        "bytes": 9652,
+        "bytes": 5711,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-ti-project-types.html",
-        "bytes": 9726,
+        "bytes": 5751,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ti-budgeting-best-practices.html",
-        "bytes": 9744,
+        "bytes": 5756,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/professional-hiring-ti.html",
-        "bytes": 9714,
+        "bytes": 5749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ti-completion-inspection.html",
-        "bytes": 9610,
+        "bytes": 5682,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ti-for-investors-guide.html",
-        "bytes": 9486,
+        "bytes": 5599,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tenant-finish-projects-guide.html",
-        "bytes": 9788,
+        "bytes": 5784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ti-planning-foundations.html",
-        "bytes": 9550,
+        "bytes": 5644,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoid-ti-mistakes.html",
-        "bytes": 9594,
+        "bytes": 5682,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/takeover-agreement-basics.html",
-        "bytes": 10260,
+        "bytes": 6088,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/contractor-default-procedures.html",
-        "bytes": 10141,
+        "bytes": 6016,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drafting-takeover-agreements.html",
-        "bytes": 10145,
+        "bytes": 6024,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/surety-takeover-mechanics.html",
-        "bytes": 9994,
+        "bytes": 5927,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/far-default-termination.html",
-        "bytes": 9946,
+        "bytes": 5896,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/default-procedure-steps.html",
-        "bytes": 9876,
+        "bytes": 5853,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/owner-obligations-takeover.html",
-        "bytes": 9934,
+        "bytes": 5884,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/surety-completion-options.html",
-        "bytes": 9940,
+        "bytes": 5894,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/payment-handling-post-default.html",
-        "bytes": 9926,
+        "bytes": 5882,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/change-orders-takeover.html",
-        "bytes": 9776,
+        "bytes": 5799,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/liquidated-damages-negotiation.html",
-        "bytes": 9972,
+        "bytes": 5912,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/latent-defects-liability.html",
-        "bytes": 9900,
+        "bytes": 5870,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/completion-contractor-selection.html",
-        "bytes": 9790,
+        "bytes": 5798,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/new-completion-schedule.html",
-        "bytes": 9784,
+        "bytes": 5803,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dbe-requirements-takeover.html",
-        "bytes": 9690,
+        "bytes": 5749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/lender-protections-takeover.html",
-        "bytes": 9842,
+        "bytes": 5839,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/risks-for-completion-contractor.html",
-        "bytes": 9962,
+        "bytes": 5907,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/surety-pre-takeover-due-diligence.html",
-        "bytes": 9922,
+        "bytes": 5874,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dispute-resolution-takeover.html",
-        "bytes": 9770,
+        "bytes": 5779,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/owner-claims-limits.html",
-        "bytes": 9644,
+        "bytes": 5703,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/takeover-vs-rebid.html",
-        "bytes": 9664,
+        "bytes": 5713,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/notice-cure-periods.html",
-        "bytes": 9652,
+        "bytes": 5705,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tripartite-agreement-use.html",
-        "bytes": 9738,
+        "bytes": 5765,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/materials-ownership-default.html",
-        "bytes": 9896,
+        "bytes": 5872,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/default-termination-avoidance.html",
-        "bytes": 9932,
+        "bytes": 5900,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-contractor-expert-witness.html",
-        "bytes": 10504,
+        "bytes": 6257,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/construction-dispute-expert-role.html",
-        "bytes": 10258,
+        "bytes": 6106,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/construction-litigation-guide.html",
-        "bytes": 10090,
+        "bytes": 6007,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/selecting-construction-experts.html",
-        "bytes": 10120,
+        "bytes": 6021,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/contractor-licensing-experts.html",
-        "bytes": 9994,
+        "bytes": 5942,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hse-construction-witness-services.html",
-        "bytes": 10150,
+        "bytes": 6030,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/defect-litigation-expert-role.html",
-        "bytes": 10030,
+        "bytes": 5956,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/california-contractor-witness.html",
-        "bytes": 9968,
+        "bytes": 5918,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/expert-testimony-impact.html",
-        "bytes": 9934,
+        "bytes": 5902,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/expert-report-requirements.html",
-        "bytes": 9855,
+        "bytes": 5850,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/daubert-methodology-standards.html",
-        "bytes": 9906,
+        "bytes": 5871,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/consulting-vs-testifying-experts.html",
-        "bytes": 10032,
+        "bytes": 5952,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/delay-claims-analysis.html",
-        "bytes": 9830,
+        "bytes": 5836,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/deposition-preparation-tips.html",
-        "bytes": 9878,
+        "bytes": 5857,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/trial-testimony-best-practices.html",
-        "bytes": 9890,
+        "bytes": 5854,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/standard-of-care-opinions.html",
-        "bytes": 9922,
+        "bytes": 5882,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-estimation-testimony.html",
-        "bytes": 9910,
+        "bytes": 5873,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/safety-osha-compliance.html",
-        "bytes": 9786,
+        "bytes": 5797,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/forensic-engineering-role.html",
-        "bytes": 9746,
+        "bytes": 5769,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/code-compliance-expertise.html",
-        "bytes": 9722,
+        "bytes": 5754,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/multiple-expert-coordination.html",
-        "bytes": 9898,
+        "bytes": 5864,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/geographic-expertise-need.html",
-        "bytes": 9816,
+        "bytes": 5815,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/report-writing-excellence.html",
-        "bytes": 9878,
+        "bytes": 5856,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/prior-testimony-disclosure.html",
-        "bytes": 9738,
+        "bytes": 5769,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/expert-practice-building.html",
-        "bytes": 9774,
+        "bytes": 5795,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/takeover-agreement-explained.html",
-        "bytes": 10447,
+        "bytes": 6221,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/default-termination-procedures.html",
-        "bytes": 10190,
+        "bytes": 6052,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drafting-takeover-contracts.html",
-        "bytes": 10291,
+        "bytes": 6129,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/surety-takeover-nuts-bolts.html",
-        "bytes": 10216,
+        "bytes": 6071,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fixing-bad-contractor-work.html",
-        "bytes": 10182,
+        "bytes": 6054,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/who-pays-for-previous-mistakes.html",
-        "bytes": 10090,
+        "bytes": 5994,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/new-contractor-responsibilities.html",
-        "bytes": 9996,
+        "bytes": 5935,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cure-notice-before-firing.html",
-        "bytes": 9996,
+        "bytes": 5941,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hidden-problems-from-old-work.html",
-        "bytes": 10042,
+        "bytes": 5962,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/timeline-after-takeover-starts.html",
-        "bytes": 10044,
+        "bytes": 5960,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/keeping-old-subcontractors.html",
-        "bytes": 9986,
+        "bytes": 5927,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permits-for-takeover-work.html",
-        "bytes": 9834,
+        "bytes": 5833,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/change-requests-mid-takeover.html",
-        "bytes": 9938,
+        "bytes": 5895,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/final-inspection-process.html",
-        "bytes": 9982,
+        "bytes": 5925,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/lawyer-role-in-takeovers.html",
-        "bytes": 9976,
+        "bytes": 5935,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/documents-new-contractor-needs.html",
-        "bytes": 10030,
+        "bytes": 5949,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/surety-refusal-scenarios.html",
-        "bytes": 9910,
+        "bytes": 5889,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-overruns-in-takeover.html",
-        "bytes": 9964,
+        "bytes": 5918,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/original-contractor-lawsuits.html",
-        "bytes": 9896,
+        "bytes": 5871,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bond-requirements-for-new-contractor.html",
-        "bytes": 9938,
+        "bytes": 5890,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-future-defaults.html",
-        "bytes": 9778,
+        "bytes": 5805,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/takeover-vs-full-rebid-speed.html",
-        "bytes": 9892,
+        "bytes": 5870,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/site-access-after-default.html",
-        "bytes": 9876,
+        "bytes": 5857,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/materials-from-old-contractor.html",
-        "bytes": 9908,
+        "bytes": 5873,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/insurance-during-takeover.html",
-        "bytes": 9814,
+        "bytes": 5816,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-new-home-building-steps.html",
-        "bytes": 10508,
+        "bytes": 6246,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/land-custom-build-guide.html",
-        "bytes": 10196,
+        "bytes": 6056,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-custom-home-features.html",
-        "bytes": 10256,
+        "bytes": 6090,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-build-custom-in-2026.html",
-        "bytes": 10042,
+        "bytes": 5955,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-custom-planning-strategy.html",
-        "bytes": 10196,
+        "bytes": 6044,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-home-design-trends.html",
-        "bytes": 10018,
+        "bytes": 5935,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/luxury-custom-trends-2026.html",
-        "bytes": 9976,
+        "bytes": 5906,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-luxury-interiors.html",
-        "bytes": 9822,
+        "bytes": 5807,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/2026-building-trends.html",
-        "bytes": 9752,
+        "bytes": 5765,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/high-end-2026-interiors.html",
-        "bytes": 9864,
+        "bytes": 5826,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/site-truth-in-design.html",
-        "bytes": 9730,
+        "bytes": 5749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/early-material-selection.html",
-        "bytes": 9814,
+        "bytes": 5796,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permit-sequencing.html",
-        "bytes": 9702,
+        "bytes": 5730,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/rochester-custom-expertise.html",
-        "bytes": 9776,
+        "bytes": 5765,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/value-add-features.html",
-        "bytes": 9640,
+        "bytes": 5685,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-2026-trends.html",
-        "bytes": 9738,
+        "bytes": 5752,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/color-trends-2026.html",
-        "bytes": 9688,
+        "bytes": 5716,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fha-custom-financing.html",
-        "bytes": 9734,
+        "bytes": 5747,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/contractor-vetting-process.html",
-        "bytes": 9810,
+        "bytes": 5790,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permit-types-list.html",
-        "bytes": 9776,
+        "bytes": 5780,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/custom-vs-resale-benefits.html",
-        "bytes": 9814,
+        "bytes": 5798,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/flexible-space-design.html",
-        "bytes": 9690,
+        "bytes": 5723,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sustainable-envelope.html",
-        "bytes": 9586,
+        "bytes": 5617,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pre-construction-pacing.html",
-        "bytes": 9522,
+        "bytes": 5526,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/local-builder-advantages.html",
-        "bytes": 9386,
+        "bytes": 5395,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -6203,7 +6203,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4679,
+        "bytes": 4653,
         "purpose": "LLM hint"
       },
       {
@@ -6223,32 +6223,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1689,
+        "bytes": 1637,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 424558,
+        "bytes": 424506,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 128242,
+        "bytes": 128216,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 128242,
+        "bytes": 128216,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4720,
+        "bytes": 4694,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 129932,
+        "bytes": 129906,
         "purpose": "Repository README"
       },
       {
@@ -6266,7 +6266,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/behr-construction-ai-schemas-4knd",
-      "pagesUrl": "https://aiovisibilityhub.github.io/behr-construction-ai-schemas-4knd/",
+      "pagesUrl": "https://behrconstruction.aiovisibility.net/",
       "repo": "AIOVisibilityHub/behr-construction-ai-schemas-4knd"
     }
   }
