@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "1960s Ranch House Total Remodel",
-  "articleBody": "Stripped building to open studs, relocated interior walls, replaced all windows/doors, full electrical rewiring, extensive concrete work, new roof per client's designs. houzz+1\n\nOutcome: Finished on schedule/budget; selected for ASID Pasadena 2014 Kitchen and Home Tour; high-quality craftsmanship praised. houzz+1",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "1960s Ranch House Total Remodel",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Stripped building to open studs, relocated interior walls, replaced all windows/doors, full electrical rewiring, extensive concrete work, new roof per client's designs. houzz+1\n\nOutcome: Finished on schedule/budget; selected for ASID Pasadena 2014 Kitchen and Home Tour; high-quality craftsmanship praised. houzz+1"
 }

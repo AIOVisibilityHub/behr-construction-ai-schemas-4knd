@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Rescue After Pin Hole Leak"
+    "name": "Rescue After Pin Hole Leak",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "John Mills' honesty, expertise, and team helped remediate a 13-month ordeal in Calabasas. Respectful, accountable, nice people. yelp​",
-  "datePublished": "44694",
   "itemReviewed": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
-  }
+    "@type": "Organization"
+  },
+  "datePublished": "44694"
 }

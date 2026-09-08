@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Responsive Repairs and Additions"
+    "name": "Responsive Repairs and Additions",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Fixed prior contractor issues (leaky windows, grout, faucet); added walk-in closet, marble bathroom, gas line. Responsive, polite, diligent—great community asset. behrconstruction+1",
-  "datePublished": "N/A",
   "itemReviewed": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
-  }
+    "@type": "Organization"
+  },
+  "datePublished": "N/A"
 }

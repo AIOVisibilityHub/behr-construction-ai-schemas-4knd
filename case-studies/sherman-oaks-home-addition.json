@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Sherman Oaks Home Addition",
-  "articleBody": "Major addition project; initial supervisor error quickly resolved. houzz​\n\nOutcome: Top-notch contract/supervision/subs; back on schedule immediately via Kurt Knechtel; would hire again and recommended to friends. houzz​",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Sherman Oaks Home Addition",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Major addition project; initial supervisor error quickly resolved. houzz​\n\nOutcome: Top-notch contract/supervision/subs; back on schedule immediately via Kurt Knechtel; would hire again and recommended to friends. houzz​"
 }

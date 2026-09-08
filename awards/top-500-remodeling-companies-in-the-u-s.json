@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Top 500 Remodeling Companies in the U.S.",
-  "datePublished": "1996–present behrconstruction​",
-  "provider": {
-    "@type": "Organization",
-    "name": "Qualified Remodeler Magazine"
-  },
+  "@type": "CreativeWork",
+  "award": "Top 500 Remodeling Companies in the U.S.",
   "author": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
-  "award": "Top 500 Remodeling Companies in the U.S."
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Qualified Remodeler Magazine",
+    "@type": "Organization"
+  },
+  "datePublished": "1996–present behrconstruction​"
 }

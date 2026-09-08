@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Highly Recommend Behr Construction"
+    "name": "Highly Recommend Behr Construction",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Excellent performance on house remodel and beach condo restoration after water damage. Jobs completed on schedule and budget, considerate workers, great management and communication. Quality exceeded expectations with a one-year guarantee. houzz+1",
-  "datePublished": "42112",
   "itemReviewed": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
-  }
+    "@type": "Organization"
+  },
+  "datePublished": "42112"
 }
