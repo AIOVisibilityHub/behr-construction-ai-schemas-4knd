@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Handling prior contractor payments?",
-  "description": "Deduct payments made; adjust for % complete at default.sweeneylawpa​",
   "url": "https://behrconstruction.com/faq/handling-prior-contractor-payments",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Handling prior contractor payments?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Deduct payments made; adjust for % complete at default.sweeneylawpa​"
-      }
-    }
-  ],
+  "name": "Handling prior contractor payments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Handling prior contractor payments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deduct payments made; adjust for % complete at default.sweeneylawpa​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Deduct payments made; adjust for % complete at default.sweeneylawpa​"
 }

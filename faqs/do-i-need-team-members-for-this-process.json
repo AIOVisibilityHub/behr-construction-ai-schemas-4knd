@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need lawyer for this process?",
-  "description": "Recommended; negotiates agreement, protects interests vs surety.carltonfields​",
   "url": "https://behrconstruction.com/faq/do-i-need-lawyer-for-this-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need lawyer for this process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recommended; negotiates agreement, protects interests vs surety.carltonfields​"
-      }
-    }
-  ],
+  "name": "Do I need lawyer for this process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need lawyer for this process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recommended; negotiates agreement, protects interests vs surety.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Recommended; negotiates agreement, protects interests vs surety.carltonfields​"
 }

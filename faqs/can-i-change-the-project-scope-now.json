@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I change the project scope now?",
-  "description": "Yes via change orders; approved by surety, paid from balance or extra funds.carltonfields​",
   "url": "https://behrconstruction.com/faq/can-i-change-the-project-scope-now",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I change the project scope now?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes via change orders; approved by surety, paid from balance or extra funds.carltonfields​"
-      }
-    }
-  ],
+  "name": "Can I change the project scope now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the project scope now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes via change orders; approved by surety, paid from balance or extra funds.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes via change orders; approved by surety, paid from balance or extra funds.carltonfields​"
 }

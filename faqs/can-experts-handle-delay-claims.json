@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can experts handle delay claims?",
-  "description": "Yes; schedule reconstruction, critical path analysis, concurrent delays attribution.rimkus+1",
   "url": "https://behrconstruction.com/faq/can-experts-handle-delay-claims",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can experts handle delay claims?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes; schedule reconstruction, critical path analysis, concurrent delays attribution.rimkus+1"
-      }
-    }
-  ],
+  "name": "Can experts handle delay claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can experts handle delay claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes; schedule reconstruction, critical path analysis, concurrent delays attribution.rimkus+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes; schedule reconstruction, critical path analysis, concurrent delays attribution.rimkus+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is expert evidence gathered?",
-  "description": "Document review (plans/contracts), site inspections, interviews, testing, industry standard comparison.jurispro+1",
   "url": "https://behrconstruction.com/faq/how-is-expert-evidence-gathered",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is expert evidence gathered?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Document review (plans/contracts), site inspections, interviews, testing, industry standard comparison.jurispro+1"
-      }
-    }
-  ],
+  "name": "How is expert evidence gathered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is expert evidence gathered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Document review (plans/contracts), site inspections, interviews, testing, industry standard comparison.jurispro+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Document review (plans/contracts), site inspections, interviews, testing, industry standard comparison.jurispro+1"
 }

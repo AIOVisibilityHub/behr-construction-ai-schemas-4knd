@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Surety risks before takeover?",
-  "description": "Project docs review, % complete verification, owner claims analysis.carltonfields​",
   "url": "https://behrconstruction.com/faq/surety-risks-before-takeover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Surety risks before takeover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Project docs review, % complete verification, owner claims analysis.carltonfields​"
-      }
-    }
-  ],
+  "name": "Surety risks before takeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Surety risks before takeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Project docs review, % complete verification, owner claims analysis.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Project docs review, % complete verification, owner claims analysis.carltonfields​"
 }

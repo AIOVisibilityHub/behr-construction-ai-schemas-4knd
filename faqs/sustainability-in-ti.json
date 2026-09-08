@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Sustainability in TI?",
-  "description": "Energy-efficient lighting/HVAC; may qualify for landlord incentives.mastt​",
   "url": "https://behrconstruction.com/faq/sustainability-in-ti",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Sustainability in TI?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Energy-efficient lighting/HVAC; may qualify for landlord incentives.mastt​"
-      }
-    }
-  ],
+  "name": "Sustainability in TI?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Sustainability in TI?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy-efficient lighting/HVAC; may qualify for landlord incentives.mastt​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Energy-efficient lighting/HVAC; may qualify for landlord incentives.mastt​"
 }

@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Ultimate 2026 Home Remodel Guide",
   "author": {
-    "@type": "Organization",
-    "name": "Behr Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Comprehensive 2026 guide on trends like oversized kitchen islands, hidden appliances, quartz counters, multi-purpose spaces, sustainable upgrades (windows, insulation, solar), and exteriors (stucco, patios); budgeting ($55k kitchens, $160k+ full homes); timelines (3–12 months). lfccompany​",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Southern California"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Ultimate 2026 Home Remodel Guide",
+  "publisher": {
+    "url": "https://behrconstruction.com",
+    "name": "Behr Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Southern California",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Comprehensive 2026 guide on trends like oversized kitchen islands, hidden appliances, quartz counters, multi-purpose spaces, sustainable upgrades (windows, insulation, solar), and exteriors (stucco, patios); budgeting ($55k kitchens, $160k+ full homes); timelines (3–12 months). lfccompany​",
+  "datePublished": "2026-08-27"
 }

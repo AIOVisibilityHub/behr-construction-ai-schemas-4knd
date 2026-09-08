@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "About Behr - Greetings",
   "author": {
-    "@type": "Organization",
-    "name": "Behr Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Founder Chris Behr shares his 1969 start in construction building a grape stake fence, emphasizing that after 25+ years, success relies on pride, hard work, trust, respect, and communication between homeowners and contractors for exceeding expectations. behrconstruction​",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Southern California"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "About Behr - Greetings",
+  "publisher": {
+    "url": "https://behrconstruction.com",
+    "name": "Behr Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Southern California",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Founder Chris Behr shares his 1969 start in construction building a grape stake fence, emphasizing that after 25+ years, success relies on pride, hard work, trust, respect, and communication between homeowners and contractors for exceeding expectations. behrconstruction​",
+  "datePublished": "2026-08-27"
 }

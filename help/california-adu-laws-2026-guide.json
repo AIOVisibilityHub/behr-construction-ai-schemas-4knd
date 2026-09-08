@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "California ADU Laws 2026 Guide",
   "author": {
-    "@type": "Organization",
-    "name": "Behr Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Core standards: 850 sq ft studios/1-bed, 1,000 sq ft 2+ beds; 60-day ministerial approval, 4 ft setbacks, 16 ft height, no parking required.nestadu​",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Southern California"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "California ADU Laws 2026 Guide",
+  "publisher": {
+    "url": "https://behrconstruction.com",
+    "name": "Behr Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Southern California",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Core standards: 850 sq ft studios/1-bed, 1,000 sq ft 2+ beds; 60-day ministerial approval, 4 ft setbacks, 16 ft height, no parking required.nestadu​",
+  "datePublished": "2026-08-27"
 }

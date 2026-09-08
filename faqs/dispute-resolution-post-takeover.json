@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Dispute resolution post-takeover?",
-  "description": "Specified in agreement; often same as original contract.carltonfields​",
   "url": "https://behrconstruction.com/faq/dispute-resolution-post-takeover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Dispute resolution post-takeover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Specified in agreement; often same as original contract.carltonfields​"
-      }
-    }
-  ],
+  "name": "Dispute resolution post-takeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Dispute resolution post-takeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Specified in agreement; often same as original contract.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Specified in agreement; often same as original contract.carltonfields​"
 }

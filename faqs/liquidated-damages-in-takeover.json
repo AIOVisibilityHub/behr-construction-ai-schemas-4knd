@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Liquidated damages in takeover?",
-  "description": "Negotiable; owner may waive some for faster completion.sweeneylawpa+1",
   "url": "https://behrconstruction.com/faq/liquidated-damages-in-takeover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Liquidated damages in takeover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Negotiable; owner may waive some for faster completion.sweeneylawpa+1"
-      }
-    }
-  ],
+  "name": "Liquidated damages in takeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Liquidated damages in takeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negotiable; owner may waive some for faster completion.sweeneylawpa+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Negotiable; owner may waive some for faster completion.sweeneylawpa+1"
 }

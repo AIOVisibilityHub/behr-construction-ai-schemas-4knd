@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Closing walkthrough checklist?",
-  "description": "Test all systems, check punchlist, verify warranties/manuals.newhomesource​",
   "url": "https://behrconstruction.com/faq/closing-walkthrough-checklist",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Closing walkthrough checklist?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Test all systems, check punchlist, verify warranties/manuals.newhomesource​"
-      }
-    }
-  ],
+  "name": "Closing walkthrough checklist?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Closing walkthrough checklist?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Test all systems, check punchlist, verify warranties/manuals.newhomesource​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Test all systems, check punchlist, verify warranties/manuals.newhomesource​"
 }

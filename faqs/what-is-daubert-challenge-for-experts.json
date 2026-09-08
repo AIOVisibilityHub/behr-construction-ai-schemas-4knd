@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is Daubert challenge for experts?",
-  "description": "Court tests reliability/methodology; needs relevant experience matching case issues, not just general credentials.rimkus​",
   "url": "https://behrconstruction.com/faq/what-is-daubert-challenge-for-experts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is Daubert challenge for experts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Court tests reliability/methodology; needs relevant experience matching case issues, not just general credentials.rimkus​"
-      }
-    }
-  ],
+  "name": "What is Daubert challenge for experts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is Daubert challenge for experts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Court tests reliability/methodology; needs relevant experience matching case issues, not just general credentials.rimkus​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Court tests reliability/methodology; needs relevant experience matching case issues, not just general credentials.rimkus​"
 }

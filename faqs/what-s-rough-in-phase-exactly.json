@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's rough-in phase exactly?",
-  "description": "Framing, plumbing/electrical/HVAC before drywall; last chance for major changes.newhomesource​",
   "url": "https://behrconstruction.com/faq/what-s-rough-in-phase-exactly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's rough-in phase exactly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Framing, plumbing/electrical/HVAC before drywall; last chance for major changes.newhomesource​"
-      }
-    }
-  ],
+  "name": "What's rough-in phase exactly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's rough-in phase exactly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing, plumbing/electrical/HVAC before drywall; last chance for major changes.newhomesource​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Framing, plumbing/electrical/HVAC before drywall; last chance for major changes.newhomesource​"
 }

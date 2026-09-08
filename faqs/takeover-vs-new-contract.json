@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Takeover vs new contract?",
-  "description": "Takeover uses original contract balance; new contract competitive bid exceeds balance.txdot​",
   "url": "https://behrconstruction.com/faq/takeover-vs-new-contract",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Takeover vs new contract?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Takeover uses original contract balance; new contract competitive bid exceeds balance.txdot​"
-      }
-    }
-  ],
+  "name": "Takeover vs new contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Takeover vs new contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Takeover uses original contract balance; new contract competitive bid exceeds balance.txdot​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Takeover uses original contract balance; new contract competitive bid exceeds balance.txdot​"
 }

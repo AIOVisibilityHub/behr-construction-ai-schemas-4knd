@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Sourcing Historic Materials",
   "author": {
-    "@type": "Organization",
-    "name": "Behr Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Reclaimed lumber, custom millwork replicating profiles. noahconstruction-builders​",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Southern California"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Sourcing Historic Materials",
+  "publisher": {
+    "url": "https://behrconstruction.com",
+    "name": "Behr Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Southern California",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Reclaimed lumber, custom millwork replicating profiles. noahconstruction-builders​",
+  "datePublished": "2026-08-27"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the first contractor didn't finish on time?",
-  "description": "New contractor gets adjusted schedule; liquidated damages may apply to original but negotiable with surety.carltonfields​",
   "url": "https://behrconstruction.com/faq/what-if-the-first-contractor-didn-t-finish-on-time",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the first contractor didn't finish on time?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "New contractor gets adjusted schedule; liquidated damages may apply to original but negotiable with surety.carltonfields​"
-      }
-    }
-  ],
+  "name": "What if the first contractor didn't finish on time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the first contractor didn't finish on time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New contractor gets adjusted schedule; liquidated damages may apply to original but negotiable with surety.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "New contractor gets adjusted schedule; liquidated damages may apply to original but negotiable with surety.carltonfields​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can surety refuse to takeover?",
-  "description": "Options include financing original or new bid; takeover voluntary but common.robbinsdimonte​",
   "url": "https://behrconstruction.com/faq/can-surety-refuse-to-takeover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can surety refuse to takeover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Options include financing original or new bid; takeover voluntary but common.robbinsdimonte​"
-      }
-    }
-  ],
+  "name": "Can surety refuse to takeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can surety refuse to takeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Options include financing original or new bid; takeover voluntary but common.robbinsdimonte​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Options include financing original or new bid; takeover voluntary but common.robbinsdimonte​"
 }

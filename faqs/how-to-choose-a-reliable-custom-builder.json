@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to choose a reliable custom builder?",
-  "description": "Check 10+ years experience, local references, bonded/insured, detailed contracts, past project visits.lexarhomes​",
   "url": "https://behrconstruction.com/faq/how-to-choose-a-reliable-custom-builder",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to choose a reliable custom builder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Check 10+ years experience, local references, bonded/insured, detailed contracts, past project visits.lexarhomes​"
-      }
-    }
-  ],
+  "name": "How to choose a reliable custom builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to choose a reliable custom builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Check 10+ years experience, local references, bonded/insured, detailed contracts, past project visits.lexarhomes​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Check 10+ years experience, local references, bonded/insured, detailed contracts, past project visits.lexarhomes​"
 }

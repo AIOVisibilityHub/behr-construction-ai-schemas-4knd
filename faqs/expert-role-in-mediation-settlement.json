@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Expert role in mediation/settlement?",
-  "description": "Objective analysis often resolves pre-trial via reports/consulting.hsecontractors​",
   "url": "https://behrconstruction.com/faq/expert-role-in-mediation-settlement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Expert role in mediation/settlement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Objective analysis often resolves pre-trial via reports/consulting.hsecontractors​"
-      }
-    }
-  ],
+  "name": "Expert role in mediation/settlement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Expert role in mediation/settlement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Objective analysis often resolves pre-trial via reports/consulting.hsecontractors​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Objective analysis often resolves pre-trial via reports/consulting.hsecontractors​"
 }

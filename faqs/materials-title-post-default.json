@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Materials title post-default?",
-  "description": "Government/owner retains title; provided to completion contractor.acquisition​",
   "url": "https://behrconstruction.com/faq/materials-title-post-default",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Materials title post-default?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Government/owner retains title; provided to completion contractor.acquisition​"
-      }
-    }
-  ],
+  "name": "Materials title post-default?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Materials title post-default?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Government/owner retains title; provided to completion contractor.acquisition​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Government/owner retains title; provided to completion contractor.acquisition​"
 }

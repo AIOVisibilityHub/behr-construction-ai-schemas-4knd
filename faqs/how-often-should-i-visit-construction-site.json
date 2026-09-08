@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How often should I visit construction site?",
-  "description": "Weekly minimum; use builder app for photos/updates, attend key milestones.lexarhomes​",
   "url": "https://behrconstruction.com/faq/how-often-should-i-visit-construction-site",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often should I visit construction site?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Weekly minimum; use builder app for photos/updates, attend key milestones.lexarhomes​"
-      }
-    }
-  ],
+  "name": "How often should I visit construction site?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I visit construction site?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weekly minimum; use builder app for photos/updates, attend key milestones.lexarhomes​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Weekly minimum; use builder app for photos/updates, attend key milestones.lexarhomes​"
 }

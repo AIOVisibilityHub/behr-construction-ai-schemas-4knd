@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Landscaping timing/budget?",
-  "description": "Phase post-occupancy; 5-10% budget, plan irrigation/drainage.gjgardner​",
   "url": "https://behrconstruction.com/faq/landscaping-timing-budget",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Landscaping timing/budget?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Phase post-occupancy; 5-10% budget, plan irrigation/drainage.gjgardner​"
-      }
-    }
-  ],
+  "name": "Landscaping timing/budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Landscaping timing/budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Phase post-occupancy; 5-10% budget, plan irrigation/drainage.gjgardner​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Phase post-occupancy; 5-10% budget, plan irrigation/drainage.gjgardner​"
 }

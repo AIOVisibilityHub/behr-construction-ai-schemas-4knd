@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is bond required for takeover?",
-  "description": "Completion contractor may need new performance/payment bonds.txdot​",
   "url": "https://behrconstruction.com/faq/is-bond-required-for-takeover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is bond required for takeover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Completion contractor may need new performance/payment bonds.txdot​"
-      }
-    }
-  ],
+  "name": "Is bond required for takeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is bond required for takeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Completion contractor may need new performance/payment bonds.txdot​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Completion contractor may need new performance/payment bonds.txdot​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does custom home construction take?",
-  "description": "8-16 months typical; site prep/design 2-4 months, framing/rough-ins 2-3 months, finishes 2-4 months.gjgardner​",
   "url": "https://behrconstruction.com/faq/how-long-does-custom-home-construction-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does custom home construction take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "8-16 months typical; site prep/design 2-4 months, framing/rough-ins 2-3 months, finishes 2-4 months.gjgardner​"
-      }
-    }
-  ],
+  "name": "How long does custom home construction take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does custom home construction take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "8-16 months typical; site prep/design 2-4 months, framing/rough-ins 2-3 months, finishes 2-4 months.gjgardner​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "8-16 months typical; site prep/design 2-4 months, framing/rough-ins 2-3 months, finishes 2-4 months.gjgardner​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "ADA compliance in TI?",
-  "description": "Required for public/commercial spaces; landlord/tenant responsibilities per lease.wellsandwest​",
   "url": "https://behrconstruction.com/faq/ada-compliance-in-ti",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "ADA compliance in TI?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Required for public/commercial spaces; landlord/tenant responsibilities per lease.wellsandwest​"
-      }
-    }
-  ],
+  "name": "ADA compliance in TI?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "ADA compliance in TI?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Required for public/commercial spaces; landlord/tenant responsibilities per lease.wellsandwest​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Required for public/commercial spaces; landlord/tenant responsibilities per lease.wellsandwest​"
 }

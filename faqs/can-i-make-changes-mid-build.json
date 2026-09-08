@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I make changes mid-build?",
-  "description": "Yes but costly after rough-in; framing changes add 2-5x original price.newhomesource​",
   "url": "https://behrconstruction.com/faq/can-i-make-changes-mid-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I make changes mid-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes but costly after rough-in; framing changes add 2-5x original price.newhomesource​"
-      }
-    }
-  ],
+  "name": "Can I make changes mid-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes mid-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes but costly after rough-in; framing changes add 2-5x original price.newhomesource​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes but costly after rough-in; framing changes add 2-5x original price.newhomesource​"
 }

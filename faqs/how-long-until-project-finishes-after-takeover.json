@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long until project finishes after takeover?",
-  "description": "New date set in agreement; typically faster than rebidding full project.sweeneylawpa​",
   "url": "https://behrconstruction.com/faq/how-long-until-project-finishes-after-takeover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long until project finishes after takeover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "New date set in agreement; typically faster than rebidding full project.sweeneylawpa​"
-      }
-    }
-  ],
+  "name": "How long until project finishes after takeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long until project finishes after takeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New date set in agreement; typically faster than rebidding full project.sweeneylawpa​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "New date set in agreement; typically faster than rebidding full project.sweeneylawpa​"
 }

@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Open Concept Primary Layouts",
   "author": {
-    "@type": "Organization",
-    "name": "Behr Construction"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Barrier-free showers, frameless glass, floating vanities. rebath​",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Southern California"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Open Concept Primary Layouts",
+  "publisher": {
+    "url": "https://behrconstruction.com",
+    "name": "Behr Construction",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Southern California",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Barrier-free showers, frameless glass, floating vanities. rebath​",
+  "datePublished": "2026-08-27"
 }

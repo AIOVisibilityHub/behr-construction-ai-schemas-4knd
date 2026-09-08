@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Notice requirements?",
-  "description": "Written default notice with cure period (10+ days).acquisition​",
   "url": "https://behrconstruction.com/faq/notice-requirements",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Notice requirements?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Written default notice with cure period (10+ days).acquisition​"
-      }
-    }
-  ],
+  "name": "Notice requirements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Notice requirements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Written default notice with cure period (10+ days).acquisition​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Written default notice with cure period (10+ days).acquisition​"
 }

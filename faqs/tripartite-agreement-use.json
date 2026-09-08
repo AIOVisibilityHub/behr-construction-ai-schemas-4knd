@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Tripartite agreement use?",
-  "description": "Resolves defaulted contractor residual rights with owner/surety.acquisition​",
   "url": "https://behrconstruction.com/faq/tripartite-agreement-use",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Tripartite agreement use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Resolves defaulted contractor residual rights with owner/surety.acquisition​"
-      }
-    }
-  ],
+  "name": "Tripartite agreement use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Tripartite agreement use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Resolves defaulted contractor residual rights with owner/surety.acquisition​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Resolves defaulted contractor residual rights with owner/surety.acquisition​"
 }

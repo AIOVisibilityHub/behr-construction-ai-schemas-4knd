@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Need multiple experts per case?",
-  "description": "Often; specialties like structural, MEP, scheduling complement contractor expertise.macyhanson​",
   "url": "https://behrconstruction.com/faq/need-multiple-experts-per-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Need multiple experts per case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Often; specialties like structural, MEP, scheduling complement contractor expertise.macyhanson​"
-      }
-    }
-  ],
+  "name": "Need multiple experts per case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Need multiple experts per case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often; specialties like structural, MEP, scheduling complement contractor expertise.macyhanson​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Often; specialties like structural, MEP, scheduling complement contractor expertise.macyhanson​"
 }

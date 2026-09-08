@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What preparation for testimony?",
-  "description": "Mock cross-examination, visual aids, clear non-technical explanations.rimkus​",
   "url": "https://behrconstruction.com/faq/what-preparation-for-testimony",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What preparation for testimony?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Mock cross-examination, visual aids, clear non-technical explanations.rimkus​"
-      }
-    }
-  ],
+  "name": "What preparation for testimony?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation for testimony?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mock cross-examination, visual aids, clear non-technical explanations.rimkus​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Mock cross-examination, visual aids, clear non-technical explanations.rimkus​"
 }

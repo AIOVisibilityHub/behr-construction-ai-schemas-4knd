@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Latent defects responsibility?",
-  "description": "Negotiated; surety typically not liable for original contractor's hidden defects.carltonfields​",
   "url": "https://behrconstruction.com/faq/latent-defects-responsibility",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Latent defects responsibility?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Negotiated; surety typically not liable for original contractor's hidden defects.carltonfields​"
-      }
-    }
-  ],
+  "name": "Latent defects responsibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Latent defects responsibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negotiated; surety typically not liable for original contractor's hidden defects.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Negotiated; surety typically not liable for original contractor's hidden defects.carltonfields​"
 }

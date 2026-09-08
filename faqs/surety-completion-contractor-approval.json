@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Surety completion contractor approval?",
-  "description": "Owner may reject; must be prequalified (e.g., TxDOT approved).txdot​",
   "url": "https://behrconstruction.com/faq/surety-completion-contractor-approval",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Surety completion contractor approval?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Owner may reject; must be prequalified (e.g., TxDOT approved).txdot​"
-      }
-    }
-  ],
+  "name": "Surety completion contractor approval?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Surety completion contractor approval?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owner may reject; must be prequalified (e.g., TxDOT approved).txdot​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Owner may reject; must be prequalified (e.g., TxDOT approved).txdot​"
 }

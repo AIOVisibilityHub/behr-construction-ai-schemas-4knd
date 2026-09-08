@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Owner responsibilities in takeover?",
-  "description": "Provide contract docs, as-builts, % complete, claims list; pay surety remaining balance minus offsets.carltonfields​",
   "url": "https://behrconstruction.com/faq/owner-responsibilities-in-takeover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Owner responsibilities in takeover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Provide contract docs, as-builts, % complete, claims list; pay surety remaining balance minus offsets.carltonfields​"
-      }
-    }
-  ],
+  "name": "Owner responsibilities in takeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Owner responsibilities in takeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Provide contract docs, as-builts, % complete, claims list; pay surety remaining balance minus offsets.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Provide contract docs, as-builts, % complete, claims list; pay surety remaining balance minus offsets.carltonfields​"
 }

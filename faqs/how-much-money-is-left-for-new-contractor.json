@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much money is left for new contractor?",
-  "description": "Unpaid contract balance minus prior payments, defects fixes, owner claims.carltonfields​",
   "url": "https://behrconstruction.com/faq/how-much-money-is-left-for-new-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much money is left for new contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Unpaid contract balance minus prior payments, defects fixes, owner claims.carltonfields​"
-      }
-    }
-  ],
+  "name": "How much money is left for new contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much money is left for new contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unpaid contract balance minus prior payments, defects fixes, owner claims.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Unpaid contract balance minus prior payments, defects fixes, owner claims.carltonfields​"
 }

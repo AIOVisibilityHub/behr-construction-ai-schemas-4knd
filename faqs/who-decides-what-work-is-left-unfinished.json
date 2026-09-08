@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who decides what work is left unfinished?",
-  "description": "Joint owner/surety inspection; lists punchlist, defects, remaining scope in agreement.carltonfields​",
   "url": "https://behrconstruction.com/faq/who-decides-what-work-is-left-unfinished",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who decides what work is left unfinished?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Joint owner/surety inspection; lists punchlist, defects, remaining scope in agreement.carltonfields​"
-      }
-    }
-  ],
+  "name": "Who decides what work is left unfinished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who decides what work is left unfinished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Joint owner/surety inspection; lists punchlist, defects, remaining scope in agreement.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Joint owner/surety inspection; lists punchlist, defects, remaining scope in agreement.carltonfields​"
 }

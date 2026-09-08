@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if first contractor sues?",
-  "description": "Surety handles claims; tripartite agreement may resolve rights.acquisition​",
   "url": "https://behrconstruction.com/faq/what-if-first-contractor-sues",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if first contractor sues?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Surety handles claims; tripartite agreement may resolve rights.acquisition​"
-      }
-    }
-  ],
+  "name": "What if first contractor sues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if first contractor sues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surety handles claims; tripartite agreement may resolve rights.acquisition​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Surety handles claims; tripartite agreement may resolve rights.acquisition​"
 }

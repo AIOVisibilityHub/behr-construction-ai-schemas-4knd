@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a construction default takeover?",
-  "description": "Surety assumes original contractor's obligations via takeover agreement to complete project after default declaration.sweeneylawpa​",
   "url": "https://behrconstruction.com/faq/what-is-a-construction-default-takeover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a construction default takeover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Surety assumes original contractor's obligations via takeover agreement to complete project after default declaration.sweeneylawpa​"
-      }
-    }
-  ],
+  "name": "What is a construction default takeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a construction default takeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surety assumes original contractor's obligations via takeover agreement to complete project after default declaration.sweeneylawpa​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Surety assumes original contractor's obligations via takeover agreement to complete project after default declaration.sweeneylawpa​"
 }

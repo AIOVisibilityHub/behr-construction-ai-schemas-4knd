@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if hidden problems from first job appear?",
-  "description": "Negotiated; usually original contractor's responsibility, not new one's unless specified.carltonfields​",
   "url": "https://behrconstruction.com/faq/what-if-hidden-problems-from-first-job-appear",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if hidden problems from first job appear?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Negotiated; usually original contractor's responsibility, not new one's unless specified.carltonfields​"
-      }
-    }
-  ],
+  "name": "What if hidden problems from first job appear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if hidden problems from first job appear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negotiated; usually original contractor's responsibility, not new one's unless specified.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Negotiated; usually original contractor's responsibility, not new one's unless specified.carltonfields​"
 }

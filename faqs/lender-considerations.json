@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Lender considerations?",
-  "description": "Assurance of financially responsible completion; delay protections.carltonfields​",
   "url": "https://behrconstruction.com/faq/lender-considerations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Lender considerations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Assurance of financially responsible completion; delay protections.carltonfields​"
-      }
-    }
-  ],
+  "name": "Lender considerations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Lender considerations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Assurance of financially responsible completion; delay protections.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Assurance of financially responsible completion; delay protections.carltonfields​"
 }

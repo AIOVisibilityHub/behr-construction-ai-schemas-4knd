@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Handle forensic investigations?",
-  "description": "Yes; failure analysis, material testing, causation determination.hsecontractors+1",
   "url": "https://behrconstruction.com/faq/handle-forensic-investigations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Handle forensic investigations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes; failure analysis, material testing, causation determination.hsecontractors+1"
-      }
-    }
-  ],
+  "name": "Handle forensic investigations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Handle forensic investigations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes; failure analysis, material testing, causation determination.hsecontractors+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes; failure analysis, material testing, causation determination.hsecontractors+1"
 }

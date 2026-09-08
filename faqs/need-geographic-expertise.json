@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Need geographic expertise?",
-  "description": "Yes; local codes, materials, customs affect standards analysis.leaders-in-law​",
   "url": "https://behrconstruction.com/faq/need-geographic-expertise",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Need geographic expertise?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes; local codes, materials, customs affect standards analysis.leaders-in-law​"
-      }
-    }
-  ],
+  "name": "Need geographic expertise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Need geographic expertise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes; local codes, materials, customs affect standards analysis.leaders-in-law​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes; local codes, materials, customs affect standards analysis.leaders-in-law​"
 }

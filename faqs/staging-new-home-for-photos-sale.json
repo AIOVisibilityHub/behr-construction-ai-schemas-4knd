@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Staging new home for photos/sale?",
-  "description": "Optional $5k-15k; boosts appeal 73% faster sales higher prices.nor-soncustombuilders​",
   "url": "https://behrconstruction.com/faq/staging-new-home-for-photos-sale",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Staging new home for photos/sale?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Optional $5k-15k; boosts appeal 73% faster sales higher prices.nor-soncustombuilders​"
-      }
-    }
-  ],
+  "name": "Staging new home for photos/sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Staging new home for photos/sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Optional $5k-15k; boosts appeal 73% faster sales higher prices.nor-soncustombuilders​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Optional $5k-15k; boosts appeal 73% faster sales higher prices.nor-soncustombuilders​"
 }

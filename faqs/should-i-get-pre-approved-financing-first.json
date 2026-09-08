@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I get pre-approved financing first?",
-  "description": "Yes; locks rates, shows builders you're serious, prevents mid-build loan issues.krmcustomhomes​",
   "url": "https://behrconstruction.com/faq/should-i-get-pre-approved-financing-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I get pre-approved financing first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes; locks rates, shows builders you're serious, prevents mid-build loan issues.krmcustomhomes​"
-      }
-    }
-  ],
+  "name": "Should I get pre-approved financing first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get pre-approved financing first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes; locks rates, shows builders you're serious, prevents mid-build loan issues.krmcustomhomes​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes; locks rates, shows builders you're serious, prevents mid-build loan issues.krmcustomhomes​"
 }

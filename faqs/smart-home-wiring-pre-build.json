@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Smart home wiring pre-build?",
-  "description": "Cat6 everywhere, central hub, conduits for future upgrades.lexarhomes​",
   "url": "https://behrconstruction.com/faq/smart-home-wiring-pre-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Smart home wiring pre-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cat6 everywhere, central hub, conduits for future upgrades.lexarhomes​"
-      }
-    }
-  ],
+  "name": "Smart home wiring pre-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Smart home wiring pre-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cat6 everywhere, central hub, conduits for future upgrades.lexarhomes​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Cat6 everywhere, central hub, conduits for future upgrades.lexarhomes​"
 }

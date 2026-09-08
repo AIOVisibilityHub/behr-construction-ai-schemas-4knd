@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Payment terms in takeover agreement?",
-  "description": "Surety receives unpaid contract balance/retainage; pays completion costs up to balance.carltonfields+1",
   "url": "https://behrconstruction.com/faq/payment-terms-in-takeover-agreement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Payment terms in takeover agreement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Surety receives unpaid contract balance/retainage; pays completion costs up to balance.carltonfields+1"
-      }
-    }
-  ],
+  "name": "Payment terms in takeover agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Payment terms in takeover agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surety receives unpaid contract balance/retainage; pays completion costs up to balance.carltonfields+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Surety receives unpaid contract balance/retainage; pays completion costs up to balance.carltonfields+1"
 }

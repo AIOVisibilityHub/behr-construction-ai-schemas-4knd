@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Delays in TI construction?",
-  "description": "Rent commencement adjusts (landlord delays extend free rent, tenant delays accelerate).darroweverett​",
   "url": "https://behrconstruction.com/faq/delays-in-ti-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Delays in TI construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rent commencement adjusts (landlord delays extend free rent, tenant delays accelerate).darroweverett​"
-      }
-    }
-  ],
+  "name": "Delays in TI construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Delays in TI construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rent commencement adjusts (landlord delays extend free rent, tenant delays accelerate).darroweverett​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rent commencement adjusts (landlord delays extend free rent, tenant delays accelerate).darroweverett​"
 }

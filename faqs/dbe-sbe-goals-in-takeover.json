@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "DBE/SBE goals in takeover?",
-  "description": "Original commitments maintained if subcontractors agree.txdot​",
   "url": "https://behrconstruction.com/faq/dbe-sbe-goals-in-takeover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "DBE/SBE goals in takeover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Original commitments maintained if subcontractors agree.txdot​"
-      }
-    }
-  ],
+  "name": "DBE/SBE goals in takeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "DBE/SBE goals in takeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Original commitments maintained if subcontractors agree.txdot​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Original commitments maintained if subcontractors agree.txdot​"
 }

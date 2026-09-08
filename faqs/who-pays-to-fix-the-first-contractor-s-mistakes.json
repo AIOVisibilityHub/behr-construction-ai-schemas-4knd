@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who pays to fix the first contractor's mistakes?",
-  "description": "Surety/owner pays from unpaid contract balance; original faults deducted before new work funded.carltonfields​",
   "url": "https://behrconstruction.com/faq/who-pays-to-fix-the-first-contractor-s-mistakes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who pays to fix the first contractor's mistakes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Surety/owner pays from unpaid contract balance; original faults deducted before new work funded.carltonfields​"
-      }
-    }
-  ],
+  "name": "Who pays to fix the first contractor's mistakes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who pays to fix the first contractor's mistakes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surety/owner pays from unpaid contract balance; original faults deducted before new work funded.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Surety/owner pays from unpaid contract balance; original faults deducted before new work funded.carltonfields​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Surety other options?",
-  "description": "Cure default, new contractor, or financing completion.robbinsdimonte​",
   "url": "https://behrconstruction.com/faq/surety-other-options",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Surety other options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cure default, new contractor, or financing completion.robbinsdimonte​"
-      }
-    }
-  ],
+  "name": "Surety other options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Surety other options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cure default, new contractor, or financing completion.robbinsdimonte​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Cure default, new contractor, or financing completion.robbinsdimonte​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Builder warranty lengths?",
-  "description": "Structure 10 years, systems 1-2 years, workmanship 1 year typical.krmcustomhomes​",
   "url": "https://behrconstruction.com/faq/builder-warranty-lengths",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Builder warranty lengths?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Structure 10 years, systems 1-2 years, workmanship 1 year typical.krmcustomhomes​"
-      }
-    }
-  ],
+  "name": "Builder warranty lengths?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Builder warranty lengths?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structure 10 years, systems 1-2 years, workmanship 1 year typical.krmcustomhomes​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Structure 10 years, systems 1-2 years, workmanship 1 year typical.krmcustomhomes​"
 }

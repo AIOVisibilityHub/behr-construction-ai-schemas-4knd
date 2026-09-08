@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What cases need contractor expert testimony?",
-  "description": "Defects, delays, accidents, licensing violations, cost disputes, code compliance, standard of care breaches.jurispro+1",
   "url": "https://behrconstruction.com/faq/what-cases-need-contractor-expert-testimony",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What cases need contractor expert testimony?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Defects, delays, accidents, licensing violations, cost disputes, code compliance, standard of care breaches.jurispro+1"
-      }
-    }
-  ],
+  "name": "What cases need contractor expert testimony?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What cases need contractor expert testimony?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Defects, delays, accidents, licensing violations, cost disputes, code compliance, standard of care breaches.jurispro+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Defects, delays, accidents, licensing violations, cost disputes, code compliance, standard of care breaches.jurispro+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Performance bond activation?",
-  "description": "Default triggers surety liability; takeover most common remedy.robbinsdimonte​",
   "url": "https://behrconstruction.com/faq/performance-bond-activation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Performance bond activation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Default triggers surety liability; takeover most common remedy.robbinsdimonte​"
-      }
-    }
-  ],
+  "name": "Performance bond activation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Performance bond activation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Default triggers surety liability; takeover most common remedy.robbinsdimonte​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Default triggers surety liability; takeover most common remedy.robbinsdimonte​"
 }

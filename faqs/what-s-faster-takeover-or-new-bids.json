@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's faster: takeover or new bids?",
-  "description": "Takeover quicker; uses existing funds, avoids full rebid delays.txdot​",
   "url": "https://behrconstruction.com/faq/what-s-faster-takeover-or-new-bids",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's faster: takeover or new bids?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Takeover quicker; uses existing funds, avoids full rebid delays.txdot​"
-      }
-    }
-  ],
+  "name": "What's faster: takeover or new bids?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's faster: takeover or new bids?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Takeover quicker; uses existing funds, avoids full rebid delays.txdot​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Takeover quicker; uses existing funds, avoids full rebid delays.txdot​"
 }

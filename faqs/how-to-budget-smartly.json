@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to budget smartly?",
-  "description": "All-in costs: land 20-30%, build 50-60%, soft costs 10-20%, contingency 10-15%.gjgardner​",
   "url": "https://behrconstruction.com/faq/how-to-budget-smartly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to budget smartly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "All-in costs: land 20-30%, build 50-60%, soft costs 10-20%, contingency 10-15%.gjgardner​"
-      }
-    }
-  ],
+  "name": "How to budget smartly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to budget smartly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "All-in costs: land 20-30%, build 50-60%, soft costs 10-20%, contingency 10-15%.gjgardner​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "All-in costs: land 20-30%, build 50-60%, soft costs 10-20%, contingency 10-15%.gjgardner​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "New completion date?",
-  "description": "Extended from original; tied to LDs if missed.sweeneylawpa​",
   "url": "https://behrconstruction.com/faq/new-completion-date",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "New completion date?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Extended from original; tied to LDs if missed.sweeneylawpa​"
-      }
-    }
-  ],
+  "name": "New completion date?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "New completion date?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Extended from original; tied to LDs if missed.sweeneylawpa​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Extended from original; tied to LDs if missed.sweeneylawpa​"
 }

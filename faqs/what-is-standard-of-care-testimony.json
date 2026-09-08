@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is standard of care testimony?",
-  "description": "Whether contractor met industry duties/explicit warranties like workmanship, code compliance, scheduling.constructionexperttx​",
   "url": "https://behrconstruction.com/faq/what-is-standard-of-care-testimony",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is standard of care testimony?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Whether contractor met industry duties/explicit warranties like workmanship, code compliance, scheduling.constructionexperttx​"
-      }
-    }
-  ],
+  "name": "What is standard of care testimony?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is standard of care testimony?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether contractor met industry duties/explicit warranties like workmanship, code compliance, scheduling.constructionexperttx​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Whether contractor met industry duties/explicit warranties like workmanship, code compliance, scheduling.constructionexperttx​"
 }

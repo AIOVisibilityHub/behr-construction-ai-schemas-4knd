@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What reports do experts prepare?",
-  "description": "Opinions, data relied on, qualifications, prior testimony list per FRCP 26; withstands cross-examination.rimkus​",
   "url": "https://behrconstruction.com/faq/what-reports-do-experts-prepare",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What reports do experts prepare?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Opinions, data relied on, qualifications, prior testimony list per FRCP 26; withstands cross-examination.rimkus​"
-      }
-    }
-  ],
+  "name": "What reports do experts prepare?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What reports do experts prepare?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opinions, data relied on, qualifications, prior testimony list per FRCP 26; withstands cross-examination.rimkus​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Opinions, data relied on, qualifications, prior testimony list per FRCP 26; withstands cross-examination.rimkus​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What documents does new contractor need?",
-  "description": "Original plans, as-builts, payment logs, change orders, default notice.carltonfields​",
   "url": "https://behrconstruction.com/faq/what-documents-does-new-contractor-need",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What documents does new contractor need?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Original plans, as-builts, payment logs, change orders, default notice.carltonfields​"
-      }
-    }
-  ],
+  "name": "What documents does new contractor need?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What documents does new contractor need?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Original plans, as-builts, payment logs, change orders, default notice.carltonfields​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Original plans, as-builts, payment logs, change orders, default notice.carltonfields​"
 }
