@@ -1,0 +1,25 @@
+{
+  "url": "https://behrconstruction.com",
+  "name": "Appliance upgrades kitchen",
+  "@type": "GeneralContractor",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Southern California"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://behrconstruction.com",
+    "name": "Behr Construction",
+    "@type": "GeneralContractor",
+    "telephone": "(818) 952-2516"
+  },
+  "telephone": "(818) 952-2516",
+  "areaServed": [
+    {
+      "name": "Southern California",
+      "@type": "City"
+    }
+  ],
+  "description": "Learn how Behr Construction approaches Appliance upgrades kitchen in Southern California, including the typical process, what to expect, and how to get started.",
+  "serviceType": "Appliance upgrades kitchen"
+}

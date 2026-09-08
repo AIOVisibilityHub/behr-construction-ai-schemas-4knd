@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Great Kitchen Upgrade"
+    "name": "Great Kitchen Upgrade",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Wall removal, new counter/range/vent/bar—pricey but excellent quality with perfect corners and seamless soffit.yelp​",
-  "datePublished": "41531",
   "itemReviewed": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
-  }
+    "@type": "Organization"
+  },
+  "datePublished": "41531"
 }

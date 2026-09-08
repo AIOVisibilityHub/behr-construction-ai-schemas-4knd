@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Family Room and Kitchen Remodel"
+    "name": "Family Room and Kitchen Remodel",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Impressed with craftsmanship and management; under budget. Highly recommend. houzz​",
-  "datePublished": "41675",
   "itemReviewed": {
-    "@type": "Organization",
+    "url": "https://behrconstruction.com",
     "name": "Behr Construction",
-    "url": "https://behrconstruction.com"
-  }
+    "@type": "Organization"
+  },
+  "datePublished": "41675"
 }
