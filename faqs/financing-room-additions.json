@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Financing room additions?",
-  "description": "HELOC, cash-out refinance, construction loans; 7–9% rates typical. fbfs​",
   "url": "https://behrconstruction.com/faq/financing-room-additions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Financing room additions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "HELOC, cash-out refinance, construction loans; 7–9% rates typical. fbfs​"
-      }
-    }
-  ],
+  "name": "Financing room additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Financing room additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HELOC, cash-out refinance, construction loans; 7–9% rates typical. fbfs​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "HELOC, cash-out refinance, construction loans; 7–9% rates typical. fbfs​"
 }

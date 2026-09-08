@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does home restoration cost?",
-  "description": "$100–$300/sq ft depending on age/condition; older homes average 20–50% higher due to surprises like asbestos/lead. gaboconstruction​",
   "url": "https://behrconstruction.com/faq/how-much-does-home-restoration-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does home restoration cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$100–$300/sq ft depending on age/condition; older homes average 20–50% higher due to surprises like asbestos/lead. gaboconstruction​"
-      }
-    }
-  ],
+  "name": "How much does home restoration cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does home restoration cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$100–$300/sq ft depending on age/condition; older homes average 20–50% higher due to surprises like asbestos/lead. gaboconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$100–$300/sq ft depending on age/condition; older homes average 20–50% higher due to surprises like asbestos/lead. gaboconstruction​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to negotiate TI allowance?",
-  "description": "Detailed plans/budget during lease talks; justify business needs; request unused TIA as rent credit.alliescommercialrealty+1",
   "url": "https://behrconstruction.com/faq/how-to-negotiate-ti-allowance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to negotiate TI allowance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Detailed plans/budget during lease talks; justify business needs; request unused TIA as rent credit.alliescommercialrealty+1"
-      }
-    }
-  ],
+  "name": "How to negotiate TI allowance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to negotiate TI allowance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detailed plans/budget during lease talks; justify business needs; request unused TIA as rent credit.alliescommercialrealty+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Detailed plans/budget during lease talks; justify business needs; request unused TIA as rent credit.alliescommercialrealty+1"
 }

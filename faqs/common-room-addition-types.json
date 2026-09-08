@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Common room addition types?",
-  "description": "Master suite, family room, office, ADU, garage conversion, sunroom. marwoodconstruction+1",
   "url": "https://behrconstruction.com/faq/common-room-addition-types",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Common room addition types?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Master suite, family room, office, ADU, garage conversion, sunroom. marwoodconstruction+1"
-      }
-    }
-  ],
+  "name": "Common room addition types?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Common room addition types?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Master suite, family room, office, ADU, garage conversion, sunroom. marwoodconstruction+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Master suite, family room, office, ADU, garage conversion, sunroom. marwoodconstruction+1"
 }

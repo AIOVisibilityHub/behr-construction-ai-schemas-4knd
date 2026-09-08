@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Resale value impact?",
-  "description": "Increases if functional/needed; overbuilding reduces ROI. trustdale​",
   "url": "https://behrconstruction.com/faq/resale-value-impact",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Resale value impact?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Increases if functional/needed; overbuilding reduces ROI. trustdale​"
-      }
-    }
-  ],
+  "name": "Resale value impact?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Resale value impact?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Increases if functional/needed; overbuilding reduces ROI. trustdale​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Increases if functional/needed; overbuilding reduces ROI. trustdale​"
 }

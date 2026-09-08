@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Post-project warranties?",
-  "description": "1–10 years standard; get lien releases/final inspections. behrconstruction​",
   "url": "https://behrconstruction.com/faq/post-project-warranties",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Post-project warranties?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1–10 years standard; get lien releases/final inspections. behrconstruction​"
-      }
-    }
-  ],
+  "name": "Post-project warranties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Post-project warranties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1–10 years standard; get lien releases/final inspections. behrconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1–10 years standard; get lien releases/final inspections. behrconstruction​"
 }

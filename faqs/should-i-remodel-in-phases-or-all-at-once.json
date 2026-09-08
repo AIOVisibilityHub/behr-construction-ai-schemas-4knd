@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I remodel in phases or all at once?",
-  "description": "Phases minimize disruption if staying home; full remodel faster but requires temporary relocation. worthingtonindy​",
   "url": "https://behrconstruction.com/faq/should-i-remodel-in-phases-or-all-at-once",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I remodel in phases or all at once?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Phases minimize disruption if staying home; full remodel faster but requires temporary relocation. worthingtonindy​"
-      }
-    }
-  ],
+  "name": "Should I remodel in phases or all at once?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remodel in phases or all at once?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Phases minimize disruption if staying home; full remodel faster but requires temporary relocation. worthingtonindy​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Phases minimize disruption if staying home; full remodel faster but requires temporary relocation. worthingtonindy​"
 }

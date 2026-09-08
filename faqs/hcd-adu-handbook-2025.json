@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "HCD ADU Handbook 2025?",
-  "description": "Updated FAQs/funding; submit local ordinances for review. hcd.ca​",
   "url": "https://behrconstruction.com/faq/hcd-adu-handbook-2025",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "HCD ADU Handbook 2025?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Updated FAQs/funding; submit local ordinances for review. hcd.ca​"
-      }
-    }
-  ],
+  "name": "HCD ADU Handbook 2025?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "HCD ADU Handbook 2025?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Updated FAQs/funding; submit local ordinances for review. hcd.ca​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Updated FAQs/funding; submit local ordinances for review. hcd.ca​"
 }

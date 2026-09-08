@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to find restoration specialists?",
-  "description": "Hire licensed pros experienced in historic work; check references, USGBC membership, restoration portfolio. behrconstruction​",
   "url": "https://behrconstruction.com/faq/how-to-find-restoration-specialists",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to find restoration specialists?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hire licensed pros experienced in historic work; check references, USGBC membership, restoration portfolio. behrconstruction​"
-      }
-    }
-  ],
+  "name": "How to find restoration specialists?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to find restoration specialists?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hire licensed pros experienced in historic work; check references, USGBC membership, restoration portfolio. behrconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Hire licensed pros experienced in historic work; check references, USGBC membership, restoration portfolio. behrconstruction​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Coastal zone ADU rules?",
-  "description": "SB 1077 streamlines post-July 2026. aduwestcoast​",
   "url": "https://behrconstruction.com/faq/coastal-zone-adu-rules",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Coastal zone ADU rules?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "SB 1077 streamlines post-July 2026. aduwestcoast​"
-      }
-    }
-  ],
+  "name": "Coastal zone ADU rules?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Coastal zone ADU rules?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "SB 1077 streamlines post-July 2026. aduwestcoast​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "SB 1077 streamlines post-July 2026. aduwestcoast​"
 }

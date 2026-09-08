@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to match original materials?",
-  "description": "Source reclaimed/salvaged; custom millwork replicates historic profiles. noahconstruction-builders​",
   "url": "https://behrconstruction.com/faq/how-to-match-original-materials",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to match original materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Source reclaimed/salvaged; custom millwork replicates historic profiles. noahconstruction-builders​"
-      }
-    }
-  ],
+  "name": "How to match original materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to match original materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Source reclaimed/salvaged; custom millwork replicates historic profiles. noahconstruction-builders​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Source reclaimed/salvaged; custom millwork replicates historic profiles. noahconstruction-builders​"
 }

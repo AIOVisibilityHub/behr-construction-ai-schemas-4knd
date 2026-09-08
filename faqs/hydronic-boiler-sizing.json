@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Hydronic boiler sizing?",
-  "description": "15-25 BTU/sq ft; pro calculation needed.finehomebuilding​",
   "url": "https://behrconstruction.com/faq/hydronic-boiler-sizing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Hydronic boiler sizing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "15-25 BTU/sq ft; pro calculation needed.finehomebuilding​"
-      }
-    }
-  ],
+  "name": "Hydronic boiler sizing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Hydronic boiler sizing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "15-25 BTU/sq ft; pro calculation needed.finehomebuilding​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "15-25 BTU/sq ft; pro calculation needed.finehomebuilding​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the ROI on kitchen remodeling?",
-  "description": "60–80% recouped; highest return home improvement. nerdwallet​",
   "url": "https://behrconstruction.com/faq/what-s-the-roi-on-kitchen-remodeling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the ROI on kitchen remodeling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "60–80% recouped; highest return home improvement. nerdwallet​"
-      }
-    }
-  ],
+  "name": "What's the ROI on kitchen remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the ROI on kitchen remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "60–80% recouped; highest return home improvement. nerdwallet​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "60–80% recouped; highest return home improvement. nerdwallet​"
 }

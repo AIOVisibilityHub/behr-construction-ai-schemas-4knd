@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What about asbestos/lead paint?",
-  "description": "Test first; abatement required ($2–$5/sq ft), certified remediators only. gallerykbny​",
   "url": "https://behrconstruction.com/faq/what-about-asbestos-lead-paint",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What about asbestos/lead paint?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Test first; abatement required ($2–$5/sq ft), certified remediators only. gallerykbny​"
-      }
-    }
-  ],
+  "name": "What about asbestos/lead paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What about asbestos/lead paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Test first; abatement required ($2–$5/sq ft), certified remediators only. gallerykbny​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Test first; abatement required ($2–$5/sq ft), certified remediators only. gallerykbny​"
 }

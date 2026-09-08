@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Turnkey vs vanilla shell TI?",
-  "description": "Turnkey: landlord delivers finished space; vanilla: basic white box, tenant completes fit-out.mastt​",
   "url": "https://behrconstruction.com/faq/turnkey-vs-vanilla-shell-ti",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Turnkey vs vanilla shell TI?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Turnkey: landlord delivers finished space; vanilla: basic white box, tenant completes fit-out.mastt​"
-      }
-    }
-  ],
+  "name": "Turnkey vs vanilla shell TI?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Turnkey vs vanilla shell TI?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Turnkey: landlord delivers finished space; vanilla: basic white box, tenant completes fit-out.mastt​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Turnkey: landlord delivers finished space; vanilla: basic white box, tenant completes fit-out.mastt​"
 }

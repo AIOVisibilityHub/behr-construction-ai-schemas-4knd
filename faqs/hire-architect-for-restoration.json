@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Hire architect for restoration?",
-  "description": "Yes for structural/historic accuracy; preserves value/compliance. behrconstruction​",
   "url": "https://behrconstruction.com/faq/hire-architect-for-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Hire architect for restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes for structural/historic accuracy; preserves value/compliance. behrconstruction​"
-      }
-    }
-  ],
+  "name": "Hire architect for restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Hire architect for restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes for structural/historic accuracy; preserves value/compliance. behrconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes for structural/historic accuracy; preserves value/compliance. behrconstruction​"
 }

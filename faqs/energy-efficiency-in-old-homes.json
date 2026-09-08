@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Energy efficiency in old homes?",
-  "description": "Spray foam insulation, high-R windows matching style, zoned HVAC. greatdayimprovements​",
   "url": "https://behrconstruction.com/faq/energy-efficiency-in-old-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Energy efficiency in old homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Spray foam insulation, high-R windows matching style, zoned HVAC. greatdayimprovements​"
-      }
-    }
-  ],
+  "name": "Energy efficiency in old homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Energy efficiency in old homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spray foam insulation, high-R windows matching style, zoned HVAC. greatdayimprovements​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Spray foam insulation, high-R windows matching style, zoned HVAC. greatdayimprovements​"
 }

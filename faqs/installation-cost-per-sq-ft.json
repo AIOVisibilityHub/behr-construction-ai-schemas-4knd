@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Installation cost per sq ft?",
-  "description": "Electric $6-14 installed; hydronic $8-18; thermostat $100-300 extra.warmlyyours​",
   "url": "https://behrconstruction.com/faq/installation-cost-per-sq-ft",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Installation cost per sq ft?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Electric $6-14 installed; hydronic $8-18; thermostat $100-300 extra.warmlyyours​"
-      }
-    }
-  ],
+  "name": "Installation cost per sq ft?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Installation cost per sq ft?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electric $6-14 installed; hydronic $8-18; thermostat $100-300 extra.warmlyyours​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Electric $6-14 installed; hydronic $8-18; thermostat $100-300 extra.warmlyyours​"
 }

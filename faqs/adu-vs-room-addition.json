@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "ADU vs room addition?",
-  "description": "ADU separate structure (higher cost/utility); room addition attached (easier permits). harthbuilders​",
   "url": "https://behrconstruction.com/faq/adu-vs-room-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "ADU vs room addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ADU separate structure (higher cost/utility); room addition attached (easier permits). harthbuilders​"
-      }
-    }
-  ],
+  "name": "ADU vs room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "ADU vs room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU separate structure (higher cost/utility); room addition attached (easier permits). harthbuilders​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "ADU separate structure (higher cost/utility); room addition attached (easier permits). harthbuilders​"
 }

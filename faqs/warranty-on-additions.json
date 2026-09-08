@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Warranty on additions?",
-  "description": "1–10 years structural; get lien waivers before final payment. behrconstruction​",
   "url": "https://behrconstruction.com/faq/warranty-on-additions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Warranty on additions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1–10 years structural; get lien waivers before final payment. behrconstruction​"
-      }
-    }
-  ],
+  "name": "Warranty on additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Warranty on additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1–10 years structural; get lien waivers before final payment. behrconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1–10 years structural; get lien waivers before final payment. behrconstruction​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What financing for restoration?",
-  "description": "Home equity loans, 203(k) FHA for rehabs, historic grants/tax credits. greatdayimprovements​",
   "url": "https://behrconstruction.com/faq/what-financing-for-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What financing for restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Home equity loans, 203(k) FHA for rehabs, historic grants/tax credits. greatdayimprovements​"
-      }
-    }
-  ],
+  "name": "What financing for restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What financing for restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home equity loans, 203(k) FHA for rehabs, historic grants/tax credits. greatdayimprovements​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Home equity loans, 203(k) FHA for rehabs, historic grants/tax credits. greatdayimprovements​"
 }

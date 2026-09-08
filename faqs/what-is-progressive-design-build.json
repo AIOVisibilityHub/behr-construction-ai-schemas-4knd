@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is progressive design-build?",
-  "description": "Select based on qualifications first, then collaborate on design/cost before final contract.dbia​",
   "url": "https://behrconstruction.com/faq/what-is-progressive-design-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is progressive design-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Select based on qualifications first, then collaborate on design/cost before final contract.dbia​"
-      }
-    }
-  ],
+  "name": "What is progressive design-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is progressive design-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Select based on qualifications first, then collaborate on design/cost before final contract.dbia​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Select based on qualifications first, then collaborate on design/cost before final contract.dbia​"
 }

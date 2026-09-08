@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I stay home during restoration?",
-  "description": "Rarely; dust, noise, utilities off require relocation, especially for full projects. springshomeimprovement​",
   "url": "https://behrconstruction.com/faq/can-i-stay-home-during-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I stay home during restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rarely; dust, noise, utilities off require relocation, especially for full projects. springshomeimprovement​"
-      }
-    }
-  ],
+  "name": "Can I stay home during restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay home during restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rarely; dust, noise, utilities off require relocation, especially for full projects. springshomeimprovement​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rarely; dust, noise, utilities off require relocation, especially for full projects. springshomeimprovement​"
 }

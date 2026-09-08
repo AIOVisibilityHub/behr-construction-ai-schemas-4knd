@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Owner role in design-build?",
-  "description": "Defines goals/vision; approves milestones; less day-to-day management needed.autodesk​",
   "url": "https://behrconstruction.com/faq/owner-role-in-design-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Owner role in design-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Defines goals/vision; approves milestones; less day-to-day management needed.autodesk​"
-      }
-    }
-  ],
+  "name": "Owner role in design-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Owner role in design-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Defines goals/vision; approves milestones; less day-to-day management needed.autodesk​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Defines goals/vision; approves milestones; less day-to-day management needed.autodesk​"
 }

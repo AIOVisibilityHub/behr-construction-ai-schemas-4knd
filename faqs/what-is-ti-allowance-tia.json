@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is TI allowance (TIA)?",
-  "description": "Landlord funds ($/sq ft) for improvements; fixed sum or amortized into rent; unused often forfeited.alliescommercialrealty+1",
   "url": "https://behrconstruction.com/faq/what-is-ti-allowance-tia",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is TI allowance (TIA)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Landlord funds ($/sq ft) for improvements; fixed sum or amortized into rent; unused often forfeited.alliescommercialrealty+1"
-      }
-    }
-  ],
+  "name": "What is TI allowance (TIA)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is TI allowance (TIA)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Landlord funds ($/sq ft) for improvements; fixed sum or amortized into rent; unused often forfeited.alliescommercialrealty+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Landlord funds ($/sq ft) for improvements; fixed sum or amortized into rent; unused often forfeited.alliescommercialrealty+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Retrofits over hardwood?",
-  "description": "Electric mats under engineered/tile only; remove solid hardwood.warmlyyours​",
   "url": "https://behrconstruction.com/faq/retrofits-over-hardwood",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Retrofits over hardwood?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Electric mats under engineered/tile only; remove solid hardwood.warmlyyours​"
-      }
-    }
-  ],
+  "name": "Retrofits over hardwood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Retrofits over hardwood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electric mats under engineered/tile only; remove solid hardwood.warmlyyours​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Electric mats under engineered/tile only; remove solid hardwood.warmlyyours​"
 }

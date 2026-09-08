@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a room addition cost in 2026?",
-  "description": "$150–$400/sq ft depending on location/size; average 20x20 addition $100k–$250k including foundation, permits, finishes; 10–20% contingency recommended. 2mo​",
   "url": "https://behrconstruction.com/faq/how-much-does-a-room-addition-cost-in-2026",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a room addition cost in 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$150–$400/sq ft depending on location/size; average 20x20 addition $100k–$250k including foundation, permits, finishes; 10–20% contingency recommended. 2mo​"
-      }
-    }
-  ],
+  "name": "How much does a room addition cost in 2026?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a room addition cost in 2026?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$150–$400/sq ft depending on location/size; average 20x20 addition $100k–$250k including foundation, permits, finishes; 10–20% contingency recommended. 2mo​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$150–$400/sq ft depending on location/size; average 20x20 addition $100k–$250k including foundation, permits, finishes; 10–20% contingency recommended. 2mo​"
 }

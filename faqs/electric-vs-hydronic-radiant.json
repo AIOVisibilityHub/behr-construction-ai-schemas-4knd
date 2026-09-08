@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Electric vs hydronic radiant?",
-  "description": "Electric easier/cheaper install ($5-12/sq ft), hydronic cheaper operate long-term ($3-8/sq ft).warmup+1",
   "url": "https://behrconstruction.com/faq/electric-vs-hydronic-radiant",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Electric vs hydronic radiant?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Electric easier/cheaper install ($5-12/sq ft), hydronic cheaper operate long-term ($3-8/sq ft).warmup+1"
-      }
-    }
-  ],
+  "name": "Electric vs hydronic radiant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Electric vs hydronic radiant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electric easier/cheaper install ($5-12/sq ft), hydronic cheaper operate long-term ($3-8/sq ft).warmup+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Electric easier/cheaper install ($5-12/sq ft), hydronic cheaper operate long-term ($3-8/sq ft).warmup+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Living Building Challenge?",
-  "description": "Net-zero energy/water/waste; 12-month performance audit.wbdg​",
   "url": "https://behrconstruction.com/faq/living-building-challenge",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Living Building Challenge?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Net-zero energy/water/waste; 12-month performance audit.wbdg​"
-      }
-    }
-  ],
+  "name": "Living Building Challenge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Living Building Challenge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Net-zero energy/water/waste; 12-month performance audit.wbdg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Net-zero energy/water/waste; 12-month performance audit.wbdg​"
 }

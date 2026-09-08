@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Biophilic design elements?",
-  "description": "Natural light/views, plants, organic materials for WELL.greenberg​",
   "url": "https://behrconstruction.com/faq/biophilic-design-elements",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Biophilic design elements?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Natural light/views, plants, organic materials for WELL.greenberg​"
-      }
-    }
-  ],
+  "name": "Biophilic design elements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Biophilic design elements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural light/views, plants, organic materials for WELL.greenberg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Natural light/views, plants, organic materials for WELL.greenberg​"
 }

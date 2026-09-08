@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "JADU vs ADU differences?",
-  "description": "JADU ≤500 sq ft inside primary home; owner must live on-site. smcadu​",
   "url": "https://behrconstruction.com/faq/jadu-vs-adu-differences",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "JADU vs ADU differences?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "JADU ≤500 sq ft inside primary home; owner must live on-site. smcadu​"
-      }
-    }
-  ],
+  "name": "JADU vs ADU differences?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "JADU vs ADU differences?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "JADU ≤500 sq ft inside primary home; owner must live on-site. smcadu​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "JADU ≤500 sq ft inside primary home; owner must live on-site. smcadu​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to select design-builder?",
-  "description": "Qualifications-based: experience, past projects, team, safety record over low bid.dbia​",
   "url": "https://behrconstruction.com/faq/how-to-select-design-builder",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to select design-builder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Qualifications-based: experience, past projects, team, safety record over low bid.dbia​"
-      }
-    }
-  ],
+  "name": "How to select design-builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to select design-builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Qualifications-based: experience, past projects, team, safety record over low bid.dbia​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Qualifications-based: experience, past projects, team, safety record over low bid.dbia​"
 }

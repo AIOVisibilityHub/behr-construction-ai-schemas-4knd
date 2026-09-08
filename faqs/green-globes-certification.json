@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Green Globes certification?",
-  "description": "Self-assessment + site visit; 1-4 globes for energy/IEQ.wbdg​",
   "url": "https://behrconstruction.com/faq/green-globes-certification",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Green Globes certification?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Self-assessment + site visit; 1-4 globes for energy/IEQ.wbdg​"
-      }
-    }
-  ],
+  "name": "Green Globes certification?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Green Globes certification?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Self-assessment + site visit; 1-4 globes for energy/IEQ.wbdg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Self-assessment + site visit; 1-4 globes for energy/IEQ.wbdg​"
 }

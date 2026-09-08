@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Flooring options for kitchens?",
-  "description": "LVP $5–$10/sq ft, tile $5–$15, hardwood $8–$15. usacabinetstore​",
   "url": "https://behrconstruction.com/faq/flooring-options-for-kitchens",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Flooring options for kitchens?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LVP $5–$10/sq ft, tile $5–$15, hardwood $8–$15. usacabinetstore​"
-      }
-    }
-  ],
+  "name": "Flooring options for kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Flooring options for kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LVP $5–$10/sq ft, tile $5–$15, hardwood $8–$15. usacabinetstore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "LVP $5–$10/sq ft, tile $5–$15, hardwood $8–$15. usacabinetstore​"
 }

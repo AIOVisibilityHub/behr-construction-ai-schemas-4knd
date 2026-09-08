@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Tile cracking risk?",
-  "description": "Low with proper uncoupling membrane/expansion joints.warmyourfloor​",
   "url": "https://behrconstruction.com/faq/tile-cracking-risk",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Tile cracking risk?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Low with proper uncoupling membrane/expansion joints.warmyourfloor​"
-      }
-    }
-  ],
+  "name": "Tile cracking risk?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Tile cracking risk?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low with proper uncoupling membrane/expansion joints.warmyourfloor​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Low with proper uncoupling membrane/expansion joints.warmyourfloor​"
 }

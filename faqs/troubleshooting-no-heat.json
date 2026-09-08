@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Troubleshooting no heat?",
-  "description": "Check breaker/GFCI, thermostat sensor, mat resistance.radiantmadesimple​",
   "url": "https://behrconstruction.com/faq/troubleshooting-no-heat",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Troubleshooting no heat?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Check breaker/GFCI, thermostat sensor, mat resistance.radiantmadesimple​"
-      }
-    }
-  ],
+  "name": "Troubleshooting no heat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Troubleshooting no heat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Check breaker/GFCI, thermostat sensor, mat resistance.radiantmadesimple​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Check breaker/GFCI, thermostat sensor, mat resistance.radiantmadesimple​"
 }

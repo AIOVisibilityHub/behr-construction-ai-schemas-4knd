@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Trending bathroom features 2026?",
-  "description": "Frameless showers, matte fixtures, large-format tile, floating vanities. usacabinetstore​",
   "url": "https://behrconstruction.com/faq/trending-bathroom-features-2026",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Trending bathroom features 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Frameless showers, matte fixtures, large-format tile, floating vanities. usacabinetstore​"
-      }
-    }
-  ],
+  "name": "Trending bathroom features 2026?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Trending bathroom features 2026?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frameless showers, matte fixtures, large-format tile, floating vanities. usacabinetstore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Frameless showers, matte fixtures, large-format tile, floating vanities. usacabinetstore​"
 }

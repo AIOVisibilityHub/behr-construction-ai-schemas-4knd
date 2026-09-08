@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I legalize existing unpermitted ADU?",
-  "description": "Yes via AB 2533; safety fixes only, no penalties if pre-2020. aduwestcoast​",
   "url": "https://behrconstruction.com/faq/can-i-legalize-existing-unpermitted-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I legalize existing unpermitted ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes via AB 2533; safety fixes only, no penalties if pre-2020. aduwestcoast​"
-      }
-    }
-  ],
+  "name": "Can I legalize existing unpermitted ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I legalize existing unpermitted ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes via AB 2533; safety fixes only, no penalties if pre-2020. aduwestcoast​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes via AB 2533; safety fixes only, no penalties if pre-2020. aduwestcoast​"
 }

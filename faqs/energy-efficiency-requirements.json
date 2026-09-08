@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Energy efficiency requirements?",
-  "description": "Title 24 +15%, high-R insulation, ENERGY STAR appliances/HVAC.greenberg​",
   "url": "https://behrconstruction.com/faq/energy-efficiency-requirements",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Energy efficiency requirements?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Title 24 +15%, high-R insulation, ENERGY STAR appliances/HVAC.greenberg​"
-      }
-    }
-  ],
+  "name": "Energy efficiency requirements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Energy efficiency requirements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Title 24 +15%, high-R insulation, ENERGY STAR appliances/HVAC.greenberg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Title 24 +15%, high-R insulation, ENERGY STAR appliances/HVAC.greenberg​"
 }

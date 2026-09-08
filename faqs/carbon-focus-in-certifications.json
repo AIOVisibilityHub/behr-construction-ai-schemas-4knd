@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Carbon focus in certifications?",
-  "description": "LEED v4.1 emphasizes embodied/operational carbon.wbdg​",
   "url": "https://behrconstruction.com/faq/carbon-focus-in-certifications",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Carbon focus in certifications?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LEED v4.1 emphasizes embodied/operational carbon.wbdg​"
-      }
-    }
-  ],
+  "name": "Carbon focus in certifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Carbon focus in certifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LEED v4.1 emphasizes embodied/operational carbon.wbdg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "LEED v4.1 emphasizes embodied/operational carbon.wbdg​"
 }

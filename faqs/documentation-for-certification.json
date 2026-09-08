@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Documentation for certification?",
-  "description": "Plans, utilities, lab tests, waste records; 15-20% extra time.greenberg+1",
   "url": "https://behrconstruction.com/faq/documentation-for-certification",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Documentation for certification?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Plans, utilities, lab tests, waste records; 15-20% extra time.greenberg+1"
-      }
-    }
-  ],
+  "name": "Documentation for certification?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Documentation for certification?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plans, utilities, lab tests, waste records; 15-20% extra time.greenberg+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Plans, utilities, lab tests, waste records; 15-20% extra time.greenberg+1"
 }

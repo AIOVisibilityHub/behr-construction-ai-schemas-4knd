@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Common hidden bathroom costs?",
-  "description": "Structural mods, HVAC extension, venting for new fixtures. usacabinetstore​",
   "url": "https://behrconstruction.com/faq/common-hidden-bathroom-costs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Common hidden bathroom costs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Structural mods, HVAC extension, venting for new fixtures. usacabinetstore​"
-      }
-    }
-  ],
+  "name": "Common hidden bathroom costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Common hidden bathroom costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural mods, HVAC extension, venting for new fixtures. usacabinetstore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Structural mods, HVAC extension, venting for new fixtures. usacabinetstore​"
 }

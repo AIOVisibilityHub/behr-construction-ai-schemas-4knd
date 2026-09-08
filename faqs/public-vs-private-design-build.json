@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Public vs private design-build?",
-  "description": "Public increasingly used (FHWA); private common for speed.fhwa.dot​",
   "url": "https://behrconstruction.com/faq/public-vs-private-design-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Public vs private design-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Public increasingly used (FHWA); private common for speed.fhwa.dot​"
-      }
-    }
-  ],
+  "name": "Public vs private design-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Public vs private design-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Public increasingly used (FHWA); private common for speed.fhwa.dot​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Public increasingly used (FHWA); private common for speed.fhwa.dot​"
 }

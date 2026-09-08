@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Timeline to build ADU?",
-  "description": "6–18 months; prefab 3–6 months. smcadu​",
   "url": "https://behrconstruction.com/faq/timeline-to-build-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Timeline to build ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "6–18 months; prefab 3–6 months. smcadu​"
-      }
-    }
-  ],
+  "name": "Timeline to build ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Timeline to build ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "6–18 months; prefab 3–6 months. smcadu​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "6–18 months; prefab 3–6 months. smcadu​"
 }

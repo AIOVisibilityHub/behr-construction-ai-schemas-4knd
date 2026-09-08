@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "DIY install feasible?",
-  "description": "Electric mats yes (DIY kits); hydronic pro only.thermosoft​",
   "url": "https://behrconstruction.com/faq/diy-install-feasible",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "DIY install feasible?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Electric mats yes (DIY kits); hydronic pro only.thermosoft​"
-      }
-    }
-  ],
+  "name": "DIY install feasible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "DIY install feasible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electric mats yes (DIY kits); hydronic pro only.thermosoft​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Electric mats yes (DIY kits); hydronic pro only.thermosoft​"
 }

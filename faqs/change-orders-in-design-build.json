@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Change orders in design-build?",
-  "description": "Minimal due to early builder input; handled collaboratively vs adversarial.acebuildingservice​",
   "url": "https://behrconstruction.com/faq/change-orders-in-design-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Change orders in design-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimal due to early builder input; handled collaboratively vs adversarial.acebuildingservice​"
-      }
-    }
-  ],
+  "name": "Change orders in design-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Change orders in design-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimal due to early builder input; handled collaboratively vs adversarial.acebuildingservice​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minimal due to early builder input; handled collaboratively vs adversarial.acebuildingservice​"
 }

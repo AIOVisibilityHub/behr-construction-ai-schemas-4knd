@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Financing bathroom remodels?",
-  "description": "HELOC, personal loans, home equity; high ROI justifies borrowing. nerdwallet​",
   "url": "https://behrconstruction.com/faq/financing-bathroom-remodels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Financing bathroom remodels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "HELOC, personal loans, home equity; high ROI justifies borrowing. nerdwallet​"
-      }
-    }
-  ],
+  "name": "Financing bathroom remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Financing bathroom remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HELOC, personal loans, home equity; high ROI justifies borrowing. nerdwallet​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "HELOC, personal loans, home equity; high ROI justifies borrowing. nerdwallet​"
 }

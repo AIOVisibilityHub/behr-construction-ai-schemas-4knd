@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does custom home remodeling cost?",
-  "description": "Costs vary widely ($100–$400/sq ft) based on scope, materials, and location; budget 10–20% contingency for surprises like permits or structural issues. worthing",
   "url": "https://behrconstruction.com/faq/how-much-does-custom-home-remodeling-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does custom home remodeling cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs vary widely ($100–$400/sq ft) based on scope, materials, and location; budget 10–20% contingency for surprises like permits or structural issues. worthingtonindy+1"
-      }
-    }
-  ],
+  "name": "How much does custom home remodeling cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does custom home remodeling cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary widely ($100–$400/sq ft) based on scope, materials, and location; budget 10–20% contingency for surprises like permits or structural issues. worthingtonindy+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Costs vary widely ($100–$400/sq ft) based on scope, materials, and location; budget 10–20% contingency for surprises like permits or structural issues. worthing"
 }

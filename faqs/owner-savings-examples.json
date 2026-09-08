@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Owner savings examples?",
-  "description": "10–20% cost reduction, 30% faster delivery reported.procore​",
   "url": "https://behrconstruction.com/faq/owner-savings-examples",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Owner savings examples?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "10–20% cost reduction, 30% faster delivery reported.procore​"
-      }
-    }
-  ],
+  "name": "Owner savings examples?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Owner savings examples?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "10–20% cost reduction, 30% faster delivery reported.procore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "10–20% cost reduction, 30% faster delivery reported.procore​"
 }

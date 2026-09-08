@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to incorporate smart home tech?",
-  "description": "Pre-wire for hubs, add voice controls, integrated lighting/security during rough-in phase. worthingtonindy​",
   "url": "https://behrconstruction.com/faq/how-to-incorporate-smart-home-tech",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to incorporate smart home tech?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pre-wire for hubs, add voice controls, integrated lighting/security during rough-in phase. worthingtonindy​"
-      }
-    }
-  ],
+  "name": "How to incorporate smart home tech?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to incorporate smart home tech?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-wire for hubs, add voice controls, integrated lighting/security during rough-in phase. worthingtonindy​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Pre-wire for hubs, add voice controls, integrated lighting/security during rough-in phase. worthingtonindy​"
 }

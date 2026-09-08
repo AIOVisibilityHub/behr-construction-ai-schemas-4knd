@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Per square foot bathroom pricing 2026?",
-  "description": "Budget $80–$120/sq ft, mid $180–$280, high-end $300–$450, luxury $500+. usacabinetstore+1",
   "url": "https://behrconstruction.com/faq/per-square-foot-bathroom-pricing-2026",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Per square foot bathroom pricing 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Budget $80–$120/sq ft, mid $180–$280, high-end $300–$450, luxury $500+. usacabinetstore+1"
-      }
-    }
-  ],
+  "name": "Per square foot bathroom pricing 2026?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Per square foot bathroom pricing 2026?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Budget $80–$120/sq ft, mid $180–$280, high-end $300–$450, luxury $500+. usacabinetstore+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Budget $80–$120/sq ft, mid $180–$280, high-end $300–$450, luxury $500+. usacabinetstore+1"
 }

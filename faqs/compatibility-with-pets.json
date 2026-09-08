@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Compatibility with pets?",
-  "description": "Safe; even heat comfortable on paws; no hot spots.warmup​",
   "url": "https://behrconstruction.com/faq/compatibility-with-pets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Compatibility with pets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Safe; even heat comfortable on paws; no hot spots.warmup​"
-      }
-    }
-  ],
+  "name": "Compatibility with pets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Compatibility with pets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safe; even heat comfortable on paws; no hot spots.warmup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Safe; even heat comfortable on paws; no hot spots.warmup​"
 }

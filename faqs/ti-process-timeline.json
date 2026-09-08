@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "TI process timeline?",
-  "description": "Planning/design (4-8w), permitting (4-12w), construction (6-16w); coordinate with rent commencement.wellsandwest​",
   "url": "https://behrconstruction.com/faq/ti-process-timeline",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "TI process timeline?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Planning/design (4-8w), permitting (4-12w), construction (6-16w); coordinate with rent commencement.wellsandwest​"
-      }
-    }
-  ],
+  "name": "TI process timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "TI process timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Planning/design (4-8w), permitting (4-12w), construction (6-16w); coordinate with rent commencement.wellsandwest​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Planning/design (4-8w), permitting (4-12w), construction (6-16w); coordinate with rent commencement.wellsandwest​"
 }

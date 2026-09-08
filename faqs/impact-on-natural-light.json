@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Impact on natural light?",
-  "description": "Place windows strategically; avoid blocking existing rooms; clerestory/ skylights help. sweeten​",
   "url": "https://behrconstruction.com/faq/impact-on-natural-light",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Impact on natural light?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Place windows strategically; avoid blocking existing rooms; clerestory/ skylights help. sweeten​"
-      }
-    }
-  ],
+  "name": "Impact on natural light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Impact on natural light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Place windows strategically; avoid blocking existing rooms; clerestory/ skylights help. sweeten​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Place windows strategically; avoid blocking existing rooms; clerestory/ skylights help. sweeten​"
 }

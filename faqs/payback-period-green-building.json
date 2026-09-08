@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Payback period green building?",
-  "description": "CALGreen 5-8 years, LEED 8-12 years via utility savings.greenberg​",
   "url": "https://behrconstruction.com/faq/payback-period-green-building",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Payback period green building?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CALGreen 5-8 years, LEED 8-12 years via utility savings.greenberg​"
-      }
-    }
-  ],
+  "name": "Payback period green building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Payback period green building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CALGreen 5-8 years, LEED 8-12 years via utility savings.greenberg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CALGreen 5-8 years, LEED 8-12 years via utility savings.greenberg​"
 }

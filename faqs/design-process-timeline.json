@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Design process timeline?",
-  "description": "Consultation/site visit (1–2w), schematic design (2–4w), construction docs (4–6w). coastalcreekdesign​",
   "url": "https://behrconstruction.com/faq/design-process-timeline",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Design process timeline?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Consultation/site visit (1–2w), schematic design (2–4w), construction docs (4–6w). coastalcreekdesign​"
-      }
-    }
-  ],
+  "name": "Design process timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Design process timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consultation/site visit (1–2w), schematic design (2–4w), construction docs (4–6w). coastalcreekdesign​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Consultation/site visit (1–2w), schematic design (2–4w), construction docs (4–6w). coastalcreekdesign​"
 }

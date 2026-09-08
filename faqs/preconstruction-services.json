@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Preconstruction services?",
-  "description": "Site analysis, budgeting, scheduling, value engineering before design.korteco​",
   "url": "https://behrconstruction.com/faq/preconstruction-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Preconstruction services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Site analysis, budgeting, scheduling, value engineering before design.korteco​"
-      }
-    }
-  ],
+  "name": "Preconstruction services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Preconstruction services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Site analysis, budgeting, scheduling, value engineering before design.korteco​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Site analysis, budgeting, scheduling, value engineering before design.korteco​"
 }

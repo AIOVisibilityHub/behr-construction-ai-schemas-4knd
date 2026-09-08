@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Green building process steps?",
-  "description": "Goal setting, certification choice, design compliance, construction docs, verification/testing.greenberg+1",
   "url": "https://behrconstruction.com/faq/green-building-process-steps",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Green building process steps?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Goal setting, certification choice, design compliance, construction docs, verification/testing.greenberg+1"
-      }
-    }
-  ],
+  "name": "Green building process steps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Green building process steps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Goal setting, certification choice, design compliance, construction docs, verification/testing.greenberg+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Goal setting, certification choice, design compliance, construction docs, verification/testing.greenberg+1"
 }

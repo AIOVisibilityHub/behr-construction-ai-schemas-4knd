@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors drive kitchen remodel costs?",
-  "description": "Cabinets (30–40%), labor (20–30%), appliances (10–20%), counters (10%), layout changes, permits. usacabinetstore+1",
   "url": "https://behrconstruction.com/faq/what-factors-drive-kitchen-remodel-costs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors drive kitchen remodel costs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cabinets (30–40%), labor (20–30%), appliances (10–20%), counters (10%), layout changes, permits. usacabinetstore+1"
-      }
-    }
-  ],
+  "name": "What factors drive kitchen remodel costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors drive kitchen remodel costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinets (30–40%), labor (20–30%), appliances (10–20%), counters (10%), layout changes, permits. usacabinetstore+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Cabinets (30–40%), labor (20–30%), appliances (10–20%), counters (10%), layout changes, permits. usacabinetstore+1"
 }

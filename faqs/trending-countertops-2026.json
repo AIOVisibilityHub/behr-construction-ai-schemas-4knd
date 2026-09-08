@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Trending countertops 2026?",
-  "description": "Quartz dominant ($50–$120/sq ft), granite/butcher block alternatives. usacabinetstore​",
   "url": "https://behrconstruction.com/faq/trending-countertops-2026",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Trending countertops 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Quartz dominant ($50–$120/sq ft), granite/butcher block alternatives. usacabinetstore​"
-      }
-    }
-  ],
+  "name": "Trending countertops 2026?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Trending countertops 2026?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quartz dominant ($50–$120/sq ft), granite/butcher block alternatives. usacabinetstore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Quartz dominant ($50–$120/sq ft), granite/butcher block alternatives. usacabinetstore​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are design-build process steps?",
-  "description": "1. Team selection, 2. Project planning (budget/schedule), 3. Design, 4. GMP/bidding, 5. Construction (overlapping phases).horstconstruction+1",
   "url": "https://behrconstruction.com/faq/what-are-design-build-process-steps",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are design-build process steps?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1. Team selection, 2. Project planning (budget/schedule), 3. Design, 4. GMP/bidding, 5. Construction (overlapping phases).horstconstruction+1"
-      }
-    }
-  ],
+  "name": "What are design-build process steps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are design-build process steps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. Team selection, 2. Project planning (budget/schedule), 3. Design, 4. GMP/bidding, 5. Construction (overlapping phases).horstconstruction+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1. Team selection, 2. Project planning (budget/schedule), 3. Design, 4. GMP/bidding, 5. Construction (overlapping phases).horstconstruction+1"
 }

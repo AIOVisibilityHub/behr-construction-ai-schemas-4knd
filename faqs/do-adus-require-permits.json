@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do ADUs require permits?",
-  "description": "Yes, building permit ministerial (60 days approval); no discretionary review. nestadu+1",
   "url": "https://behrconstruction.com/faq/do-adus-require-permits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do ADUs require permits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, building permit ministerial (60 days approval); no discretionary review. nestadu+1"
-      }
-    }
-  ],
+  "name": "Do ADUs require permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do ADUs require permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building permit ministerial (60 days approval); no discretionary review. nestadu+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, building permit ministerial (60 days approval); no discretionary review. nestadu+1"
 }

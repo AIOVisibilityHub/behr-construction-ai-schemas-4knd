@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a room addition take?",
-  "description": "2–6 months construction + 2–4 months planning/permits; weather/complexity affects timeline. 2mo+1",
   "url": "https://behrconstruction.com/faq/how-long-does-a-room-addition-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a room addition take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "2–6 months construction + 2–4 months planning/permits; weather/complexity affects timeline. 2mo+1"
-      }
-    }
-  ],
+  "name": "How long does a room addition take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a room addition take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "2–6 months construction + 2–4 months planning/permits; weather/complexity affects timeline. 2mo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "2–6 months construction + 2–4 months planning/permits; weather/complexity affects timeline. 2mo+1"
 }

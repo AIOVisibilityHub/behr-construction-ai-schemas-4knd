@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Budget breakdown for additions?",
-  "description": "40% structure, 25% finishes, 15% systems, 10% design/permits, 10% contingency. 2mo​",
   "url": "https://behrconstruction.com/faq/budget-breakdown-for-additions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Budget breakdown for additions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "40% structure, 25% finishes, 15% systems, 10% design/permits, 10% contingency. 2mo​"
-      }
-    }
-  ],
+  "name": "Budget breakdown for additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Budget breakdown for additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "40% structure, 25% finishes, 15% systems, 10% design/permits, 10% contingency. 2mo​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "40% structure, 25% finishes, 15% systems, 10% design/permits, 10% contingency. 2mo​"
 }

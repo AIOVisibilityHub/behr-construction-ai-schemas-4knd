@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Design-build schedule advantages?",
-  "description": "Overlap design/construction; fast-track possible.horstconstruction​",
   "url": "https://behrconstruction.com/faq/design-build-schedule-advantages",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Design-build schedule advantages?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Overlap design/construction; fast-track possible.horstconstruction​"
-      }
-    }
-  ],
+  "name": "Design-build schedule advantages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Design-build schedule advantages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Overlap design/construction; fast-track possible.horstconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Overlap design/construction; fast-track possible.horstconstruction​"
 }

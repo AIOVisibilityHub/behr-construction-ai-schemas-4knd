@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What TI projects are typical?",
-  "description": "Cosmetic (paint/flooring), functional (partitions/cabinets), infrastructure (electrical/HVAC), specialized (security/IT).mastt+1",
   "url": "https://behrconstruction.com/faq/what-ti-projects-are-typical",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What TI projects are typical?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cosmetic (paint/flooring), functional (partitions/cabinets), infrastructure (electrical/HVAC), specialized (security/IT).mastt+1"
-      }
-    }
-  ],
+  "name": "What TI projects are typical?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What TI projects are typical?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cosmetic (paint/flooring), functional (partitions/cabinets), infrastructure (electrical/HVAC), specialized (security/IT).mastt+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Cosmetic (paint/flooring), functional (partitions/cabinets), infrastructure (electrical/HVAC), specialized (security/IT).mastt+1"
 }

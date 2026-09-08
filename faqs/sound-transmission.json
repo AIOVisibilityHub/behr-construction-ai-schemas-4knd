@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Sound transmission?",
-  "description": "Silent operation; hydronic pumps may need isolation.warmlyyours​",
   "url": "https://behrconstruction.com/faq/sound-transmission",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Sound transmission?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Silent operation; hydronic pumps may need isolation.warmlyyours​"
-      }
-    }
-  ],
+  "name": "Sound transmission?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Sound transmission?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Silent operation; hydronic pumps may need isolation.warmlyyours​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Silent operation; hydronic pumps may need isolation.warmlyyours​"
 }

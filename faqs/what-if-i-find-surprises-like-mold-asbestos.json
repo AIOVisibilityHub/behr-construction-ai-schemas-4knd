@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I find surprises like mold/asbestos?",
-  "description": "Stop work, hire specialists for abatement; budget contingency covers testing/remediation. blockrenovation​",
   "url": "https://behrconstruction.com/faq/what-if-i-find-surprises-like-mold-asbestos",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I find surprises like mold/asbestos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stop work, hire specialists for abatement; budget contingency covers testing/remediation. blockrenovation​"
-      }
-    }
-  ],
+  "name": "What if I find surprises like mold/asbestos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I find surprises like mold/asbestos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stop work, hire specialists for abatement; budget contingency covers testing/remediation. blockrenovation​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Stop work, hire specialists for abatement; budget contingency covers testing/remediation. blockrenovation​"
 }

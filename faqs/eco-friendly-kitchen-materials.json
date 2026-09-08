@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Eco-friendly kitchen materials?",
-  "description": "Bamboo cabinets, recycled glass counters, low-VOC finishes. allreno​",
   "url": "https://behrconstruction.com/faq/eco-friendly-kitchen-materials",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Eco-friendly kitchen materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bamboo cabinets, recycled glass counters, low-VOC finishes. allreno​"
-      }
-    }
-  ],
+  "name": "Eco-friendly kitchen materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Eco-friendly kitchen materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bamboo cabinets, recycled glass counters, low-VOC finishes. allreno​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bamboo cabinets, recycled glass counters, low-VOC finishes. allreno​"
 }

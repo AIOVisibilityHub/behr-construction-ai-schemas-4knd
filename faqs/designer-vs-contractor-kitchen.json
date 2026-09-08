@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Designer vs contractor kitchen?",
-  "description": "Designer for layout/aesthetics, contractor for execution. usacabinetstore​",
   "url": "https://behrconstruction.com/faq/designer-vs-contractor-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Designer vs contractor kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Designer for layout/aesthetics, contractor for execution. usacabinetstore​"
-      }
-    }
-  ],
+  "name": "Designer vs contractor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Designer vs contractor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designer for layout/aesthetics, contractor for execution. usacabinetstore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Designer for layout/aesthetics, contractor for execution. usacabinetstore​"
 }

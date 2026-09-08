@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Smart thermostat integration?",
-  "description": "WiFi/app control; Alexa/Google compatible.warmup​",
   "url": "https://behrconstruction.com/faq/smart-thermostat-integration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Smart thermostat integration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "WiFi/app control; Alexa/Google compatible.warmup​"
-      }
-    }
-  ],
+  "name": "Smart thermostat integration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Smart thermostat integration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "WiFi/app control; Alexa/Google compatible.warmup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "WiFi/app control; Alexa/Google compatible.warmup​"
 }

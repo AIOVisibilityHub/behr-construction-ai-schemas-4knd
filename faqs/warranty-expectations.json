@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Warranty expectations?",
-  "description": "1–10 years; require lien waivers before final payment. behrconstruction​",
   "url": "https://behrconstruction.com/faq/warranty-expectations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Warranty expectations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1–10 years; require lien waivers before final payment. behrconstruction​"
-      }
-    }
-  ],
+  "name": "Warranty expectations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Warranty expectations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1–10 years; require lien waivers before final payment. behrconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1–10 years; require lien waivers before final payment. behrconstruction​"
 }

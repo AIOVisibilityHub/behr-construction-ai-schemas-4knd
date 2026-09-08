@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "BIM in design-build?",
-  "description": "Essential for collaboration, clash detection, visualization.autodesk​",
   "url": "https://behrconstruction.com/faq/bim-in-design-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "BIM in design-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Essential for collaboration, clash detection, visualization.autodesk​"
-      }
-    }
-  ],
+  "name": "BIM in design-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "BIM in design-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Essential for collaboration, clash detection, visualization.autodesk​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Essential for collaboration, clash detection, visualization.autodesk​"
 }

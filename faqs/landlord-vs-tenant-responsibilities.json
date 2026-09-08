@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Landlord vs tenant responsibilities?",
-  "description": "Lease defines: landlord structural/HVAC roof, tenant interior non-structural.darroweverett​",
   "url": "https://behrconstruction.com/faq/landlord-vs-tenant-responsibilities",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Landlord vs tenant responsibilities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Lease defines: landlord structural/HVAC roof, tenant interior non-structural.darroweverett​"
-      }
-    }
-  ],
+  "name": "Landlord vs tenant responsibilities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Landlord vs tenant responsibilities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lease defines: landlord structural/HVAC roof, tenant interior non-structural.darroweverett​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Lease defines: landlord structural/HVAC roof, tenant interior non-structural.darroweverett​"
 }

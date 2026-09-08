@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the ROI on bathroom remodeling?",
-  "description": "65–80% for mid-range; one of highest return investments. usacabinetstore​",
   "url": "https://behrconstruction.com/faq/what-s-the-roi-on-bathroom-remodeling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the ROI on bathroom remodeling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "65–80% for mid-range; one of highest return investments. usacabinetstore​"
-      }
-    }
-  ],
+  "name": "What's the ROI on bathroom remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the ROI on bathroom remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "65–80% for mid-range; one of highest return investments. usacabinetstore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "65–80% for mid-range; one of highest return investments. usacabinetstore​"
 }

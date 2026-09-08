@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will remodeling increase my property taxes?",
-  "description": "Yes, reassessment post-permit; exemptions vary by state (e.g., California Prop 13 caps). blockrenovation​",
   "url": "https://behrconstruction.com/faq/will-remodeling-increase-my-property-taxes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will remodeling increase my property taxes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, reassessment post-permit; exemptions vary by state (e.g., California Prop 13 caps). blockrenovation​"
-      }
-    }
-  ],
+  "name": "Will remodeling increase my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will remodeling increase my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, reassessment post-permit; exemptions vary by state (e.g., California Prop 13 caps). blockrenovation​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, reassessment post-permit; exemptions vary by state (e.g., California Prop 13 caps). blockrenovation​"
 }

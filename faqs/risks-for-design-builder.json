@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Risks for design-builder?",
-  "description": "Assumes design/construction liability; mitigated by early collaboration.wikipedia​",
   "url": "https://behrconstruction.com/faq/risks-for-design-builder",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Risks for design-builder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Assumes design/construction liability; mitigated by early collaboration.wikipedia​"
-      }
-    }
-  ],
+  "name": "Risks for design-builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Risks for design-builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Assumes design/construction liability; mitigated by early collaboration.wikipedia​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Assumes design/construction liability; mitigated by early collaboration.wikipedia​"
 }

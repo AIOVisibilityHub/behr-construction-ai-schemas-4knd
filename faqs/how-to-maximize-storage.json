@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to maximize storage?",
-  "description": "Pull-outs, lazy susans, corner cabinets, pot drawers. usacabinetstore​",
   "url": "https://behrconstruction.com/faq/how-to-maximize-storage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to maximize storage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pull-outs, lazy susans, corner cabinets, pot drawers. usacabinetstore​"
-      }
-    }
-  ],
+  "name": "How to maximize storage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to maximize storage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pull-outs, lazy susans, corner cabinets, pot drawers. usacabinetstore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Pull-outs, lazy susans, corner cabinets, pot drawers. usacabinetstore​"
 }

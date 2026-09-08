@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Local ordinance variations?",
-  "description": "Bay Area cities expedite green permits.greenberg​",
   "url": "https://behrconstruction.com/faq/local-ordinance-variations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Local ordinance variations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bay Area cities expedite green permits.greenberg​"
-      }
-    }
-  ],
+  "name": "Local ordinance variations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Local ordinance variations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bay Area cities expedite green permits.greenberg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bay Area cities expedite green permits.greenberg​"
 }

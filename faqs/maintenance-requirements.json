@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Maintenance requirements?",
-  "description": "Minimal; inspect cables yearly, pumps/boilers for hydronic.watts​",
   "url": "https://behrconstruction.com/faq/maintenance-requirements",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Maintenance requirements?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimal; inspect cables yearly, pumps/boilers for hydronic.watts​"
-      }
-    }
-  ],
+  "name": "Maintenance requirements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Maintenance requirements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimal; inspect cables yearly, pumps/boilers for hydronic.watts​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minimal; inspect cables yearly, pumps/boilers for hydronic.watts​"
 }

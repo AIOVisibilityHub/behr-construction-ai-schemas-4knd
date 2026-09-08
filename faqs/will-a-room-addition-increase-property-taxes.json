@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a room addition increase property taxes?",
-  "description": "Yes, based on added assessed value; consult local tax assessor for estimate. 2mo​",
   "url": "https://behrconstruction.com/faq/will-a-room-addition-increase-property-taxes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a room addition increase property taxes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, based on added assessed value; consult local tax assessor for estimate. 2mo​"
-      }
-    }
-  ],
+  "name": "Will a room addition increase property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a room addition increase property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, based on added assessed value; consult local tax assessor for estimate. 2mo​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, based on added assessed value; consult local tax assessor for estimate. 2mo​"
 }

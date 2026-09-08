@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Utility rebates available?",
-  "description": "PG&E/SCE programs for insulation/HVAC/solar.greenberg​",
   "url": "https://behrconstruction.com/faq/utility-rebates-available",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Utility rebates available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "PG&E/SCE programs for insulation/HVAC/solar.greenberg​"
-      }
-    }
-  ],
+  "name": "Utility rebates available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Utility rebates available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PG&E/SCE programs for insulation/HVAC/solar.greenberg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "PG&E/SCE programs for insulation/HVAC/solar.greenberg​"
 }

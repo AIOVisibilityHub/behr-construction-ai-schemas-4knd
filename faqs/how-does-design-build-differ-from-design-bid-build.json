@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does design-build differ from design-bid-build?",
-  "description": "Design-build overlaps phases with early collaboration; design-bid-build separates design then bids construction, causing more change orders/delays.autodesk+1",
   "url": "https://behrconstruction.com/faq/how-does-design-build-differ-from-design-bid-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does design-build differ from design-bid-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Design-build overlaps phases with early collaboration; design-bid-build separates design then bids construction, causing more change orders/delays.autodesk+1"
-      }
-    }
-  ],
+  "name": "How does design-build differ from design-bid-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does design-build differ from design-bid-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Design-build overlaps phases with early collaboration; design-bid-build separates design then bids construction, causing more change orders/delays.autodesk+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Design-build overlaps phases with early collaboration; design-bid-build separates design then bids construction, causing more change orders/delays.autodesk+1"
 }

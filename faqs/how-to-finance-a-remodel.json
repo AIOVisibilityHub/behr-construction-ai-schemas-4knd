@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to finance a remodel?",
-  "description": "HELOC/home equity loan (low rates), cash-out refinance, personal loans, or contractor financing. blockrenovation​",
   "url": "https://behrconstruction.com/faq/how-to-finance-a-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to finance a remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "HELOC/home equity loan (low rates), cash-out refinance, personal loans, or contractor financing. blockrenovation​"
-      }
-    }
-  ],
+  "name": "How to finance a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to finance a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HELOC/home equity loan (low rates), cash-out refinance, personal loans, or contractor financing. blockrenovation​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "HELOC/home equity loan (low rates), cash-out refinance, personal loans, or contractor financing. blockrenovation​"
 }

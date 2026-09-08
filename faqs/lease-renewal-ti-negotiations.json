@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Lease renewal TI negotiations?",
-  "description": "Existing improvements condition affects new TIA; restoration clauses apply.darroweverett​",
   "url": "https://behrconstruction.com/faq/lease-renewal-ti-negotiations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Lease renewal TI negotiations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Existing improvements condition affects new TIA; restoration clauses apply.darroweverett​"
-      }
-    }
-  ],
+  "name": "Lease renewal TI negotiations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Lease renewal TI negotiations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Existing improvements condition affects new TIA; restoration clauses apply.darroweverett​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Existing improvements condition affects new TIA; restoration clauses apply.darroweverett​"
 }

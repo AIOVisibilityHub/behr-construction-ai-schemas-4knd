@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do they focus on sustainable practices?",
-  "description": "Yes, proud members of the U.S. Green Building Council, promoting green building and efficiency. behrconstruction+1",
   "url": "https://behrconstruction.com/faq/do-they-focus-on-sustainable-practices",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do they focus on sustainable practices?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, proud members of the U.S. Green Building Council, promoting green building and efficiency. behrconstruction+1"
-      }
-    }
-  ],
+  "name": "Do they focus on sustainable practices?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do they focus on sustainable practices?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, proud members of the U.S. Green Building Council, promoting green building and efficiency. behrconstruction+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, proud members of the U.S. Green Building Council, promoting green building and efficiency. behrconstruction+1"
 }

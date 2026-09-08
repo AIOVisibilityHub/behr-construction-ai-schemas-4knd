@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is home restoration vs remodeling?",
-  "description": "Restoration preserves original historic features while updating systems for safety/code; remodeling modernizes aesthetics/function without historical accuracy.",
   "url": "https://behrconstruction.com/faq/what-is-home-restoration-vs-remodeling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is home restoration vs remodeling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Restoration preserves original historic features while updating systems for safety/code; remodeling modernizes aesthetics/function without historical accuracy. gaboconstruction​"
-      }
-    }
-  ],
+  "name": "What is home restoration vs remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is home restoration vs remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration preserves original historic features while updating systems for safety/code; remodeling modernizes aesthetics/function without historical accuracy. gaboconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Restoration preserves original historic features while updating systems for safety/code; remodeling modernizes aesthetics/function without historical accuracy."
 }

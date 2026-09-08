@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Substantial completion definition?",
-  "description": "Architect certifies usable for business; minor punch list remains.darroweverett​",
   "url": "https://behrconstruction.com/faq/substantial-completion-definition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Substantial completion definition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Architect certifies usable for business; minor punch list remains.darroweverett​"
-      }
-    }
-  ],
+  "name": "Substantial completion definition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Substantial completion definition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architect certifies usable for business; minor punch list remains.darroweverett​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Architect certifies usable for business; minor punch list remains.darroweverett​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's included in a mid-range bathroom remodel?",
-  "description": "New vanity/counter, tile shower/tub, fixtures, flooring, lighting, paint; keeps existing layout to save $3k–$10k. usacabinetstore​",
   "url": "https://behrconstruction.com/faq/what-s-included-in-a-mid-range-bathroom-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's included in a mid-range bathroom remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "New vanity/counter, tile shower/tub, fixtures, flooring, lighting, paint; keeps existing layout to save $3k–$10k. usacabinetstore​"
-      }
-    }
-  ],
+  "name": "What's included in a mid-range bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's included in a mid-range bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New vanity/counter, tile shower/tub, fixtures, flooring, lighting, paint; keeps existing layout to save $3k–$10k. usacabinetstore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "New vanity/counter, tile shower/tub, fixtures, flooring, lighting, paint; keeps existing layout to save $3k–$10k. usacabinetstore​"
 }

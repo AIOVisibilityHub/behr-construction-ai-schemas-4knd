@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What utilities need extension?",
-  "description": "Plumbing, electrical, HVAC; plan during design phase to avoid costly rerouting. sweeten​",
   "url": "https://behrconstruction.com/faq/what-utilities-need-extension",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What utilities need extension?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Plumbing, electrical, HVAC; plan during design phase to avoid costly rerouting. sweeten​"
-      }
-    }
-  ],
+  "name": "What utilities need extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities need extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing, electrical, HVAC; plan during design phase to avoid costly rerouting. sweeten​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Plumbing, electrical, HVAC; plan during design phase to avoid costly rerouting. sweeten​"
 }

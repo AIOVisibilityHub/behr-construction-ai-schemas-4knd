@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Change orders during TI?",
-  "description": "Written approval required; tenant pays excess over TIA.wellsandwest​",
   "url": "https://behrconstruction.com/faq/change-orders-during-ti",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Change orders during TI?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Written approval required; tenant pays excess over TIA.wellsandwest​"
-      }
-    }
-  ],
+  "name": "Change orders during TI?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Change orders during TI?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Written approval required; tenant pays excess over TIA.wellsandwest​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Written approval required; tenant pays excess over TIA.wellsandwest​"
 }

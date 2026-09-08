@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are ADU setbacks/height?",
-  "description": "4 ft side/rear detached; 16 ft height limit. nestadu​",
   "url": "https://behrconstruction.com/faq/what-are-adu-setbacks-height",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are ADU setbacks/height?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "4 ft side/rear detached; 16 ft height limit. nestadu​"
-      }
-    }
-  ],
+  "name": "What are ADU setbacks/height?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are ADU setbacks/height?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "4 ft side/rear detached; 16 ft height limit. nestadu​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "4 ft side/rear detached; 16 ft height limit. nestadu​"
 }

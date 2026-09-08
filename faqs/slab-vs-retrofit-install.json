@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Slab vs retrofit install?",
-  "description": "Slab: cables in concrete; retrofit: thin mats in thinset/mortar bed.warmlyyours​",
   "url": "https://behrconstruction.com/faq/slab-vs-retrofit-install",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Slab vs retrofit install?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Slab: cables in concrete; retrofit: thin mats in thinset/mortar bed.warmlyyours​"
-      }
-    }
-  ],
+  "name": "Slab vs retrofit install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Slab vs retrofit install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slab: cables in concrete; retrofit: thin mats in thinset/mortar bed.warmlyyours​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Slab: cables in concrete; retrofit: thin mats in thinset/mortar bed.warmlyyours​"
 }

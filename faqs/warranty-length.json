@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Warranty length?",
-  "description": "Electric cables 25-50 years; mats 10-25 years; labor 1-5 years.thermosoft​",
   "url": "https://behrconstruction.com/faq/warranty-length",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Warranty length?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Electric cables 25-50 years; mats 10-25 years; labor 1-5 years.thermosoft​"
-      }
-    }
-  ],
+  "name": "Warranty length?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Warranty length?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electric cables 25-50 years; mats 10-25 years; labor 1-5 years.thermosoft​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Electric cables 25-50 years; mats 10-25 years; labor 1-5 years.thermosoft​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "GMP in design-build?",
-  "description": "Guaranteed Maximum Price set early after preliminary design; incentives for under-budget.horstconstruction​",
   "url": "https://behrconstruction.com/faq/gmp-in-design-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "GMP in design-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guaranteed Maximum Price set early after preliminary design; incentives for under-budget.horstconstruction​"
-      }
-    }
-  ],
+  "name": "GMP in design-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "GMP in design-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Guaranteed Maximum Price set early after preliminary design; incentives for under-budget.horstconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Guaranteed Maximum Price set early after preliminary design; incentives for under-budget.horstconstruction​"
 }

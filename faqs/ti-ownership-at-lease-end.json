@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "TI ownership at lease end?",
-  "description": "Landlord owns improvements; tenant may remove non-structural (get prior approval).kts-law​",
   "url": "https://behrconstruction.com/faq/ti-ownership-at-lease-end",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "TI ownership at lease end?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Landlord owns improvements; tenant may remove non-structural (get prior approval).kts-law​"
-      }
-    }
-  ],
+  "name": "TI ownership at lease end?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "TI ownership at lease end?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Landlord owns improvements; tenant may remove non-structural (get prior approval).kts-law​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Landlord owns improvements; tenant may remove non-structural (get prior approval).kts-law​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Property tax impact post-remodel?",
-  "description": "Reassessment adds ~1% of improvement value annually. usacabinetstore​",
   "url": "https://behrconstruction.com/faq/property-tax-impact-post-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Property tax impact post-remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reassessment adds ~1% of improvement value annually. usacabinetstore​"
-      }
-    }
-  ],
+  "name": "Property tax impact post-remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Property tax impact post-remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reassessment adds ~1% of improvement value annually. usacabinetstore​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Reassessment adds ~1% of improvement value annually. usacabinetstore​"
 }

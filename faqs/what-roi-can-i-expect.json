@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What ROI can I expect?",
-  "description": "60–80% on kitchens/baths, 50–70% additions; focus on neighborhood comps over trends. konkolcustom​",
   "url": "https://behrconstruction.com/faq/what-roi-can-i-expect",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What ROI can I expect?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "60–80% on kitchens/baths, 50–70% additions; focus on neighborhood comps over trends. konkolcustom​"
-      }
-    }
-  ],
+  "name": "What ROI can I expect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What ROI can I expect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "60–80% on kitchens/baths, 50–70% additions; focus on neighborhood comps over trends. konkolcustom​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "60–80% on kitchens/baths, 50–70% additions; focus on neighborhood comps over trends. konkolcustom​"
 }

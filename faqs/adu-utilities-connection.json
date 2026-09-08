@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "ADU utilities connection?",
-  "description": "Separate meters encouraged; no impact fees unless new. nestadu​",
   "url": "https://behrconstruction.com/faq/adu-utilities-connection",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "ADU utilities connection?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Separate meters encouraged; no impact fees unless new. nestadu​"
-      }
-    }
-  ],
+  "name": "ADU utilities connection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "ADU utilities connection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Separate meters encouraged; no impact fees unless new. nestadu​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Separate meters encouraged; no impact fees unless new. nestadu​"
 }

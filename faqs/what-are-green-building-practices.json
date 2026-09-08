@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are green building practices?",
-  "description": "Strategies reducing energy/water use, waste, emissions using efficient materials/systems, site selection, indoor air quality.greenberg​",
   "url": "https://behrconstruction.com/faq/what-are-green-building-practices",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are green building practices?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Strategies reducing energy/water use, waste, emissions using efficient materials/systems, site selection, indoor air quality.greenberg​"
-      }
-    }
-  ],
+  "name": "What are green building practices?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are green building practices?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strategies reducing energy/water use, waste, emissions using efficient materials/systems, site selection, indoor air quality.greenberg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Strategies reducing energy/water use, waste, emissions using efficient materials/systems, site selection, indoor air quality.greenberg​"
 }

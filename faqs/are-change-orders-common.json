@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are change orders common?",
-  "description": "Yes, for surprises (10–20% of projects); insist on written approval to control costs/scope creep. marwoodconstruction​",
   "url": "https://behrconstruction.com/faq/are-change-orders-common",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are change orders common?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, for surprises (10–20% of projects); insist on written approval to control costs/scope creep. marwoodconstruction​"
-      }
-    }
-  ],
+  "name": "Are change orders common?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are change orders common?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for surprises (10–20% of projects); insist on written approval to control costs/scope creep. marwoodconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, for surprises (10–20% of projects); insist on written approval to control costs/scope creep. marwoodconstruction​"
 }

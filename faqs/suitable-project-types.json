@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Suitable project types?",
-  "description": "Commercial, healthcare, infrastructure, residential where speed/collaboration key.energysystemsgroup​",
   "url": "https://behrconstruction.com/faq/suitable-project-types",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Suitable project types?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Commercial, healthcare, infrastructure, residential where speed/collaboration key.energysystemsgroup​"
-      }
-    }
-  ],
+  "name": "Suitable project types?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Suitable project types?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial, healthcare, infrastructure, residential where speed/collaboration key.energysystemsgroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Commercial, healthcare, infrastructure, residential where speed/collaboration key.energysystemsgroup​"
 }

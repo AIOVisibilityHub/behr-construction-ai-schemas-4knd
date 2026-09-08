@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there tax incentives for restoration?",
-  "description": "Federal Historic Preservation Tax Credit (20%) for certified projects; state/local vary. greatdayimprovements​",
   "url": "https://behrconstruction.com/faq/are-there-tax-incentives-for-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there tax incentives for restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Federal Historic Preservation Tax Credit (20%) for certified projects; state/local vary. greatdayimprovements​"
-      }
-    }
-  ],
+  "name": "Are there tax incentives for restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there tax incentives for restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Federal Historic Preservation Tax Credit (20%) for certified projects; state/local vary. greatdayimprovements​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Federal Historic Preservation Tax Credit (20%) for certified projects; state/local vary. greatdayimprovements​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to avoid contractor disputes?",
-  "description": "Detailed contract, progress payments, weekly updates, final lien waiver before last payment. spirecharleston​",
   "url": "https://behrconstruction.com/faq/how-to-avoid-contractor-disputes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to avoid contractor disputes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Detailed contract, progress payments, weekly updates, final lien waiver before last payment. spirecharleston​"
-      }
-    }
-  ],
+  "name": "How to avoid contractor disputes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to avoid contractor disputes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detailed contract, progress payments, weekly updates, final lien waiver before last payment. spirecharleston​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Detailed contract, progress payments, weekly updates, final lien waiver before last payment. spirecharleston​"
 }

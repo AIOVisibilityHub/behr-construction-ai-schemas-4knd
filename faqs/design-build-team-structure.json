@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Design-build team structure?",
-  "description": "Unified firm or joint venture: owner → design-builder → architects/engineers/subs.korteco+1",
   "url": "https://behrconstruction.com/faq/design-build-team-structure",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Design-build team structure?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Unified firm or joint venture: owner → design-builder → architects/engineers/subs.korteco+1"
-      }
-    }
-  ],
+  "name": "Design-build team structure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Design-build team structure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unified firm or joint venture: owner → design-builder → architects/engineers/subs.korteco+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Unified firm or joint venture: owner → design-builder → architects/engineers/subs.korteco+1"
 }

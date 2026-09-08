@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Notify neighbors for ADU?",
-  "description": "No public hearing; ministerial process. smcadu​",
   "url": "https://behrconstruction.com/faq/notify-neighbors-for-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Notify neighbors for ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No public hearing; ministerial process. smcadu​"
-      }
-    }
-  ],
+  "name": "Notify neighbors for ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Notify neighbors for ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No public hearing; ministerial process. smcadu​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No public hearing; ministerial process. smcadu​"
 }

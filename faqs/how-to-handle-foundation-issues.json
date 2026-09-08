@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to handle foundation issues?",
-  "description": "Underpinning or helical piers; engineer assessment first ($5k–$20k). behrconstruction​",
   "url": "https://behrconstruction.com/faq/how-to-handle-foundation-issues",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to handle foundation issues?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Underpinning or helical piers; engineer assessment first ($5k–$20k). behrconstruction​"
-      }
-    }
-  ],
+  "name": "How to handle foundation issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to handle foundation issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Underpinning or helical piers; engineer assessment first ($5k–$20k). behrconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Underpinning or helical piers; engineer assessment first ($5k–$20k). behrconstruction​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Upward vs outward addition costs?",
-  "description": "Outward cheaper (foundation only); upward requires roof removal/support ($50k+ extra). schatz-construction​",
   "url": "https://behrconstruction.com/faq/upward-vs-outward-addition-costs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Upward vs outward addition costs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Outward cheaper (foundation only); upward requires roof removal/support ($50k+ extra). schatz-construction​"
-      }
-    }
-  ],
+  "name": "Upward vs outward addition costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Upward vs outward addition costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outward cheaper (foundation only); upward requires roof removal/support ($50k+ extra). schatz-construction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Outward cheaper (foundation only); upward requires roof removal/support ($50k+ extra). schatz-construction​"
 }

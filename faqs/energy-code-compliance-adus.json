@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Energy code compliance ADUs?",
-  "description": "Title 24 standards; efficiency upgrades required. energy.ca​",
   "url": "https://behrconstruction.com/faq/energy-code-compliance-adus",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Energy code compliance ADUs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Title 24 standards; efficiency upgrades required. energy.ca​"
-      }
-    }
-  ],
+  "name": "Energy code compliance ADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Energy code compliance ADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Title 24 standards; efficiency upgrades required. energy.ca​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Title 24 standards; efficiency upgrades required. energy.ca​"
 }

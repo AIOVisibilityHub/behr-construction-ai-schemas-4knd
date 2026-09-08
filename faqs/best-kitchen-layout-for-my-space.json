@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Best kitchen layout for my space?",
-  "description": "L-shaped for small, U-shaped efficiency, island for open; consult designer. allreno​",
   "url": "https://behrconstruction.com/faq/best-kitchen-layout-for-my-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Best kitchen layout for my space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "L-shaped for small, U-shaped efficiency, island for open; consult designer. allreno​"
-      }
-    }
-  ],
+  "name": "Best kitchen layout for my space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Best kitchen layout for my space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "L-shaped for small, U-shaped efficiency, island for open; consult designer. allreno​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "L-shaped for small, U-shaped efficiency, island for open; consult designer. allreno​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Neighborhood impact?",
-  "description": "Notify neighbors; minimize dust/noise; parking for crews. 2mo​",
   "url": "https://behrconstruction.com/faq/neighborhood-impact",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Neighborhood impact?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Notify neighbors; minimize dust/noise; parking for crews. 2mo​"
-      }
-    }
-  ],
+  "name": "Neighborhood impact?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Neighborhood impact?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Notify neighbors; minimize dust/noise; parking for crews. 2mo​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Notify neighbors; minimize dust/noise; parking for crews. 2mo​"
 }

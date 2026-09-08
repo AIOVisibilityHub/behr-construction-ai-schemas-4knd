@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "ADU financing options?",
-  "description": "CalHFA loans, local grants, HELOC; incentives reduce fees. nestadu​",
   "url": "https://behrconstruction.com/faq/adu-financing-options",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "ADU financing options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CalHFA loans, local grants, HELOC; incentives reduce fees. nestadu​"
-      }
-    }
-  ],
+  "name": "ADU financing options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "ADU financing options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CalHFA loans, local grants, HELOC; incentives reduce fees. nestadu​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CalHFA loans, local grants, HELOC; incentives reduce fees. nestadu​"
 }

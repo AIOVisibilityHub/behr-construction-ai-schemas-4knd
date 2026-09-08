@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are trending?",
-  "description": "Quartz counters, matte black fixtures, large-format tiles, smart appliances, wood-look porcelain. worthingtonindy​",
   "url": "https://behrconstruction.com/faq/what-materials-are-trending",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are trending?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Quartz counters, matte black fixtures, large-format tiles, smart appliances, wood-look porcelain. worthingtonindy​"
-      }
-    }
-  ],
+  "name": "What materials are trending?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are trending?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quartz counters, matte black fixtures, large-format tiles, smart appliances, wood-look porcelain. worthingtonindy​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Quartz counters, matte black fixtures, large-format tiles, smart appliances, wood-look porcelain. worthingtonindy​"
 }

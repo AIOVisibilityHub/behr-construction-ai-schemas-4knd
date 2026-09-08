@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who pays for tenant improvements?",
-  "description": "Negotiated: landlord TIA, tenant excess, or turnkey landlord build; lease defines responsibilities.wellsandwest+1",
   "url": "https://behrconstruction.com/faq/who-pays-for-tenant-improvements",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who pays for tenant improvements?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Negotiated: landlord TIA, tenant excess, or turnkey landlord build; lease defines responsibilities.wellsandwest+1"
-      }
-    }
-  ],
+  "name": "Who pays for tenant improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who pays for tenant improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negotiated: landlord TIA, tenant excess, or turnkey landlord build; lease defines responsibilities.wellsandwest+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Negotiated: landlord TIA, tenant excess, or turnkey landlord build; lease defines responsibilities.wellsandwest+1"
 }

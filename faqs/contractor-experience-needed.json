@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Contractor experience needed?",
-  "description": "Certification-experienced teams essential for compliance.greenberg​",
   "url": "https://behrconstruction.com/faq/contractor-experience-needed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Contractor experience needed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Certification-experienced teams essential for compliance.greenberg​"
-      }
-    }
-  ],
+  "name": "Contractor experience needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Contractor experience needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Certification-experienced teams essential for compliance.greenberg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Certification-experienced teams essential for compliance.greenberg​"
 }

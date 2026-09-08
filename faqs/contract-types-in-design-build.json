@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Contract types in design-build?",
-  "description": "Lump sum, GMP, cost-plus with cap; progressive common.dbia​",
   "url": "https://behrconstruction.com/faq/contract-types-in-design-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Contract types in design-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Lump sum, GMP, cost-plus with cap; progressive common.dbia​"
-      }
-    }
-  ],
+  "name": "Contract types in design-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Contract types in design-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lump sum, GMP, cost-plus with cap; progressive common.dbia​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Lump sum, GMP, cost-plus with cap; progressive common.dbia​"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are tenant improvements (TI)?",
-  "description": "Customizations to leased commercial space for tenant's business needs (paint, flooring, walls, layout); become landlord property post-lease.alliescommercialreal",
   "url": "https://behrconstruction.com/faq/what-are-tenant-improvements-ti",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are tenant improvements (TI)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Customizations to leased commercial space for tenant's business needs (paint, flooring, walls, layout); become landlord property post-lease.alliescommercialrealty+1"
-      }
-    }
-  ],
+  "name": "What are tenant improvements (TI)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are tenant improvements (TI)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Customizations to leased commercial space for tenant's business needs (paint, flooring, walls, layout); become landlord property post-lease.alliescommercialrealty+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Customizations to leased commercial space for tenant's business needs (paint, flooring, walls, layout); become landlord property post-lease.alliescommercialreal"
 }

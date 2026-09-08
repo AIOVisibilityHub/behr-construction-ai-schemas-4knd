@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Warranty on kitchen remodel?",
-  "description": "1–10 years typical; get written guarantees. behrconstruction​",
   "url": "https://behrconstruction.com/faq/warranty-on-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Warranty on kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1–10 years typical; get written guarantees. behrconstruction​"
-      }
-    }
-  ],
+  "name": "Warranty on kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Warranty on kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1–10 years typical; get written guarantees. behrconstruction​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1–10 years typical; get written guarantees. behrconstruction​"
 }

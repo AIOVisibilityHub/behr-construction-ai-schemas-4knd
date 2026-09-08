@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are design-build benefits?",
-  "description": "Faster delivery (15–30% shorter), lower costs (5–20% savings), fewer change orders, better risk management via collaboration.autodesk+1",
   "url": "https://behrconstruction.com/faq/what-are-design-build-benefits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are design-build benefits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Faster delivery (15–30% shorter), lower costs (5–20% savings), fewer change orders, better risk management via collaboration.autodesk+1"
-      }
-    }
-  ],
+  "name": "What are design-build benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are design-build benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Faster delivery (15–30% shorter), lower costs (5–20% savings), fewer change orders, better risk management via collaboration.autodesk+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Faster delivery (15–30% shorter), lower costs (5–20% savings), fewer change orders, better risk management via collaboration.autodesk+1"
 }

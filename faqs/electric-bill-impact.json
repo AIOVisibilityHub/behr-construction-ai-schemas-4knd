@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Electric bill impact?",
-  "description": "$0.10-0.30/sq ft/month (8hr/day, $0.15/kWh).warmup​",
   "url": "https://behrconstruction.com/faq/electric-bill-impact",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Electric bill impact?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$0.10-0.30/sq ft/month (8hr/day, $0.15/kWh).warmup​"
-      }
-    }
-  ],
+  "name": "Electric bill impact?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Electric bill impact?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$0.10-0.30/sq ft/month (8hr/day, $0.15/kWh).warmup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$0.10-0.30/sq ft/month (8hr/day, $0.15/kWh).warmup​"
 }

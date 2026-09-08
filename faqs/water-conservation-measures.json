@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Water conservation measures?",
-  "description": "Low-flow fixtures, drought landscaping, 20% reduction baseline.greenberg​",
   "url": "https://behrconstruction.com/faq/water-conservation-measures",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Water conservation measures?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Low-flow fixtures, drought landscaping, 20% reduction baseline.greenberg​"
-      }
-    }
-  ],
+  "name": "Water conservation measures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Water conservation measures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low-flow fixtures, drought landscaping, 20% reduction baseline.greenberg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Low-flow fixtures, drought landscaping, 20% reduction baseline.greenberg​"
 }

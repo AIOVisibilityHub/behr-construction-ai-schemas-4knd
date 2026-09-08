@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Walk-in shower installation cost?",
-  "description": "$8k–$15k; glass doors $480–$882 extra. modernize​",
   "url": "https://behrconstruction.com/faq/walk-in-shower-installation-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Walk-in shower installation cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$8k–$15k; glass doors $480–$882 extra. modernize​"
-      }
-    }
-  ],
+  "name": "Walk-in shower installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Walk-in shower installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$8k–$15k; glass doors $480–$882 extra. modernize​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$8k–$15k; glass doors $480–$882 extra. modernize​"
 }

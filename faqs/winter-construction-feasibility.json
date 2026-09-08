@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Winter construction feasibility?",
-  "description": "Possible with protection; indoor work prioritized; delays common. 2mo​",
   "url": "https://behrconstruction.com/faq/winter-construction-feasibility",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Winter construction feasibility?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Possible with protection; indoor work prioritized; delays common. 2mo​"
-      }
-    }
-  ],
+  "name": "Winter construction feasibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Winter construction feasibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Possible with protection; indoor work prioritized; delays common. 2mo​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Possible with protection; indoor work prioritized; delays common. 2mo​"
 }

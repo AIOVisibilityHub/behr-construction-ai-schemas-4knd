@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Vanity and countertop costs?",
-  "description": "$736–$2.2k vanity, $332 counter; solid surface/quartz popular. modernize+1",
   "url": "https://behrconstruction.com/faq/vanity-and-countertop-costs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Vanity and countertop costs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$736–$2.2k vanity, $332 counter; solid surface/quartz popular. modernize+1"
-      }
-    }
-  ],
+  "name": "Vanity and countertop costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Vanity and countertop costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$736–$2.2k vanity, $332 counter; solid surface/quartz popular. modernize+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$736–$2.2k vanity, $332 counter; solid surface/quartz popular. modernize+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose a reliable contractor?",
-  "description": "Verify licenses/insurance, check reviews/references, get multiple bids, ensure clear contracts with timelines/budgets. spirecharleston​",
   "url": "https://behrconstruction.com/faq/how-do-i-choose-a-reliable-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose a reliable contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verify licenses/insurance, check reviews/references, get multiple bids, ensure clear contracts with timelines/budgets. spirecharleston​"
-      }
-    }
-  ],
+  "name": "How do I choose a reliable contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Verify licenses/insurance, check reviews/references, get multiple bids, ensure clear contracts with timelines/budgets. spirecharleston​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Verify licenses/insurance, check reviews/references, get multiple bids, ensure clear contracts with timelines/budgets. spirecharleston​"
 }

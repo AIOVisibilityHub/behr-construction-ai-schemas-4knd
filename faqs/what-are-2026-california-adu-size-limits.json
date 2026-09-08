@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are 2026 California ADU size limits?",
-  "description": "Up to 850 sq ft (studio/1-bed), 1,000 sq ft (2+ beds); no owner-occupancy required. nestadu​",
   "url": "https://behrconstruction.com/faq/what-are-2026-california-adu-size-limits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are 2026 California ADU size limits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Up to 850 sq ft (studio/1-bed), 1,000 sq ft (2+ beds); no owner-occupancy required. nestadu​"
-      }
-    }
-  ],
+  "name": "What are 2026 California ADU size limits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are 2026 California ADU size limits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Up to 850 sq ft (studio/1-bed), 1,000 sq ft (2+ beds); no owner-occupancy required. nestadu​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Up to 850 sq ft (studio/1-bed), 1,000 sq ft (2+ beds); no owner-occupancy required. nestadu​"
 }

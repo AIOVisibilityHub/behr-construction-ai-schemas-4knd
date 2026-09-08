@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When to use design-build?",
-  "description": "Time-sensitive projects, complex sites, budget constraints, when collaboration reduces owner risk.energysystemsgroup+1",
   "url": "https://behrconstruction.com/faq/when-to-use-design-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When to use design-build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Time-sensitive projects, complex sites, budget constraints, when collaboration reduces owner risk.energysystemsgroup+1"
-      }
-    }
-  ],
+  "name": "When to use design-build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When to use design-build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Time-sensitive projects, complex sites, budget constraints, when collaboration reduces owner risk.energysystemsgroup+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Time-sensitive projects, complex sites, budget constraints, when collaboration reduces owner risk.energysystemsgroup+1"
 }
