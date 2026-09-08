@@ -10,16 +10,16 @@ Canonical AI Data Package for Behr Construction.
 
 ## Stats
 - 355 faqs
-- 345 helpArticles
-- 1 services
-- 28 personnel
-- 2 locations
-- 2 awards
-- 7 caseStudies
-- 1 organization
 - 5 press
+- 2 awards
 - 30 reviews
-- **776** total
+- 87 services
+- 2 locations
+- 16 personnel
+- 7 caseStudies
+- 345 helpArticles
+- 1 organization
+- **850** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Behr Construction — canonical website — https://behrconstruction.aiovisibility.net
@@ -45,40 +45,114 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 ### Organization & About (1)
 - [`organization/behr-construction-organization.json`](./organization/behr-construction-organization.json) — schema
 
-### Services (1)
+### Services (87)
+- [`services/accessibility-modifications-bathroom-service.json`](./services/accessibility-modifications-bathroom-service.json) — schema
+- [`services/appliance-upgrades-kitchen-service.json`](./services/appliance-upgrades-kitchen-service.json) — schema
+- [`services/bath-only-remodel-within-larger-plan-service.json`](./services/bath-only-remodel-within-larger-plan-service.json) — schema
+- [`services/bathroom-remodel-contractor-service.json`](./services/bathroom-remodel-contractor-service.json) — schema
+- [`services/bid-package-preparation-construction-management-service.json`](./services/bid-package-preparation-construction-management-service.json) — schema
+- [`services/cabinet-only-replacement-kitchen-service.json`](./services/cabinet-only-replacement-kitchen-service.json) — schema
+- [`services/change-order-and-claim-analysis-takeover-service.json`](./services/change-order-and-claim-analysis-takeover-service.json) — schema
+- [`services/closeout-and-punch-list-management-development-service.json`](./services/closeout-and-punch-list-management-development-service.json) — schema
+- [`services/closeout-and-warranty-management-construction-management-service.json`](./services/closeout-and-warranty-management-construction-management-service.json) — schema
+- [`services/closeout-and-warranty-resolution-takeover-service.json`](./services/closeout-and-warranty-resolution-takeover-service.json) — schema
+- [`services/commercial-tenant-improvement-contractor-service.json`](./services/commercial-tenant-improvement-contractor-service.json) — schema
+- [`services/construction-expert-witness-service.json`](./services/construction-expert-witness-service.json) — schema
+- [`services/construction-management-company-service.json`](./services/construction-management-company-service.json) — schema
+- [`services/cosmetic-refresh-contractor-service.json`](./services/cosmetic-refresh-contractor-service.json) — schema
+- [`services/countertop-and-backsplash-only-kitchen-service.json`](./services/countertop-and-backsplash-only-kitchen-service.json) — schema
+- [`services/court-design-and-layout-only-tennis-service.json`](./services/court-design-and-layout-only-tennis-service.json) — schema
+- [`services/crack-sealing-and-patching-parking-lot-service.json`](./services/crack-sealing-and-patching-parking-lot-service.json) — schema
+- [`services/custom-home-builder-service.json`](./services/custom-home-builder-service.json) — schema
 - [`services/custom-home-construction-service.json`](./services/custom-home-construction-service.json) — schema
+- [`services/deck-and-coping-repairs-around-existing-pool-service.json`](./services/deck-and-coping-repairs-around-existing-pool-service.json) — schema
+- [`services/deck-builder-service.json`](./services/deck-builder-service.json) — schema
+- [`services/deck-design-and-engineering-only-service.json`](./services/deck-design-and-engineering-only-service.json) — schema
+- [`services/demolition-and-debris-removal-only-fire-damage-service.json`](./services/demolition-and-debris-removal-only-fire-damage-service.json) — schema
+- [`services/demolition-and-rough-in-tenant-improvement-service.json`](./services/demolition-and-rough-in-tenant-improvement-service.json) — schema
+- [`services/deposition-testimony-only-expert-witness-service.json`](./services/deposition-testimony-only-expert-witness-service.json) — schema
+- [`services/design-and-permitting-only-addition-service.json`](./services/design-and-permitting-only-addition-service.json) — schema
+- [`services/design-only-custom-home-services-service.json`](./services/design-only-custom-home-services-service.json) — schema
+- [`services/document-review-and-report-writing-only-expert-witness-service.json`](./services/document-review-and-report-writing-only-expert-witness-service.json) — schema
+- [`services/drainage-improvements-parking-lot-service.json`](./services/drainage-improvements-parking-lot-service.json) — schema
+- [`services/emergency-water-mitigation-only-flood-service.json`](./services/emergency-water-mitigation-only-flood-service.json) — schema
+- [`services/equipment-upgrades-pool-service.json`](./services/equipment-upgrades-pool-service.json) — schema
+- [`services/exterior-envelope-work-contractor-service.json`](./services/exterior-envelope-work-contractor-service.json) — schema
+- [`services/fencing-and-windscreen-installation-tennis-court-service.json`](./services/fencing-and-windscreen-installation-tennis-court-service.json) — schema
+- [`services/finish-phase-only-contractor-service.json`](./services/finish-phase-only-contractor-service.json) — schema
+- [`services/finish-repairs-once-home-is-dry-flood-service.json`](./services/finish-repairs-once-home-is-dry-flood-service.json) — schema
+- [`services/finish-work-flooring-ceilings-and-paint-tenant-improvement-service.json`](./services/finish-work-flooring-ceilings-and-paint-tenant-improvement-service.json) — schema
+- [`services/finish-work-paint-and-flooring-after-fire-repair-service.json`](./services/finish-work-paint-and-flooring-after-fire-repair-service.json) — schema
+- [`services/finishing-an-existing-shell-contractor-service.json`](./services/finishing-an-existing-shell-contractor-service.json) — schema
+- [`services/fire-damage-restoration-contractor-service.json`](./services/fire-damage-restoration-contractor-service.json) — schema
+- [`services/flood-damage-repair-contractor-service.json`](./services/flood-damage-repair-contractor-service.json) — schema
+- [`services/forensic-review-and-scope-documentation-takeover-service.json`](./services/forensic-review-and-scope-documentation-takeover-service.json) — schema
+- [`services/foundation-and-framing-only-addition-service.json`](./services/foundation-and-framing-only-addition-service.json) — schema
+- [`services/framing-and-drywall-replacement-fire-damage-service.json`](./services/framing-and-drywall-replacement-fire-damage-service.json) — schema
+- [`services/framing-only-contractor-service.json`](./services/framing-only-contractor-service.json) — schema
+- [`services/framing-only-deck-service.json`](./services/framing-only-deck-service.json) — schema
+- [`services/home-addition-contractor-service.json`](./services/home-addition-contractor-service.json) — schema
+- [`services/kitchen-only-remodel-within-larger-plan-service.json`](./services/kitchen-only-remodel-within-larger-plan-service.json) — schema
+- [`services/kitchen-remodel-service.json`](./services/kitchen-remodel-service.json) — schema
+- [`services/layout-reconfiguration-without-moving-plumbing-or-gas-service.json`](./services/layout-reconfiguration-without-moving-plumbing-or-gas-service.json) — schema
+- [`services/layout-redesign-only-remodel-service.json`](./services/layout-redesign-only-remodel-service.json) — schema
+- [`services/lighting-and-net-system-upgrades-tennis-court-service.json`](./services/lighting-and-net-system-upgrades-tennis-court-service.json) — schema
+- [`services/lighting-and-ventilation-improvements-bathroom-service.json`](./services/lighting-and-ventilation-improvements-bathroom-service.json) — schema
+- [`services/mediation-support-and-case-strategy-consulting-expert-witness-service.json`](./services/mediation-support-and-case-strategy-consulting-expert-witness-service.json) — schema
+- [`services/mold-remediation-coordination-flood-service.json`](./services/mold-remediation-coordination-flood-service.json) — schema
+- [`services/owner-s-rep-services-construction-management-service.json`](./services/owner-s-rep-services-construction-management-service.json) — schema
+- [`services/painting-and-hardware-refresh-kitchen-service.json`](./services/painting-and-hardware-refresh-kitchen-service.json) — schema
+- [`services/parking-lot-construction-service.json`](./services/parking-lot-construction-service.json) — schema
+- [`services/permitting-only-tenant-improvement-service.json`](./services/permitting-only-tenant-improvement-service.json) — schema
+- [`services/plan-review-and-preconstruction-consulting-service.json`](./services/plan-review-and-preconstruction-consulting-service.json) — schema
+- [`services/pool-design-and-permitting-only-service.json`](./services/pool-design-and-permitting-only-service.json) — schema
+- [`services/preconstruction-consulting-construction-management-service.json`](./services/preconstruction-consulting-construction-management-service.json) — schema
+- [`services/preconstruction-consulting-development-service.json`](./services/preconstruction-consulting-development-service.json) — schema
+- [`services/railing-and-stair-upgrades-deck-service.json`](./services/railing-and-stair-upgrades-deck-service.json) — schema
+- [`services/re-grouting-and-sealing-bathroom-service.json`](./services/re-grouting-and-sealing-bathroom-service.json) — schema
+- [`services/re-striping-and-ada-updates-parking-lot-service.json`](./services/re-striping-and-ada-updates-parking-lot-service.json) — schema
+- [`services/real-estate-development-contractor-service.json`](./services/real-estate-development-contractor-service.json) — schema
+- [`services/resurfacing-and-tile-work-pool-service.json`](./services/resurfacing-and-tile-work-pool-service.json) — schema
+- [`services/resurfacing-existing-deck-service.json`](./services/resurfacing-existing-deck-service.json) — schema
+- [`services/resurfacing-existing-tennis-court-service.json`](./services/resurfacing-existing-tennis-court-service.json) — schema
+- [`services/roof-tie-in-only-contractor-service.json`](./services/roof-tie-in-only-contractor-service.json) — schema
+- [`services/sealcoating-parking-lot-service.json`](./services/sealcoating-parking-lot-service.json) — schema
+- [`services/selective-completion-of-critical-scopes-takeover-service.json`](./services/selective-completion-of-critical-scopes-takeover-service.json) — schema
+- [`services/shower-or-tub-replacement-only-bathroom-service.json`](./services/shower-or-tub-replacement-only-bathroom-service.json) — schema
+- [`services/site-work-and-utilities-development-service.json`](./services/site-work-and-utilities-development-service.json) — schema
+- [`services/site-work-only-contractor-service.json`](./services/site-work-only-contractor-service.json) — schema
+- [`services/space-planning-and-design-only-tenant-improvement-service.json`](./services/space-planning-and-design-only-tenant-improvement-service.json) — schema
+- [`services/structural-assessment-and-scoping-fire-damage-service.json`](./services/structural-assessment-and-scoping-fire-damage-service.json) — schema
+- [`services/subfloor-and-drywall-replacement-flood-service.json`](./services/subfloor-and-drywall-replacement-flood-service.json) — schema
+- [`services/swimming-pool-contractor-service.json`](./services/swimming-pool-contractor-service.json) — schema
+- [`services/systems-upgrades-contractor-service.json`](./services/systems-upgrades-contractor-service.json) — schema
+- [`services/takeover-contractor-for-failed-project-service.json`](./services/takeover-contractor-for-failed-project-service.json) — schema
+- [`services/tennis-court-builder-service.json`](./services/tennis-court-builder-service.json) — schema
+- [`services/trial-testimony-only-expert-witness-service.json`](./services/trial-testimony-only-expert-witness-service.json) — schema
+- [`services/value-engineering-development-service.json`](./services/value-engineering-development-service.json) — schema
+- [`services/vanity-and-countertop-upgrade-bathroom-service.json`](./services/vanity-and-countertop-upgrade-bathroom-service.json) — schema
+- [`services/vertical-construction-development-service.json`](./services/vertical-construction-development-service.json) — schema
+- [`services/whole-house-remodel-contractor-service.json`](./services/whole-house-remodel-contractor-service.json) — schema
 
 ### Locations (2)
 - [`locations/behr-construction-office.json`](./locations/behr-construction-office.json) — schema
 - [`locations/behr-construction.json`](./locations/behr-construction.json) — schema
 
-### Team Members (28)
-- [`team/arturo-haro-n-a-southern-california-faq.json`](./team/arturo-haro-n-a-southern-california-faq.json) — schema
+### Team Members (16)
 - [`team/arturo-haro-profile.json`](./team/arturo-haro-profile.json) — schema
 - [`team/arturo-haro-southern-california.json`](./team/arturo-haro-southern-california.json) — schema
-- [`team/dave-prange-n-a-southern-california-faq.json`](./team/dave-prange-n-a-southern-california-faq.json) — schema
 - [`team/dave-prange-profile.json`](./team/dave-prange-profile.json) — schema
 - [`team/dave-prange-southern-california.json`](./team/dave-prange-southern-california.json) — schema
-- [`team/humberto-haro-n-a-southern-california-faq.json`](./team/humberto-haro-n-a-southern-california-faq.json) — schema
 - [`team/humberto-haro-profile.json`](./team/humberto-haro-profile.json) — schema
 - [`team/humberto-haro-southern-california.json`](./team/humberto-haro-southern-california.json) — schema
-- [`team/jeff-baker-n-a-southern-california-faq.json`](./team/jeff-baker-n-a-southern-california-faq.json) — schema
 - [`team/jeff-baker-profile.json`](./team/jeff-baker-profile.json) — schema
 - [`team/jeff-baker-southern-california.json`](./team/jeff-baker-southern-california.json) — schema
-- [`team/john-mills-n-a-southern-california-faq.json`](./team/john-mills-n-a-southern-california-faq.json) — schema
 - [`team/john-mills-profile.json`](./team/john-mills-profile.json) — schema
 - [`team/john-mills-southern-california.json`](./team/john-mills-southern-california.json) — schema
-- [`team/kurt-knechtel-bathroom-remodeling-southern-california-faq.json`](./team/kurt-knechtel-bathroom-remodeling-southern-california-faq.json) — schema
-- [`team/kurt-knechtel-custom-home-building-southern-california-faq.json`](./team/kurt-knechtel-custom-home-building-southern-california-faq.json) — schema
-- [`team/kurt-knechtel-kitchen-remodeling-southern-california-faq.json`](./team/kurt-knechtel-kitchen-remodeling-southern-california-faq.json) — schema
 - [`team/kurt-knechtel-profile.json`](./team/kurt-knechtel-profile.json) — schema
-- [`team/kurt-knechtel-residential-construction-southern-california-faq.json`](./team/kurt-knechtel-residential-construction-southern-california-faq.json) — schema
 - [`team/kurt-knechtel-southern-california.json`](./team/kurt-knechtel-southern-california.json) — schema
-- [`team/kurt-knechtel-whole-home-remodeling-southern-california-faq.json`](./team/kurt-knechtel-whole-home-remodeling-southern-california-faq.json) — schema
-- [`team/matt-vuyovich-n-a-southern-california-faq.json`](./team/matt-vuyovich-n-a-southern-california-faq.json) — schema
 - [`team/matt-vuyovich-profile.json`](./team/matt-vuyovich-profile.json) — schema
 - [`team/matt-vuyovich-southern-california.json`](./team/matt-vuyovich-southern-california.json) — schema
-- [`team/sandy-tucker-n-a-southern-california-faq.json`](./team/sandy-tucker-n-a-southern-california-faq.json) — schema
 - [`team/sandy-tucker-profile.json`](./team/sandy-tucker-profile.json) — schema
 - [`team/sandy-tucker-southern-california.json`](./team/sandy-tucker-southern-california.json) — schema
 
@@ -786,12 +860,357 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/winter-addition-construction.json`](./help/winter-addition-construction.json) — schema
 - [`help/workstation-sink-features.json`](./help/workstation-sink-features.json) — schema
 
-### Public Pages (9)
+### Public Pages (354)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`help/2026-adu-law-updates-sb-543.html`](./help/2026-adu-law-updates-sb-543.html) — LLM-optimized public page
+- [`help/2026-adu-regulations-update.html`](./help/2026-adu-regulations-update.html) — LLM-optimized public page
+- [`help/2026-bathroom-trends-homeowners.html`](./help/2026-bathroom-trends-homeowners.html) — LLM-optimized public page
+- [`help/2026-building-trends.html`](./help/2026-building-trends.html) — LLM-optimized public page
+- [`help/2026-custom-home-features.html`](./help/2026-custom-home-features.html) — LLM-optimized public page
+- [`help/2026-custom-planning-strategy.html`](./help/2026-custom-planning-strategy.html) — LLM-optimized public page
+- [`help/2026-home-design-trends-forecast.html`](./help/2026-home-design-trends-forecast.html) — LLM-optimized public page
+- [`help/2026-home-design-trends.html`](./help/2026-home-design-trends.html) — LLM-optimized public page
+- [`help/2026-housing-law-impacts.html`](./help/2026-housing-law-impacts.html) — LLM-optimized public page
+- [`help/2026-kitchen-trends-overview.html`](./help/2026-kitchen-trends-overview.html) — LLM-optimized public page
+- [`help/2026-kitchen-trends-sea-pointe.html`](./help/2026-kitchen-trends-sea-pointe.html) — LLM-optimized public page
+- [`help/2026-luxury-interiors.html`](./help/2026-luxury-interiors.html) — LLM-optimized public page
+- [`help/2026-new-home-building-steps.html`](./help/2026-new-home-building-steps.html) — LLM-optimized public page
+- [`help/2026-remodeling-forecast.html`](./help/2026-remodeling-forecast.html) — LLM-optimized public page
+- [`help/45-kitchen-remodeling-ideas-2026.html`](./help/45-kitchen-remodeling-ideas-2026.html) — LLM-optimized public page
+- [`help/7-steps-green-certification.html`](./help/7-steps-green-certification.html) — LLM-optimized public page
+- [`help/about-behr-greetings.html`](./help/about-behr-greetings.html) — LLM-optimized public page
+- [`help/addition-roi-expectations.html`](./help/addition-roi-expectations.html) — LLM-optimized public page
+- [`help/adu-build-timelines.html`](./help/adu-build-timelines.html) — LLM-optimized public page
+- [`help/adu-financing-incentives.html`](./help/adu-financing-incentives.html) — LLM-optimized public page
+- [`help/adu-handbook-pdf-guide.html`](./help/adu-handbook-pdf-guide.html) — LLM-optimized public page
+- [`help/adu-permitting-timelines.html`](./help/adu-permitting-timelines.html) — LLM-optimized public page
+- [`help/adu-rental-regulations.html`](./help/adu-rental-regulations.html) — LLM-optimized public page
+- [`help/architect-role-in-restoration.html`](./help/architect-role-in-restoration.html) — LLM-optimized public page
+- [`help/asbestos-and-lead-abatement.html`](./help/asbestos-and-lead-abatement.html) — LLM-optimized public page
+- [`help/attached-vs-detached-additions.html`](./help/attached-vs-detached-additions.html) — LLM-optimized public page
+- [`help/avoid-ti-mistakes.html`](./help/avoid-ti-mistakes.html) — LLM-optimized public page
+- [`help/avoiding-future-defaults.html`](./help/avoiding-future-defaults.html) — LLM-optimized public page
+- [`help/avoiding-over-restoration.html`](./help/avoiding-over-restoration.html) — LLM-optimized public page
+- [`help/bamboo-storage-organizers.html`](./help/bamboo-storage-organizers.html) — LLM-optimized public page
+- [`help/bath-remodeling-trends-2026.html`](./help/bath-remodeling-trends-2026.html) — LLM-optimized public page
+- [`help/bathroom-layout-planning.html`](./help/bathroom-layout-planning.html) — LLM-optimized public page
+- [`help/bathroom-remodel-cost-guide-2026.html`](./help/bathroom-remodel-cost-guide-2026.html) — LLM-optimized public page
+- [`help/bathroom-remodel-trends-2026.html`](./help/bathroom-remodel-trends-2026.html) — LLM-optimized public page
+- [`help/bathroom-remodeling-guide-2026.html`](./help/bathroom-remodeling-guide-2026.html) — LLM-optimized public page
+- [`help/bathroom-zoning-applications.html`](./help/bathroom-zoning-applications.html) — LLM-optimized public page
+- [`help/bay-area-2026-remodeling-checklist.html`](./help/bay-area-2026-remodeling-checklist.html) — LLM-optimized public page
+- [`help/bedroom-addition-planning.html`](./help/bedroom-addition-planning.html) — LLM-optimized public page
+- [`help/best-underfloor-systems-2026.html`](./help/best-underfloor-systems-2026.html) — LLM-optimized public page
+- [`help/beverage-nook-creation.html`](./help/beverage-nook-creation.html) — LLM-optimized public page
+- [`help/bim-in-design-build.html`](./help/bim-in-design-build.html) — LLM-optimized public page
+- [`help/biophilic-design-elements.html`](./help/biophilic-design-elements.html) — LLM-optimized public page
+- [`help/blending-additions-with-existing-homes.html`](./help/blending-additions-with-existing-homes.html) — LLM-optimized public page
+- [`help/bond-requirements-for-new-contractor.html`](./help/bond-requirements-for-new-contractor.html) — LLM-optimized public page
+- [`help/budget-kitchen-remodel-2026.html`](./help/budget-kitchen-remodel-2026.html) — LLM-optimized public page
+- [`help/building-trends-2026-luxury-custom.html`](./help/building-trends-2026-luxury-custom.html) — LLM-optimized public page
+- [`help/built-in-storage-solutions.html`](./help/built-in-storage-solutions.html) — LLM-optimized public page
+- [`help/calgreen-compliance-2026.html`](./help/calgreen-compliance-2026.html) — LLM-optimized public page
+- [`help/calgreen-tier-requirements.html`](./help/calgreen-tier-requirements.html) — LLM-optimized public page
+- [`help/california-adu-laws-2026-guide.html`](./help/california-adu-laws-2026-guide.html) — LLM-optimized public page
+- [`help/california-contractor-witness.html`](./help/california-contractor-witness.html) — LLM-optimized public page
+- [`help/ceiling-beams-addition.html`](./help/ceiling-beams-addition.html) — LLM-optimized public page
+- [`help/change-orders-minimized.html`](./help/change-orders-minimized.html) — LLM-optimized public page
+- [`help/change-orders-takeover.html`](./help/change-orders-takeover.html) — LLM-optimized public page
+- [`help/change-requests-mid-takeover.html`](./help/change-requests-mid-takeover.html) — LLM-optimized public page
+- [`help/choosing-contractor-expert-witness.html`](./help/choosing-contractor-expert-witness.html) — LLM-optimized public page
+- [`help/cmar-vs-design-build.html`](./help/cmar-vs-design-build.html) — LLM-optimized public page
+- [`help/coastal-zone-adu-streamline.html`](./help/coastal-zone-adu-streamline.html) — LLM-optimized public page
+- [`help/code-compliance-expertise.html`](./help/code-compliance-expertise.html) — LLM-optimized public page
+- [`help/color-trends-2026.html`](./help/color-trends-2026.html) — LLM-optimized public page
+- [`help/commercial-design-build.html`](./help/commercial-design-build.html) — LLM-optimized public page
+- [`help/commercial-ti-complete-guide.html`](./help/commercial-ti-complete-guide.html) — LLM-optimized public page
+- [`help/commercial-ti-projects-guide.html`](./help/commercial-ti-projects-guide.html) — LLM-optimized public page
+- [`help/commissioning-process.html`](./help/commissioning-process.html) — LLM-optimized public page
+- [`help/common-ti-project-types.html`](./help/common-ti-project-types.html) — LLM-optimized public page
+- [`help/complete-bathroom-remodel-guide.html`](./help/complete-bathroom-remodel-guide.html) — LLM-optimized public page
+- [`help/completion-contractor-selection.html`](./help/completion-contractor-selection.html) — LLM-optimized public page
+- [`help/comprehensive-radiant-heating-guide.html`](./help/comprehensive-radiant-heating-guide.html) — LLM-optimized public page
+- [`help/construction-dispute-expert-role.html`](./help/construction-dispute-expert-role.html) — LLM-optimized public page
+- [`help/construction-litigation-guide.html`](./help/construction-litigation-guide.html) — LLM-optimized public page
+- [`help/construction-waste-mgmt.html`](./help/construction-waste-mgmt.html) — LLM-optimized public page
+- [`help/consulting-vs-testifying-experts.html`](./help/consulting-vs-testifying-experts.html) — LLM-optimized public page
+- [`help/contractor-default-procedures.html`](./help/contractor-default-procedures.html) — LLM-optimized public page
+- [`help/contractor-licensing-experts.html`](./help/contractor-licensing-experts.html) — LLM-optimized public page
+- [`help/contractor-vetting-process.html`](./help/contractor-vetting-process.html) — LLM-optimized public page
+- [`help/cost-estimation-testimony.html`](./help/cost-estimation-testimony.html) — LLM-optimized public page
+- [`help/cost-overruns-in-takeover.html`](./help/cost-overruns-in-takeover.html) — LLM-optimized public page
+- [`help/cost-per-sq-ft-breakdown.html`](./help/cost-per-sq-ft-breakdown.html) — LLM-optimized public page
+- [`help/county-by-county-adu-requirements.html`](./help/county-by-county-adu-requirements.html) — LLM-optimized public page
+- [`help/cure-notice-before-firing.html`](./help/cure-notice-before-firing.html) — LLM-optimized public page
+- [`help/custom-cabinet-storage.html`](./help/custom-cabinet-storage.html) — LLM-optimized public page
+- [`help/custom-closet-design.html`](./help/custom-closet-design.html) — LLM-optimized public page
+- [`help/custom-design-services.html`](./help/custom-design-services.html) — LLM-optimized public page
+- [`help/custom-home-trends-2026-guide.html`](./help/custom-home-trends-2026-guide.html) — LLM-optimized public page
+- [`help/custom-vs-resale-benefits.html`](./help/custom-vs-resale-benefits.html) — LLM-optimized public page
+- [`help/daubert-methodology-standards.html`](./help/daubert-methodology-standards.html) — LLM-optimized public page
+- [`help/dbe-requirements-takeover.html`](./help/dbe-requirements-takeover.html) — LLM-optimized public page
+- [`help/default-procedure-steps.html`](./help/default-procedure-steps.html) — LLM-optimized public page
+- [`help/default-termination-avoidance.html`](./help/default-termination-avoidance.html) — LLM-optimized public page
+- [`help/default-termination-procedures.html`](./help/default-termination-procedures.html) — LLM-optimized public page
+- [`help/defect-litigation-expert-role.html`](./help/defect-litigation-expert-role.html) — LLM-optimized public page
+- [`help/delay-claims-analysis.html`](./help/delay-claims-analysis.html) — LLM-optimized public page
+- [`help/demo-material-disposal.html`](./help/demo-material-disposal.html) — LLM-optimized public page
+- [`help/deposition-preparation-tips.html`](./help/deposition-preparation-tips.html) — LLM-optimized public page
+- [`help/design-build-challenges.html`](./help/design-build-challenges.html) — LLM-optimized public page
+- [`help/design-build-complete-guide.html`](./help/design-build-complete-guide.html) — LLM-optimized public page
+- [`help/design-build-contract-types.html`](./help/design-build-contract-types.html) — LLM-optimized public page
+- [`help/design-build-defined.html`](./help/design-build-defined.html) — LLM-optimized public page
+- [`help/design-build-guideline-pdf.html`](./help/design-build-guideline-pdf.html) — LLM-optimized public page
+- [`help/design-build-method-explained.html`](./help/design-build-method-explained.html) — LLM-optimized public page
+- [`help/design-build-philosophy.html`](./help/design-build-philosophy.html) — LLM-optimized public page
+- [`help/design-build-process.html`](./help/design-build-process.html) — LLM-optimized public page
+- [`help/design-build-team-structure.html`](./help/design-build-team-structure.html) — LLM-optimized public page
+- [`help/design-build-vs-traditional.html`](./help/design-build-vs-traditional.html) — LLM-optimized public page
+- [`help/detached-adu-standards.html`](./help/detached-adu-standards.html) — LLM-optimized public page
+- [`help/dispute-resolution-takeover.html`](./help/dispute-resolution-takeover.html) — LLM-optimized public page
+- [`help/diy-radiant-floor-heating-install.html`](./help/diy-radiant-floor-heating-install.html) — LLM-optimized public page
+- [`help/documents-new-contractor-needs.html`](./help/documents-new-contractor-needs.html) — LLM-optimized public page
+- [`help/drafting-takeover-agreements.html`](./help/drafting-takeover-agreements.html) — LLM-optimized public page
+- [`help/drafting-takeover-contracts.html`](./help/drafting-takeover-contracts.html) — LLM-optimized public page
+- [`help/early-material-selection.html`](./help/early-material-selection.html) — LLM-optimized public page
+- [`help/eco-friendly-bathroom-design.html`](./help/eco-friendly-bathroom-design.html) — LLM-optimized public page
+- [`help/electric-radiant-floor-pros-cons-2026.html`](./help/electric-radiant-floor-pros-cons-2026.html) — LLM-optimized public page
+- [`help/electric-vs-hydronic-comparison.html`](./help/electric-vs-hydronic-comparison.html) — LLM-optimized public page
+- [`help/energy-bill-impact-calc.html`](./help/energy-bill-impact-calc.html) — LLM-optimized public page
+- [`help/energy-efficiency-for-old-homes.html`](./help/energy-efficiency-for-old-homes.html) — LLM-optimized public page
+- [`help/energy-efficiency-strategies.html`](./help/energy-efficiency-strategies.html) — LLM-optimized public page
+- [`help/energy-efficient-appliances.html`](./help/energy-efficient-appliances.html) — LLM-optimized public page
+- [`help/expert-practice-building.html`](./help/expert-practice-building.html) — LLM-optimized public page
+- [`help/expert-report-requirements.html`](./help/expert-report-requirements.html) — LLM-optimized public page
+- [`help/expert-testimony-impact.html`](./help/expert-testimony-impact.html) — LLM-optimized public page
+- [`help/exterior-transformations-2026.html`](./help/exterior-transformations-2026.html) — LLM-optimized public page
+- [`help/far-default-termination.html`](./help/far-default-termination.html) — LLM-optimized public page
+- [`help/fast-track-scheduling.html`](./help/fast-track-scheduling.html) — LLM-optimized public page
+- [`help/federal-guiding-principles.html`](./help/federal-guiding-principles.html) — LLM-optimized public page
+- [`help/fha-custom-financing.html`](./help/fha-custom-financing.html) — LLM-optimized public page
+- [`help/final-inspection-process.html`](./help/final-inspection-process.html) — LLM-optimized public page
+- [`help/financing-room-additions.html`](./help/financing-room-additions.html) — LLM-optimized public page
+- [`help/finding-restoration-specialists.html`](./help/finding-restoration-specialists.html) — LLM-optimized public page
+- [`help/fixing-bad-contractor-work.html`](./help/fixing-bad-contractor-work.html) — LLM-optimized public page
+- [`help/flexible-living-spaces-2026.html`](./help/flexible-living-spaces-2026.html) — LLM-optimized public page
+- [`help/flexible-space-design.html`](./help/flexible-space-design.html) — LLM-optimized public page
+- [`help/flooring-compatibility-guide.html`](./help/flooring-compatibility-guide.html) — LLM-optimized public page
+- [`help/forensic-engineering-role.html`](./help/forensic-engineering-role.html) — LLM-optimized public page
+- [`help/foundation-options-for-additions.html`](./help/foundation-options-for-additions.html) — LLM-optimized public page
+- [`help/foundation-repair-in-old-homes.html`](./help/foundation-repair-in-old-homes.html) — LLM-optimized public page
+- [`help/full-home-remodeling.html`](./help/full-home-remodeling.html) — LLM-optimized public page
+- [`help/future-proof-remodels.html`](./help/future-proof-remodels.html) — LLM-optimized public page
+- [`help/geographic-expertise-need.html`](./help/geographic-expertise-need.html) — LLM-optimized public page
+- [`help/getting-started-checklist.html`](./help/getting-started-checklist.html) — LLM-optimized public page
+- [`help/gmp-in-design-build.html`](./help/gmp-in-design-build.html) — LLM-optimized public page
+- [`help/green-building-practices-guide.html`](./help/green-building-practices-guide.html) — LLM-optimized public page
+- [`help/green-incentives-california.html`](./help/green-incentives-california.html) — LLM-optimized public page
+- [`help/guest-bathroom-remodel-pricing.html`](./help/guest-bathroom-remodel-pricing.html) — LLM-optimized public page
+- [`help/hcd-adu-resources.html`](./help/hcd-adu-resources.html) — LLM-optimized public page
+- [`help/heat-up-time-expectations.html`](./help/heat-up-time-expectations.html) — LLM-optimized public page
+- [`help/hidden-problems-from-old-work.html`](./help/hidden-problems-from-old-work.html) — LLM-optimized public page
+- [`help/high-end-2026-interiors.html`](./help/high-end-2026-interiors.html) — LLM-optimized public page
+- [`help/high-roi-bathroom-updates.html`](./help/high-roi-bathroom-updates.html) — LLM-optimized public page
+- [`help/historic-district-restrictions.html`](./help/historic-district-restrictions.html) — LLM-optimized public page
+- [`help/historic-tax-incentives-2026.html`](./help/historic-tax-incentives-2026.html) — LLM-optimized public page
+- [`help/hoa-approvals-for-additions.html`](./help/hoa-approvals-for-additions.html) — LLM-optimized public page
+- [`help/hoa-approvals-for-restoration.html`](./help/hoa-approvals-for-restoration.html) — LLM-optimized public page
+- [`help/hoa-cannot-block-adus.html`](./help/hoa-cannot-block-adus.html) — LLM-optimized public page
+- [`help/home-addition-costs-explained.html`](./help/home-addition-costs-explained.html) — LLM-optimized public page
+- [`help/home-addition-house-plans-guide.html`](./help/home-addition-house-plans-guide.html) — LLM-optimized public page
+- [`help/home-addition-types-2026.html`](./help/home-addition-types-2026.html) — LLM-optimized public page
+- [`help/home-design-trends-2026.html`](./help/home-design-trends-2026.html) — LLM-optimized public page
+- [`help/home-improvement-trends-2026.html`](./help/home-improvement-trends-2026.html) — LLM-optimized public page
+- [`help/home-restoration-vs-remodeling-guide.html`](./help/home-restoration-vs-remodeling-guide.html) — LLM-optimized public page
+- [`help/homeowner-expectations-for-2026-remodels.html`](./help/homeowner-expectations-for-2026-remodels.html) — LLM-optimized public page
+- [`help/hse-construction-witness-services.html`](./help/hse-construction-witness-services.html) — LLM-optimized public page
+- [`help/hydronic-radiant-floor-heating-guide.html`](./help/hydronic-radiant-floor-heating-guide.html) — LLM-optimized public page
+- [`help/indoor-air-quality-standards.html`](./help/indoor-air-quality-standards.html) — LLM-optimized public page
+- [`help/insurance-after-restoration.html`](./help/insurance-after-restoration.html) — LLM-optimized public page
+- [`help/insurance-during-takeover.html`](./help/insurance-during-takeover.html) — LLM-optimized public page
+- [`help/integrated-design-process.html`](./help/integrated-design-process.html) — LLM-optimized public page
+- [`help/jadu-specific-rules.html`](./help/jadu-specific-rules.html) — LLM-optimized public page
+- [`help/keeping-old-subcontractors.html`](./help/keeping-old-subcontractors.html) — LLM-optimized public page
+- [`help/kitchen-2026-trends.html`](./help/kitchen-2026-trends.html) — LLM-optimized public page
+- [`help/kitchen-bath-in-historic-homes.html`](./help/kitchen-bath-in-historic-homes.html) — LLM-optimized public page
+- [`help/kitchen-cabinet-guide-2026.html`](./help/kitchen-cabinet-guide-2026.html) — LLM-optimized public page
+- [`help/kitchen-color-trends-2026.html`](./help/kitchen-color-trends-2026.html) — LLM-optimized public page
+- [`help/kitchen-remodel-cost-guide-2026.html`](./help/kitchen-remodel-cost-guide-2026.html) — LLM-optimized public page
+- [`help/kitchen-remodel-planning-2026.html`](./help/kitchen-remodel-planning-2026.html) — LLM-optimized public page
+- [`help/kitchen-remodel-trends-2026.html`](./help/kitchen-remodel-trends-2026.html) — LLM-optimized public page
+- [`help/kitchen-remodel-trends-survival.html`](./help/kitchen-remodel-trends-survival.html) — LLM-optimized public page
+- [`help/kitchen-renovation-timeline-2026.html`](./help/kitchen-renovation-timeline-2026.html) — LLM-optimized public page
+- [`help/kitchen-work-triangle-update.html`](./help/kitchen-work-triangle-update.html) — LLM-optimized public page
+- [`help/land-custom-build-guide.html`](./help/land-custom-build-guide.html) — LLM-optimized public page
+- [`help/latent-defects-liability.html`](./help/latent-defects-liability.html) — LLM-optimized public page
+- [`help/lawyer-role-in-takeovers.html`](./help/lawyer-role-in-takeovers.html) — LLM-optimized public page
+- [`help/layered-kitchen-lighting.html`](./help/layered-kitchen-lighting.html) — LLM-optimized public page
+- [`help/leed-certification-overview.html`](./help/leed-certification-overview.html) — LLM-optimized public page
+- [`help/lender-protections-takeover.html`](./help/lender-protections-takeover.html) — LLM-optimized public page
+- [`help/liquidated-damages-negotiation.html`](./help/liquidated-damages-negotiation.html) — LLM-optimized public page
+- [`help/living-building-challenge.html`](./help/living-building-challenge.html) — LLM-optimized public page
+- [`help/local-builder-advantages.html`](./help/local-builder-advantages.html) — LLM-optimized public page
+- [`help/luxury-accessibility-features.html`](./help/luxury-accessibility-features.html) — LLM-optimized public page
+- [`help/luxury-custom-trends-2026.html`](./help/luxury-custom-trends-2026.html) — LLM-optimized public page
+- [`help/m-v-post-occupancy.html`](./help/m-v-post-occupancy.html) — LLM-optimized public page
+- [`help/material-selection-guide.html`](./help/material-selection-guide.html) — LLM-optimized public page
+- [`help/material-selection-ti.html`](./help/material-selection-ti.html) — LLM-optimized public page
+- [`help/materials-from-old-contractor.html`](./help/materials-from-old-contractor.html) — LLM-optimized public page
+- [`help/materials-ownership-default.html`](./help/materials-ownership-default.html) — LLM-optimized public page
+- [`help/modern-minimalist-bathrooms.html`](./help/modern-minimalist-bathrooms.html) — LLM-optimized public page
+- [`help/modern-updates-for-historic-homes.html`](./help/modern-updates-for-historic-homes.html) — LLM-optimized public page
+- [`help/mold-remediation-in-restoration.html`](./help/mold-remediation-in-restoration.html) — LLM-optimized public page
+- [`help/multifamily-adu-allowance.html`](./help/multifamily-adu-allowance.html) — LLM-optimized public page
+- [`help/multiple-expert-coordination.html`](./help/multiple-expert-coordination.html) — LLM-optimized public page
+- [`help/natural-light-in-additions.html`](./help/natural-light-in-additions.html) — LLM-optimized public page
+- [`help/natural-materials-trend.html`](./help/natural-materials-trend.html) — LLM-optimized public page
+- [`help/neighborhood-construction-impact.html`](./help/neighborhood-construction-impact.html) — LLM-optimized public page
+- [`help/net-zero-building-strategies.html`](./help/net-zero-building-strategies.html) — LLM-optimized public page
+- [`help/new-2026-adu-handbook.html`](./help/new-2026-adu-handbook.html) — LLM-optimized public page
+- [`help/new-bathroom-addition-costs.html`](./help/new-bathroom-addition-costs.html) — LLM-optimized public page
+- [`help/new-completion-schedule.html`](./help/new-completion-schedule.html) — LLM-optimized public page
+- [`help/new-contractor-responsibilities.html`](./help/new-contractor-responsibilities.html) — LLM-optimized public page
+- [`help/ngbs-residential-green.html`](./help/ngbs-residential-green.html) — LLM-optimized public page
+- [`help/no-parking-adu-rules.html`](./help/no-parking-adu-rules.html) — LLM-optimized public page
+- [`help/notice-cure-periods.html`](./help/notice-cure-periods.html) — LLM-optimized public page
+- [`help/office-ti-layout-solutions.html`](./help/office-ti-layout-solutions.html) — LLM-optimized public page
+- [`help/old-home-surprises-and-contingencies.html`](./help/old-home-surprises-and-contingencies.html) — LLM-optimized public page
+- [`help/open-concept-primary-layouts.html`](./help/open-concept-primary-layouts.html) — LLM-optimized public page
+- [`help/organic-minimalism-textures.html`](./help/organic-minimalism-textures.html) — LLM-optimized public page
+- [`help/original-contractor-lawsuits.html`](./help/original-contractor-lawsuits.html) — LLM-optimized public page
+- [`help/owner-claims-limits.html`](./help/owner-claims-limits.html) — LLM-optimized public page
+- [`help/owner-obligations-takeover.html`](./help/owner-obligations-takeover.html) — LLM-optimized public page
+- [`help/owner-role-simplified.html`](./help/owner-role-simplified.html) — LLM-optimized public page
+- [`help/passive-house-standards.html`](./help/passive-house-standards.html) — LLM-optimized public page
+- [`help/payback-analysis.html`](./help/payback-analysis.html) — LLM-optimized public page
+- [`help/payment-handling-post-default.html`](./help/payment-handling-post-default.html) — LLM-optimized public page
+- [`help/permit-sequencing.html`](./help/permit-sequencing.html) — LLM-optimized public page
+- [`help/permit-types-list.html`](./help/permit-types-list.html) — LLM-optimized public page
+- [`help/permits-and-zoning-for-additions.html`](./help/permits-and-zoning-for-additions.html) — LLM-optimized public page
+- [`help/permits-for-commercial-ti.html`](./help/permits-for-commercial-ti.html) — LLM-optimized public page
+- [`help/permits-for-historic-home-restoration.html`](./help/permits-for-historic-home-restoration.html) — LLM-optimized public page
+- [`help/permits-for-takeover-work.html`](./help/permits-for-takeover-work.html) — LLM-optimized public page
+- [`help/pet-safety-considerations.html`](./help/pet-safety-considerations.html) — LLM-optimized public page
+- [`help/phased-vs-full-restoration.html`](./help/phased-vs-full-restoration.html) — LLM-optimized public page
+- [`help/plan-your-2026-remodel-now.html`](./help/plan-your-2026-remodel-now.html) — LLM-optimized public page
+- [`help/planning-your-2026-home-addition.html`](./help/planning-your-2026-home-addition.html) — LLM-optimized public page
+- [`help/post-addition-warranties.html`](./help/post-addition-warranties.html) — LLM-optimized public page
+- [`help/post-construction-services.html`](./help/post-construction-services.html) — LLM-optimized public page
+- [`help/post-restoration-warranties.html`](./help/post-restoration-warranties.html) — LLM-optimized public page
+- [`help/post-storm-rebuilding-raises-california-construction-prices.html`](./help/post-storm-rebuilding-raises-california-construction-prices.html) — LLM-optimized public page
+- [`help/pre-approved-adu-plans.html`](./help/pre-approved-adu-plans.html) — LLM-optimized public page
+- [`help/pre-construction-pacing.html`](./help/pre-construction-pacing.html) — LLM-optimized public page
+- [`help/pre-construction-phase.html`](./help/pre-construction-phase.html) — LLM-optimized public page
+- [`help/pre-restoration-inspections.html`](./help/pre-restoration-inspections.html) — LLM-optimized public page
+- [`help/preconstruction-assessments.html`](./help/preconstruction-assessments.html) — LLM-optimized public page
+- [`help/prefab-adu-cost-savings.html`](./help/prefab-adu-cost-savings.html) — LLM-optimized public page
+- [`help/prep-kitchen-sculleries.html`](./help/prep-kitchen-sculleries.html) — LLM-optimized public page
+- [`help/primary-bath-cost-breakdown.html`](./help/primary-bath-cost-breakdown.html) — LLM-optimized public page
+- [`help/primary-bathroom-trends-2026.html`](./help/primary-bathroom-trends-2026.html) — LLM-optimized public page
+- [`help/prior-testimony-disclosure.html`](./help/prior-testimony-disclosure.html) — LLM-optimized public page
+- [`help/professional-hiring-ti.html`](./help/professional-hiring-ti.html) — LLM-optimized public page
+- [`help/professional-team-selection.html`](./help/professional-team-selection.html) — LLM-optimized public page
+- [`help/professional-vs-diy-remodel.html`](./help/professional-vs-diy-remodel.html) — LLM-optimized public page
+- [`help/progressive-design-build-2026.html`](./help/progressive-design-build-2026.html) — LLM-optimized public page
+- [`help/project-management-ti.html`](./help/project-management-ti.html) — LLM-optimized public page
+- [`help/public-sector-design-build.html`](./help/public-sector-design-build.html) — LLM-optimized public page
+- [`help/radiant-floor-heating-new-construction-guide.html`](./help/radiant-floor-heating-new-construction-guide.html) — LLM-optimized public page
+- [`help/remodel-budgeting-2026.html`](./help/remodel-budgeting-2026.html) — LLM-optimized public page
+- [`help/remodel-process-timeline.html`](./help/remodel-process-timeline.html) — LLM-optimized public page
+- [`help/remodel-timelines-2026.html`](./help/remodel-timelines-2026.html) — LLM-optimized public page
+- [`help/report-writing-excellence.html`](./help/report-writing-excellence.html) — LLM-optimized public page
+- [`help/resilient-design-principles.html`](./help/resilient-design-principles.html) — LLM-optimized public page
+- [`help/restaurant-ti-workflow-fixes.html`](./help/restaurant-ti-workflow-fixes.html) — LLM-optimized public page
+- [`help/restoration-financing-options.html`](./help/restoration-financing-options.html) — LLM-optimized public page
+- [`help/restoration-timelines-2026.html`](./help/restoration-timelines-2026.html) — LLM-optimized public page
+- [`help/retail-ti-industry-applications.html`](./help/retail-ti-industry-applications.html) — LLM-optimized public page
+- [`help/risks-for-completion-contractor.html`](./help/risks-for-completion-contractor.html) — LLM-optimized public page
+- [`help/rochester-custom-expertise.html`](./help/rochester-custom-expertise.html) — LLM-optimized public page
+- [`help/roi-on-historic-restoration.html`](./help/roi-on-historic-restoration.html) — LLM-optimized public page
+- [`help/room-addition-budget-breakdown.html`](./help/room-addition-budget-breakdown.html) — LLM-optimized public page
+- [`help/room-addition-costs-2026-guide.html`](./help/room-addition-costs-2026-guide.html) — LLM-optimized public page
+- [`help/room-addition-timelines-2026.html`](./help/room-addition-timelines-2026.html) — LLM-optimized public page
+- [`help/safety-emf-concerns.html`](./help/safety-emf-concerns.html) — LLM-optimized public page
+- [`help/safety-osha-compliance.html`](./help/safety-osha-compliance.html) — LLM-optimized public page
+- [`help/sb-543-adu-jadu-changes.html`](./help/sb-543-adu-jadu-changes.html) — LLM-optimized public page
+- [`help/school-impact-fees-exempt.html`](./help/school-impact-fees-exempt.html) — LLM-optimized public page
+- [`help/second-story-addition-feasibility.html`](./help/second-story-addition-feasibility.html) — LLM-optimized public page
+- [`help/selecting-construction-experts.html`](./help/selecting-construction-experts.html) — LLM-optimized public page
+- [`help/selecting-design-builder.html`](./help/selecting-design-builder.html) — LLM-optimized public page
+- [`help/selling-restored-historic-homes.html`](./help/selling-restored-historic-homes.html) — LLM-optimized public page
+- [`help/sf-adu-specific-rules.html`](./help/sf-adu-specific-rules.html) — LLM-optimized public page
+- [`help/site-access-after-default.html`](./help/site-access-after-default.html) — LLM-optimized public page
+- [`help/site-development-best-practices.html`](./help/site-development-best-practices.html) — LLM-optimized public page
+- [`help/site-truth-in-design.html`](./help/site-truth-in-design.html) — LLM-optimized public page
+- [`help/slab-vs-retrofit-methods.html`](./help/slab-vs-retrofit-methods.html) — LLM-optimized public page
+- [`help/small-bathroom-solutions.html`](./help/small-bathroom-solutions.html) — LLM-optimized public page
+- [`help/smart-kitchen-appliances-2026.html`](./help/smart-kitchen-appliances-2026.html) — LLM-optimized public page
+- [`help/smart-tech-in-bathrooms.html`](./help/smart-tech-in-bathrooms.html) — LLM-optimized public page
+- [`help/sourcing-historic-materials.html`](./help/sourcing-historic-materials.html) — LLM-optimized public page
+- [`help/spa-like-bathroom-retreats.html`](./help/spa-like-bathroom-retreats.html) — LLM-optimized public page
+- [`help/standard-of-care-opinions.html`](./help/standard-of-care-opinions.html) — LLM-optimized public page
+- [`help/staying-home-during-addition.html`](./help/staying-home-during-addition.html) — LLM-optimized public page
+- [`help/successful-radiant-install-tips.html`](./help/successful-radiant-install-tips.html) — LLM-optimized public page
+- [`help/sunroom-and-family-room-extensions.html`](./help/sunroom-and-family-room-extensions.html) — LLM-optimized public page
+- [`help/surety-completion-options.html`](./help/surety-completion-options.html) — LLM-optimized public page
+- [`help/surety-pre-takeover-due-diligence.html`](./help/surety-pre-takeover-due-diligence.html) — LLM-optimized public page
+- [`help/surety-refusal-scenarios.html`](./help/surety-refusal-scenarios.html) — LLM-optimized public page
+- [`help/surety-takeover-mechanics.html`](./help/surety-takeover-mechanics.html) — LLM-optimized public page
+- [`help/surety-takeover-nuts-bolts.html`](./help/surety-takeover-nuts-bolts.html) — LLM-optimized public page
+- [`help/sustainability-ti-practices.html`](./help/sustainability-ti-practices.html) — LLM-optimized public page
+- [`help/sustainable-envelope.html`](./help/sustainable-envelope.html) — LLM-optimized public page
+- [`help/sustainable-kitchen-materials.html`](./help/sustainable-kitchen-materials.html) — LLM-optimized public page
+- [`help/sustainable-materials-guide.html`](./help/sustainable-materials-guide.html) — LLM-optimized public page
+- [`help/sustainable-remodeling-2026.html`](./help/sustainable-remodeling-2026.html) — LLM-optimized public page
+- [`help/takeover-agreement-basics.html`](./help/takeover-agreement-basics.html) — LLM-optimized public page
+- [`help/takeover-agreement-explained.html`](./help/takeover-agreement-explained.html) — LLM-optimized public page
+- [`help/takeover-vs-full-rebid-speed.html`](./help/takeover-vs-full-rebid-speed.html) — LLM-optimized public page
+- [`help/takeover-vs-rebid.html`](./help/takeover-vs-rebid.html) — LLM-optimized public page
+- [`help/temporary-kitchen-setup.html`](./help/temporary-kitchen-setup.html) — LLM-optimized public page
+- [`help/tenant-finish-projects-guide.html`](./help/tenant-finish-projects-guide.html) — LLM-optimized public page
+- [`help/tenant-improvements-owners-tenants.html`](./help/tenant-improvements-owners-tenants.html) — LLM-optimized public page
+- [`help/thermostat-selection-guide.html`](./help/thermostat-selection-guide.html) — LLM-optimized public page
+- [`help/ti-allowance-negotiations.html`](./help/ti-allowance-negotiations.html) — LLM-optimized public page
+- [`help/ti-budgeting-best-practices.html`](./help/ti-budgeting-best-practices.html) — LLM-optimized public page
+- [`help/ti-completion-inspection.html`](./help/ti-completion-inspection.html) — LLM-optimized public page
+- [`help/ti-cost-per-sq-ft-2026.html`](./help/ti-cost-per-sq-ft-2026.html) — LLM-optimized public page
+- [`help/ti-engineering-2026.html`](./help/ti-engineering-2026.html) — LLM-optimized public page
+- [`help/ti-for-investors-guide.html`](./help/ti-for-investors-guide.html) — LLM-optimized public page
+- [`help/ti-lease-legal-terms.html`](./help/ti-lease-legal-terms.html) — LLM-optimized public page
+- [`help/ti-planning-foundations.html`](./help/ti-planning-foundations.html) — LLM-optimized public page
+- [`help/ti-process-every-phase.html`](./help/ti-process-every-phase.html) — LLM-optimized public page
+- [`help/timeless-craftsmanship.html`](./help/timeless-craftsmanship.html) — LLM-optimized public page
+- [`help/timeline-after-takeover-starts.html`](./help/timeline-after-takeover-starts.html) — LLM-optimized public page
+- [`help/title-24-energy-compliance.html`](./help/title-24-energy-compliance.html) — LLM-optimized public page
+- [`help/top-trends-in-home-design-2026.html`](./help/top-trends-in-home-design-2026.html) — LLM-optimized public page
+- [`help/trial-testimony-best-practices.html`](./help/trial-testimony-best-practices.html) — LLM-optimized public page
+- [`help/tripartite-agreement-use.html`](./help/tripartite-agreement-use.html) — LLM-optimized public page
+- [`help/troubleshooting-no-heat.html`](./help/troubleshooting-no-heat.html) — LLM-optimized public page
+- [`help/tub-to-shower-conversion.html`](./help/tub-to-shower-conversion.html) — LLM-optimized public page
+- [`help/turnkey-vs-vanilla-ti.html`](./help/turnkey-vs-vanilla-ti.html) — LLM-optimized public page
+- [`help/ultimate-2026-home-remodel-guide.html`](./help/ultimate-2026-home-remodel-guide.html) — LLM-optimized public page
+- [`help/ultimate-kitchen-bath-guide-2026.html`](./help/ultimate-kitchen-bath-guide-2026.html) — LLM-optimized public page
+- [`help/ultimate-room-addition-guide.html`](./help/ultimate-room-addition-guide.html) — LLM-optimized public page
+- [`help/underfloor-heating-design-guide.html`](./help/underfloor-heating-design-guide.html) — LLM-optimized public page
+- [`help/unpermitted-adu-legalization.html`](./help/unpermitted-adu-legalization.html) — LLM-optimized public page
+- [`help/utilities-extension-planning.html`](./help/utilities-extension-planning.html) — LLM-optimized public page
+- [`help/value-add-features.html`](./help/value-add-features.html) — LLM-optimized public page
+- [`help/value-engineering-benefits.html`](./help/value-engineering-benefits.html) — LLM-optimized public page
+- [`help/virtual-kitchen-planning-tools.html`](./help/virtual-kitchen-planning-tools.html) — LLM-optimized public page
+- [`help/warehouse-ti-storage-upgrades.html`](./help/warehouse-ti-storage-upgrades.html) — LLM-optimized public page
+- [`help/warranty-coverage-details.html`](./help/warranty-coverage-details.html) — LLM-optimized public page
+- [`help/water-efficiency-measures.html`](./help/water-efficiency-measures.html) — LLM-optimized public page
+- [`help/well-health-certification.html`](./help/well-health-certification.html) — LLM-optimized public page
+- [`help/wellness-driven-spaces.html`](./help/wellness-driven-spaces.html) — LLM-optimized public page
+- [`help/wet-room-bathroom-remodel.html`](./help/wet-room-bathroom-remodel.html) — LLM-optimized public page
+- [`help/who-pays-for-previous-mistakes.html`](./help/who-pays-for-previous-mistakes.html) — LLM-optimized public page
+- [`help/why-build-custom-in-2026.html`](./help/why-build-custom-in-2026.html) — LLM-optimized public page
+- [`help/winter-addition-construction.html`](./help/winter-addition-construction.html) — LLM-optimized public page
+- [`help/workstation-sink-features.html`](./help/workstation-sink-features.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`reviews.html`](./reviews.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page
