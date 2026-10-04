@@ -1,0 +1,2877 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Post-Storm Rebuilding Raises California Construction Prices",
+      "anchorSlug": "post-storm-rebuilding-raises-california-construction-prices",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-storm-rebuilding-raises-california-construction-prices.html"
+    },
+    {
+      "title": "About Behr - Greetings",
+      "anchorSlug": "about-behr-greetings",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/about-behr-greetings.html"
+    },
+    {
+      "title": "Ultimate 2026 Home Remodel Guide",
+      "anchorSlug": "ultimate-2026-home-remodel-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ultimate-2026-home-remodel-guide.html"
+    },
+    {
+      "title": "Plan Your 2026 Remodel Now",
+      "anchorSlug": "plan-your-2026-remodel-now",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/plan-your-2026-remodel-now.html"
+    },
+    {
+      "title": "2026 Remodeling Forecast",
+      "anchorSlug": "2026-remodeling-forecast",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-remodeling-forecast.html"
+    },
+    {
+      "title": "Custom Home Trends 2026 Guide",
+      "anchorSlug": "custom-home-trends-2026-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-home-trends-2026-guide.html"
+    },
+    {
+      "title": "Top Trends in Home Design 2026",
+      "anchorSlug": "top-trends-in-home-design-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/top-trends-in-home-design-2026.html"
+    },
+    {
+      "title": "Homeowner Expectations for 2026 Remodels",
+      "anchorSlug": "homeowner-expectations-for-2026-remodels",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/homeowner-expectations-for-2026-remodels.html"
+    },
+    {
+      "title": "2026 Home Design Trends Forecast",
+      "anchorSlug": "2026-home-design-trends-forecast",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-home-design-trends-forecast.html"
+    },
+    {
+      "title": "Home Improvement Trends 2026",
+      "anchorSlug": "home-improvement-trends-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-improvement-trends-2026.html"
+    },
+    {
+      "title": "Home Design Trends 2026",
+      "anchorSlug": "home-design-trends-2026",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-design-trends-2026.html"
+    },
+    {
+      "title": "Building Trends 2026 Luxury Custom",
+      "anchorSlug": "building-trends-2026-luxury-custom",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/building-trends-2026-luxury-custom.html"
+    },
+    {
+      "title": "Kitchen Remodel Trends 2026",
+      "anchorSlug": "kitchen-remodel-trends-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-remodel-trends-2026.html"
+    },
+    {
+      "title": "Sustainable Remodeling 2026",
+      "anchorSlug": "sustainable-remodeling-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainable-remodeling-2026.html"
+    },
+    {
+      "title": "Exterior Transformations 2026",
+      "anchorSlug": "exterior-transformations-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/exterior-transformations-2026.html"
+    },
+    {
+      "title": "Flexible Living Spaces 2026",
+      "anchorSlug": "flexible-living-spaces-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/flexible-living-spaces-2026.html"
+    },
+    {
+      "title": "Remodel Budgeting 2026",
+      "anchorSlug": "remodel-budgeting-2026",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/remodel-budgeting-2026.html"
+    },
+    {
+      "title": "Remodel Timelines 2026",
+      "anchorSlug": "remodel-timelines-2026",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/remodel-timelines-2026.html"
+    },
+    {
+      "title": "Future-Proof Remodels",
+      "anchorSlug": "future-proof-remodels",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/future-proof-remodels.html"
+    },
+    {
+      "title": "Design-Build Process",
+      "anchorSlug": "design-build-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-process.html"
+    },
+    {
+      "title": "Full Home Remodeling",
+      "anchorSlug": "full-home-remodeling",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/full-home-remodeling.html"
+    },
+    {
+      "title": "Custom Design Services",
+      "anchorSlug": "custom-design-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-design-services.html"
+    },
+    {
+      "title": "Built-In Storage Solutions",
+      "anchorSlug": "built-in-storage-solutions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/built-in-storage-solutions.html"
+    },
+    {
+      "title": "Custom Closet Design",
+      "anchorSlug": "custom-closet-design",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-closet-design.html"
+    },
+    {
+      "title": "Wellness-Driven Spaces",
+      "anchorSlug": "wellness-driven-spaces",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/wellness-driven-spaces.html"
+    },
+    {
+      "title": "Natural Materials Trend",
+      "anchorSlug": "natural-materials-trend",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/natural-materials-trend.html"
+    },
+    {
+      "title": "Timeless Craftsmanship",
+      "anchorSlug": "timeless-craftsmanship",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timeless-craftsmanship.html"
+    },
+    {
+      "title": "Home Restoration vs Remodeling Guide",
+      "anchorSlug": "home-restoration-vs-remodeling-guide",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-restoration-vs-remodeling-guide.html"
+    },
+    {
+      "title": "Permits for Historic Home Restoration",
+      "anchorSlug": "permits-for-historic-home-restoration",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-for-historic-home-restoration.html"
+    },
+    {
+      "title": "Old Home Surprises and Contingencies",
+      "anchorSlug": "old-home-surprises-and-contingencies",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/old-home-surprises-and-contingencies.html"
+    },
+    {
+      "title": "Restoration Timelines 2026",
+      "anchorSlug": "restoration-timelines-2026",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/restoration-timelines-2026.html"
+    },
+    {
+      "title": "Finding Restoration Specialists",
+      "anchorSlug": "finding-restoration-specialists",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/finding-restoration-specialists.html"
+    },
+    {
+      "title": "Asbestos and Lead Abatement",
+      "anchorSlug": "asbestos-and-lead-abatement",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/asbestos-and-lead-abatement.html"
+    },
+    {
+      "title": "ROI on Historic Restoration",
+      "anchorSlug": "roi-on-historic-restoration",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/roi-on-historic-restoration.html"
+    },
+    {
+      "title": "Modern Updates for Historic Homes",
+      "anchorSlug": "modern-updates-for-historic-homes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/modern-updates-for-historic-homes.html"
+    },
+    {
+      "title": "Sourcing Historic Materials",
+      "anchorSlug": "sourcing-historic-materials",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sourcing-historic-materials.html"
+    },
+    {
+      "title": "Historic Tax Incentives 2026",
+      "anchorSlug": "historic-tax-incentives-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/historic-tax-incentives-2026.html"
+    },
+    {
+      "title": "Pre-Restoration Inspections",
+      "anchorSlug": "pre-restoration-inspections",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-restoration-inspections.html"
+    },
+    {
+      "title": "Foundation Repair in Old Homes",
+      "anchorSlug": "foundation-repair-in-old-homes",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/foundation-repair-in-old-homes.html"
+    },
+    {
+      "title": "Kitchen/Bath in Historic Homes",
+      "anchorSlug": "kitchen-bath-in-historic-homes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-bath-in-historic-homes.html"
+    },
+    {
+      "title": "Restoration Financing Options",
+      "anchorSlug": "restoration-financing-options",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/restoration-financing-options.html"
+    },
+    {
+      "title": "Avoiding Over-Restoration",
+      "anchorSlug": "avoiding-over-restoration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-over-restoration.html"
+    },
+    {
+      "title": "Insurance After Restoration",
+      "anchorSlug": "insurance-after-restoration",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/insurance-after-restoration.html"
+    },
+    {
+      "title": "Historic District Restrictions",
+      "anchorSlug": "historic-district-restrictions",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/historic-district-restrictions.html"
+    },
+    {
+      "title": "Energy Efficiency for Old Homes",
+      "anchorSlug": "energy-efficiency-for-old-homes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/energy-efficiency-for-old-homes.html"
+    },
+    {
+      "title": "Architect Role in Restoration",
+      "anchorSlug": "architect-role-in-restoration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/architect-role-in-restoration.html"
+    },
+    {
+      "title": "Demo Material Disposal",
+      "anchorSlug": "demo-material-disposal",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/demo-material-disposal.html"
+    },
+    {
+      "title": "Post-Restoration Warranties",
+      "anchorSlug": "post-restoration-warranties",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-restoration-warranties.html"
+    },
+    {
+      "title": "Selling Restored Historic Homes",
+      "anchorSlug": "selling-restored-historic-homes",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/selling-restored-historic-homes.html"
+    },
+    {
+      "title": "Phased vs Full Restoration",
+      "anchorSlug": "phased-vs-full-restoration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/phased-vs-full-restoration.html"
+    },
+    {
+      "title": "Mold Remediation in Restoration",
+      "anchorSlug": "mold-remediation-in-restoration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mold-remediation-in-restoration.html"
+    },
+    {
+      "title": "HOA Approvals for Restoration",
+      "anchorSlug": "hoa-approvals-for-restoration",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hoa-approvals-for-restoration.html"
+    },
+    {
+      "title": "Room Addition Costs 2026 Guide",
+      "anchorSlug": "room-addition-costs-2026-guide",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/room-addition-costs-2026-guide.html"
+    },
+    {
+      "title": "Bedroom Addition Planning",
+      "anchorSlug": "bedroom-addition-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bedroom-addition-planning.html"
+    },
+    {
+      "title": "Sunroom and Family Room Extensions",
+      "anchorSlug": "sunroom-and-family-room-extensions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sunroom-and-family-room-extensions.html"
+    },
+    {
+      "title": "Room Addition Budget Breakdown",
+      "anchorSlug": "room-addition-budget-breakdown",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/room-addition-budget-breakdown.html"
+    },
+    {
+      "title": "Blending Additions with Existing Homes",
+      "anchorSlug": "blending-additions-with-existing-homes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/blending-additions-with-existing-homes.html"
+    },
+    {
+      "title": "Permits and Zoning for Additions",
+      "anchorSlug": "permits-and-zoning-for-additions",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-and-zoning-for-additions.html"
+    },
+    {
+      "title": "Room Addition Timelines 2026",
+      "anchorSlug": "room-addition-timelines-2026",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/room-addition-timelines-2026.html"
+    },
+    {
+      "title": "Ultimate Room Addition Guide",
+      "anchorSlug": "ultimate-room-addition-guide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ultimate-room-addition-guide.html"
+    },
+    {
+      "title": "Bay Area 2026 Remodeling Checklist",
+      "anchorSlug": "bay-area-2026-remodeling-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bay-area-2026-remodeling-checklist.html"
+    },
+    {
+      "title": "Home Addition Types 2026",
+      "anchorSlug": "home-addition-types-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-addition-types-2026.html"
+    },
+    {
+      "title": "Home Addition Costs Explained",
+      "anchorSlug": "home-addition-costs-explained",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-addition-costs-explained.html"
+    },
+    {
+      "title": "Home Addition House Plans Guide",
+      "anchorSlug": "home-addition-house-plans-guide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-addition-house-plans-guide.html"
+    },
+    {
+      "title": "Planning Your 2026 Home Addition",
+      "anchorSlug": "planning-your-2026-home-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-2026-home-addition.html"
+    },
+    {
+      "title": "Attached vs Detached Additions",
+      "anchorSlug": "attached-vs-detached-additions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/attached-vs-detached-additions.html"
+    },
+    {
+      "title": "Foundation Options for Additions",
+      "anchorSlug": "foundation-options-for-additions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/foundation-options-for-additions.html"
+    },
+    {
+      "title": "Utilities Extension Planning",
+      "anchorSlug": "utilities-extension-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/utilities-extension-planning.html"
+    },
+    {
+      "title": "Second-Story Addition Feasibility",
+      "anchorSlug": "second-story-addition-feasibility",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/second-story-addition-feasibility.html"
+    },
+    {
+      "title": "HOA Approvals for Additions",
+      "anchorSlug": "hoa-approvals-for-additions",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hoa-approvals-for-additions.html"
+    },
+    {
+      "title": "Natural Light in Additions",
+      "anchorSlug": "natural-light-in-additions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/natural-light-in-additions.html"
+    },
+    {
+      "title": "Financing Room Additions",
+      "anchorSlug": "financing-room-additions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/financing-room-additions.html"
+    },
+    {
+      "title": "Neighborhood Construction Impact",
+      "anchorSlug": "neighborhood-construction-impact",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/neighborhood-construction-impact.html"
+    },
+    {
+      "title": "Staying Home During Addition",
+      "anchorSlug": "staying-home-during-addition",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/staying-home-during-addition.html"
+    },
+    {
+      "title": "Addition ROI Expectations",
+      "anchorSlug": "addition-roi-expectations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/addition-roi-expectations.html"
+    },
+    {
+      "title": "Winter Addition Construction",
+      "anchorSlug": "winter-addition-construction",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/winter-addition-construction.html"
+    },
+    {
+      "title": "Post-Addition Warranties",
+      "anchorSlug": "post-addition-warranties",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-addition-warranties.html"
+    },
+    {
+      "title": "Kitchen Remodel Planning 2026",
+      "anchorSlug": "kitchen-remodel-planning-2026",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-remodel-planning-2026.html"
+    },
+    {
+      "title": "2026 Kitchen Trends Overview",
+      "anchorSlug": "2026-kitchen-trends-overview",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-kitchen-trends-overview.html"
+    },
+    {
+      "title": "45 Kitchen Remodeling Ideas 2026",
+      "anchorSlug": "45-kitchen-remodeling-ideas-2026",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/45-kitchen-remodeling-ideas-2026.html"
+    },
+    {
+      "title": "Kitchen Remodel Trends Survival",
+      "anchorSlug": "kitchen-remodel-trends-survival",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-remodel-trends-survival.html"
+    },
+    {
+      "title": "Kitchen Renovation Timeline 2026",
+      "anchorSlug": "kitchen-renovation-timeline-2026",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-renovation-timeline-2026.html"
+    },
+    {
+      "title": "Ultimate Kitchen Bath Guide 2026",
+      "anchorSlug": "ultimate-kitchen-bath-guide-2026",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ultimate-kitchen-bath-guide-2026.html"
+    },
+    {
+      "title": "Budget Kitchen Remodel 2026",
+      "anchorSlug": "budget-kitchen-remodel-2026",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budget-kitchen-remodel-2026.html"
+    },
+    {
+      "title": "Kitchen Remodel Cost Guide 2026",
+      "anchorSlug": "kitchen-remodel-cost-guide-2026",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-remodel-cost-guide-2026.html"
+    },
+    {
+      "title": "Kitchen Cabinet Guide 2026",
+      "anchorSlug": "kitchen-cabinet-guide-2026",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-cabinet-guide-2026.html"
+    },
+    {
+      "title": "2026 Kitchen Trends Sea Pointe",
+      "anchorSlug": "2026-kitchen-trends-sea-pointe",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-kitchen-trends-sea-pointe.html"
+    },
+    {
+      "title": "Virtual Kitchen Planning Tools",
+      "anchorSlug": "virtual-kitchen-planning-tools",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/virtual-kitchen-planning-tools.html"
+    },
+    {
+      "title": "Smart Kitchen Appliances 2026",
+      "anchorSlug": "smart-kitchen-appliances-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-kitchen-appliances-2026.html"
+    },
+    {
+      "title": "Sustainable Kitchen Materials",
+      "anchorSlug": "sustainable-kitchen-materials",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainable-kitchen-materials.html"
+    },
+    {
+      "title": "Kitchen Color Trends 2026",
+      "anchorSlug": "kitchen-color-trends-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-color-trends-2026.html"
+    },
+    {
+      "title": "Professional Team Selection",
+      "anchorSlug": "professional-team-selection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/professional-team-selection.html"
+    },
+    {
+      "title": "Energy Efficient Appliances",
+      "anchorSlug": "energy-efficient-appliances",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/energy-efficient-appliances.html"
+    },
+    {
+      "title": "Workstation Sink Features",
+      "anchorSlug": "workstation-sink-features",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/workstation-sink-features.html"
+    },
+    {
+      "title": "Bamboo Storage Organizers",
+      "anchorSlug": "bamboo-storage-organizers",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bamboo-storage-organizers.html"
+    },
+    {
+      "title": "Ceiling Beams Addition",
+      "anchorSlug": "ceiling-beams-addition",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ceiling-beams-addition.html"
+    },
+    {
+      "title": "Beverage Nook Creation",
+      "anchorSlug": "beverage-nook-creation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/beverage-nook-creation.html"
+    },
+    {
+      "title": "Prep Kitchen Sculleries",
+      "anchorSlug": "prep-kitchen-sculleries",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/prep-kitchen-sculleries.html"
+    },
+    {
+      "title": "Layered Kitchen Lighting",
+      "anchorSlug": "layered-kitchen-lighting",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/layered-kitchen-lighting.html"
+    },
+    {
+      "title": "Custom Cabinet Storage",
+      "anchorSlug": "custom-cabinet-storage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-cabinet-storage.html"
+    },
+    {
+      "title": "Kitchen Work Triangle Update",
+      "anchorSlug": "kitchen-work-triangle-update",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-work-triangle-update.html"
+    },
+    {
+      "title": "Temporary Kitchen Setup",
+      "anchorSlug": "temporary-kitchen-setup",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/temporary-kitchen-setup.html"
+    },
+    {
+      "title": "Bathroom Remodel Cost Guide 2026",
+      "anchorSlug": "bathroom-remodel-cost-guide-2026",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodel-cost-guide-2026.html"
+    },
+    {
+      "title": "Primary Bathroom Trends 2026",
+      "anchorSlug": "primary-bathroom-trends-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/primary-bathroom-trends-2026.html"
+    },
+    {
+      "title": "Bathroom Remodel Trends 2026",
+      "anchorSlug": "bathroom-remodel-trends-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodel-trends-2026.html"
+    },
+    {
+      "title": "Wet Room Bathroom Remodel",
+      "anchorSlug": "wet-room-bathroom-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/wet-room-bathroom-remodel.html"
+    },
+    {
+      "title": "2026 Bathroom Trends Homeowners",
+      "anchorSlug": "2026-bathroom-trends-homeowners",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-bathroom-trends-homeowners.html"
+    },
+    {
+      "title": "Complete Bathroom Remodel Guide",
+      "anchorSlug": "complete-bathroom-remodel-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/complete-bathroom-remodel-guide.html"
+    },
+    {
+      "title": "Bath Remodeling Trends 2026",
+      "anchorSlug": "bath-remodeling-trends-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bath-remodeling-trends-2026.html"
+    },
+    {
+      "title": "Bathroom Remodeling Guide 2026",
+      "anchorSlug": "bathroom-remodeling-guide-2026",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodeling-guide-2026.html"
+    },
+    {
+      "title": "Primary Bath Cost Breakdown",
+      "anchorSlug": "primary-bath-cost-breakdown",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/primary-bath-cost-breakdown.html"
+    },
+    {
+      "title": "Guest Bathroom Remodel Pricing",
+      "anchorSlug": "guest-bathroom-remodel-pricing",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/guest-bathroom-remodel-pricing.html"
+    },
+    {
+      "title": "High-ROI Bathroom Updates",
+      "anchorSlug": "high-roi-bathroom-updates",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/high-roi-bathroom-updates.html"
+    },
+    {
+      "title": "New Bathroom Addition Costs",
+      "anchorSlug": "new-bathroom-addition-costs",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/new-bathroom-addition-costs.html"
+    },
+    {
+      "title": "Tub-to-Shower Conversion",
+      "anchorSlug": "tub-to-shower-conversion",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tub-to-shower-conversion.html"
+    },
+    {
+      "title": "Modern Minimalist Bathrooms",
+      "anchorSlug": "modern-minimalist-bathrooms",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/modern-minimalist-bathrooms.html"
+    },
+    {
+      "title": "Eco-Friendly Bathroom Design",
+      "anchorSlug": "eco-friendly-bathroom-design",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/eco-friendly-bathroom-design.html"
+    },
+    {
+      "title": "Spa-Like Bathroom Retreats",
+      "anchorSlug": "spa-like-bathroom-retreats",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/spa-like-bathroom-retreats.html"
+    },
+    {
+      "title": "Small Bathroom Solutions",
+      "anchorSlug": "small-bathroom-solutions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/small-bathroom-solutions.html"
+    },
+    {
+      "title": "Open Concept Primary Layouts",
+      "anchorSlug": "open-concept-primary-layouts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/open-concept-primary-layouts.html"
+    },
+    {
+      "title": "Organic Minimalism Textures",
+      "anchorSlug": "organic-minimalism-textures",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/organic-minimalism-textures.html"
+    },
+    {
+      "title": "Smart Tech in Bathrooms",
+      "anchorSlug": "smart-tech-in-bathrooms",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-tech-in-bathrooms.html"
+    },
+    {
+      "title": "Bathroom Layout Planning",
+      "anchorSlug": "bathroom-layout-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-layout-planning.html"
+    },
+    {
+      "title": "Luxury Accessibility Features",
+      "anchorSlug": "luxury-accessibility-features",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/luxury-accessibility-features.html"
+    },
+    {
+      "title": "Professional vs DIY Remodel",
+      "anchorSlug": "professional-vs-diy-remodel",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/professional-vs-diy-remodel.html"
+    },
+    {
+      "title": "Remodel Process Timeline",
+      "anchorSlug": "remodel-process-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/remodel-process-timeline.html"
+    },
+    {
+      "title": "Material Selection Guide",
+      "anchorSlug": "material-selection-guide",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/material-selection-guide.html"
+    },
+    {
+      "title": "California ADU Laws 2026 Guide",
+      "anchorSlug": "california-adu-laws-2026-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/california-adu-laws-2026-guide.html"
+    },
+    {
+      "title": "2026 ADU Law Updates SB 543",
+      "anchorSlug": "2026-adu-law-updates-sb-543",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-adu-law-updates-sb-543.html"
+    },
+    {
+      "title": "County-by-County ADU Requirements",
+      "anchorSlug": "county-by-county-adu-requirements",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/county-by-county-adu-requirements.html"
+    },
+    {
+      "title": "2026 ADU Regulations Update",
+      "anchorSlug": "2026-adu-regulations-update",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-adu-regulations-update.html"
+    },
+    {
+      "title": "New 2026 ADU Handbook",
+      "anchorSlug": "new-2026-adu-handbook",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/new-2026-adu-handbook.html"
+    },
+    {
+      "title": "SB 543 ADU/JADU Changes",
+      "anchorSlug": "sb-543-adu-jadu-changes",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sb-543-adu-jadu-changes.html"
+    },
+    {
+      "title": "ADU Handbook PDF Guide",
+      "anchorSlug": "adu-handbook-pdf-guide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-handbook-pdf-guide.html"
+    },
+    {
+      "title": "2026 Housing Law Impacts",
+      "anchorSlug": "2026-housing-law-impacts",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-housing-law-impacts.html"
+    },
+    {
+      "title": "ADU Permitting Timelines",
+      "anchorSlug": "adu-permitting-timelines",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-permitting-timelines.html"
+    },
+    {
+      "title": "Detached ADU Standards",
+      "anchorSlug": "detached-adu-standards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/detached-adu-standards.html"
+    },
+    {
+      "title": "JADU Specific Rules",
+      "anchorSlug": "jadu-specific-rules",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/jadu-specific-rules.html"
+    },
+    {
+      "title": "No Parking ADU Rules",
+      "anchorSlug": "no-parking-adu-rules",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/no-parking-adu-rules.html"
+    },
+    {
+      "title": "Unpermitted ADU Legalization",
+      "anchorSlug": "unpermitted-adu-legalization",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/unpermitted-adu-legalization.html"
+    },
+    {
+      "title": "Prefab ADU Cost Savings",
+      "anchorSlug": "prefab-adu-cost-savings",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/prefab-adu-cost-savings.html"
+    },
+    {
+      "title": "HOA Cannot Block ADUs",
+      "anchorSlug": "hoa-cannot-block-adus",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hoa-cannot-block-adus.html"
+    },
+    {
+      "title": "ADU Rental Regulations",
+      "anchorSlug": "adu-rental-regulations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-rental-regulations.html"
+    },
+    {
+      "title": "School Impact Fees Exempt",
+      "anchorSlug": "school-impact-fees-exempt",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/school-impact-fees-exempt.html"
+    },
+    {
+      "title": "Coastal Zone ADU Streamline",
+      "anchorSlug": "coastal-zone-adu-streamline",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/coastal-zone-adu-streamline.html"
+    },
+    {
+      "title": "Pre-Approved ADU Plans",
+      "anchorSlug": "pre-approved-adu-plans",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-approved-adu-plans.html"
+    },
+    {
+      "title": "Multifamily ADU Allowance",
+      "anchorSlug": "multifamily-adu-allowance",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multifamily-adu-allowance.html"
+    },
+    {
+      "title": "Title 24 Energy Compliance",
+      "anchorSlug": "title-24-energy-compliance",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/title-24-energy-compliance.html"
+    },
+    {
+      "title": "ADU Financing Incentives",
+      "anchorSlug": "adu-financing-incentives",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-financing-incentives.html"
+    },
+    {
+      "title": "SF ADU Specific Rules",
+      "anchorSlug": "sf-adu-specific-rules",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sf-adu-specific-rules.html"
+    },
+    {
+      "title": "HCD ADU Resources",
+      "anchorSlug": "hcd-adu-resources",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hcd-adu-resources.html"
+    },
+    {
+      "title": "ADU Build Timelines",
+      "anchorSlug": "adu-build-timelines",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-build-timelines.html"
+    },
+    {
+      "title": "Design-Build Defined",
+      "anchorSlug": "design-build-defined",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-defined.html"
+    },
+    {
+      "title": "Design-Build Complete Guide",
+      "anchorSlug": "design-build-complete-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-complete-guide.html"
+    },
+    {
+      "title": "Design-Build vs Traditional",
+      "anchorSlug": "design-build-vs-traditional",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-vs-traditional.html"
+    },
+    {
+      "title": "Commercial Design-Build",
+      "anchorSlug": "commercial-design-build",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/commercial-design-build.html"
+    },
+    {
+      "title": "Progressive Design-Build 2026",
+      "anchorSlug": "progressive-design-build-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/progressive-design-build-2026.html"
+    },
+    {
+      "title": "Design-Build Guideline PDF",
+      "anchorSlug": "design-build-guideline-pdf",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-guideline-pdf.html"
+    },
+    {
+      "title": "Design-Build Method Explained",
+      "anchorSlug": "design-build-method-explained",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-method-explained.html"
+    },
+    {
+      "title": "Design-Build Philosophy",
+      "anchorSlug": "design-build-philosophy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-philosophy.html"
+    },
+    {
+      "title": "Pre-Construction Phase",
+      "anchorSlug": "pre-construction-phase",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-construction-phase.html"
+    },
+    {
+      "title": "GMP in Design-Build",
+      "anchorSlug": "gmp-in-design-build",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gmp-in-design-build.html"
+    },
+    {
+      "title": "Design-Build Team Structure",
+      "anchorSlug": "design-build-team-structure",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-team-structure.html"
+    },
+    {
+      "title": "Value Engineering Benefits",
+      "anchorSlug": "value-engineering-benefits",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/value-engineering-benefits.html"
+    },
+    {
+      "title": "BIM in Design-Build",
+      "anchorSlug": "bim-in-design-build",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bim-in-design-build.html"
+    },
+    {
+      "title": "Selecting Design-Builder",
+      "anchorSlug": "selecting-design-builder",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/selecting-design-builder.html"
+    },
+    {
+      "title": "Fast-Track Scheduling",
+      "anchorSlug": "fast-track-scheduling",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fast-track-scheduling.html"
+    },
+    {
+      "title": "Owner Role Simplified",
+      "anchorSlug": "owner-role-simplified",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/owner-role-simplified.html"
+    },
+    {
+      "title": "Change Orders Minimized",
+      "anchorSlug": "change-orders-minimized",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/change-orders-minimized.html"
+    },
+    {
+      "title": "Post-Construction Services",
+      "anchorSlug": "post-construction-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/post-construction-services.html"
+    },
+    {
+      "title": "Design-Build Contract Types",
+      "anchorSlug": "design-build-contract-types",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-contract-types.html"
+    },
+    {
+      "title": "Public Sector Design-Build",
+      "anchorSlug": "public-sector-design-build",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/public-sector-design-build.html"
+    },
+    {
+      "title": "CMAR vs Design-Build",
+      "anchorSlug": "cmar-vs-design-build",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cmar-vs-design-build.html"
+    },
+    {
+      "title": "Preconstruction Assessments",
+      "anchorSlug": "preconstruction-assessments",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preconstruction-assessments.html"
+    },
+    {
+      "title": "Design-Build Challenges",
+      "anchorSlug": "design-build-challenges",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-challenges.html"
+    },
+    {
+      "title": "Green Building Practices Guide",
+      "anchorSlug": "green-building-practices-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/green-building-practices-guide.html"
+    },
+    {
+      "title": "7 Steps Green Certification",
+      "anchorSlug": "7-steps-green-certification",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/7-steps-green-certification.html"
+    },
+    {
+      "title": "CALGreen Compliance 2026",
+      "anchorSlug": "calgreen-compliance-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/calgreen-compliance-2026.html"
+    },
+    {
+      "title": "Energy Efficiency Strategies",
+      "anchorSlug": "energy-efficiency-strategies",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/energy-efficiency-strategies.html"
+    },
+    {
+      "title": "Sustainable Materials Guide",
+      "anchorSlug": "sustainable-materials-guide",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainable-materials-guide.html"
+    },
+    {
+      "title": "Site Development Best Practices",
+      "anchorSlug": "site-development-best-practices",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/site-development-best-practices.html"
+    },
+    {
+      "title": "Water Efficiency Measures",
+      "anchorSlug": "water-efficiency-measures",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/water-efficiency-measures.html"
+    },
+    {
+      "title": "Indoor Air Quality Standards",
+      "anchorSlug": "indoor-air-quality-standards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/indoor-air-quality-standards.html"
+    },
+    {
+      "title": "Net-Zero Building Strategies",
+      "anchorSlug": "net-zero-building-strategies",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/net-zero-building-strategies.html"
+    },
+    {
+      "title": "Resilient Design Principles",
+      "anchorSlug": "resilient-design-principles",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/resilient-design-principles.html"
+    },
+    {
+      "title": "LEED Certification Overview",
+      "anchorSlug": "leed-certification-overview",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/leed-certification-overview.html"
+    },
+    {
+      "title": "CALGreen Tier Requirements",
+      "anchorSlug": "calgreen-tier-requirements",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/calgreen-tier-requirements.html"
+    },
+    {
+      "title": "WELL Health Certification",
+      "anchorSlug": "well-health-certification",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/well-health-certification.html"
+    },
+    {
+      "title": "Passive House Standards",
+      "anchorSlug": "passive-house-standards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/passive-house-standards.html"
+    },
+    {
+      "title": "Living Building Challenge",
+      "anchorSlug": "living-building-challenge",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/living-building-challenge.html"
+    },
+    {
+      "title": "Integrated Design Process",
+      "anchorSlug": "integrated-design-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/integrated-design-process.html"
+    },
+    {
+      "title": "Green Incentives California",
+      "anchorSlug": "green-incentives-california",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/green-incentives-california.html"
+    },
+    {
+      "title": "Payback Analysis",
+      "anchorSlug": "payback-analysis",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/payback-analysis.html"
+    },
+    {
+      "title": "Construction Waste Mgmt",
+      "anchorSlug": "construction-waste-mgmt",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/construction-waste-mgmt.html"
+    },
+    {
+      "title": "Biophilic Design Elements",
+      "anchorSlug": "biophilic-design-elements",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/biophilic-design-elements.html"
+    },
+    {
+      "title": "Commissioning Process",
+      "anchorSlug": "commissioning-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/commissioning-process.html"
+    },
+    {
+      "title": "M&V Post-Occupancy",
+      "anchorSlug": "m-v-post-occupancy",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/m-v-post-occupancy.html"
+    },
+    {
+      "title": "NGBS Residential Green",
+      "anchorSlug": "ngbs-residential-green",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ngbs-residential-green.html"
+    },
+    {
+      "title": "Federal Guiding Principles",
+      "anchorSlug": "federal-guiding-principles",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/federal-guiding-principles.html"
+    },
+    {
+      "title": "Getting Started Checklist",
+      "anchorSlug": "getting-started-checklist",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-started-checklist.html"
+    },
+    {
+      "title": "Radiant Floor Heating New Construction Guide",
+      "anchorSlug": "radiant-floor-heating-new-construction-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/radiant-floor-heating-new-construction-guide.html"
+    },
+    {
+      "title": "Electric Radiant Floor Pros & Cons 2026",
+      "anchorSlug": "electric-radiant-floor-pros-cons-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/electric-radiant-floor-pros-cons-2026.html"
+    },
+    {
+      "title": "DIY Radiant Floor Heating Install",
+      "anchorSlug": "diy-radiant-floor-heating-install",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/diy-radiant-floor-heating-install.html"
+    },
+    {
+      "title": "Hydronic Radiant Floor Heating Guide",
+      "anchorSlug": "hydronic-radiant-floor-heating-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hydronic-radiant-floor-heating-guide.html"
+    },
+    {
+      "title": "Underfloor Heating Design Guide",
+      "anchorSlug": "underfloor-heating-design-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/underfloor-heating-design-guide.html"
+    },
+    {
+      "title": "Best Underfloor Systems 2026",
+      "anchorSlug": "best-underfloor-systems-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/best-underfloor-systems-2026.html"
+    },
+    {
+      "title": "Comprehensive Radiant Heating Guide",
+      "anchorSlug": "comprehensive-radiant-heating-guide",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comprehensive-radiant-heating-guide.html"
+    },
+    {
+      "title": "Successful Radiant Install Tips",
+      "anchorSlug": "successful-radiant-install-tips",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/successful-radiant-install-tips.html"
+    },
+    {
+      "title": "Electric vs Hydronic Comparison",
+      "anchorSlug": "electric-vs-hydronic-comparison",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/electric-vs-hydronic-comparison.html"
+    },
+    {
+      "title": "Safety & EMF Concerns",
+      "anchorSlug": "safety-emf-concerns",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/safety-emf-concerns.html"
+    },
+    {
+      "title": "Flooring Compatibility Guide",
+      "anchorSlug": "flooring-compatibility-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/flooring-compatibility-guide.html"
+    },
+    {
+      "title": "Cost Per Sq Ft Breakdown",
+      "anchorSlug": "cost-per-sq-ft-breakdown",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-per-sq-ft-breakdown.html"
+    },
+    {
+      "title": "Heat-Up Time Expectations",
+      "anchorSlug": "heat-up-time-expectations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/heat-up-time-expectations.html"
+    },
+    {
+      "title": "Thermostat Selection Guide",
+      "anchorSlug": "thermostat-selection-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thermostat-selection-guide.html"
+    },
+    {
+      "title": "Bathroom Zoning Applications",
+      "anchorSlug": "bathroom-zoning-applications",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-zoning-applications.html"
+    },
+    {
+      "title": "Slab vs Retrofit Methods",
+      "anchorSlug": "slab-vs-retrofit-methods",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/slab-vs-retrofit-methods.html"
+    },
+    {
+      "title": "Energy Bill Impact Calc",
+      "anchorSlug": "energy-bill-impact-calc",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/energy-bill-impact-calc.html"
+    },
+    {
+      "title": "Warranty Coverage Details",
+      "anchorSlug": "warranty-coverage-details",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/warranty-coverage-details.html"
+    },
+    {
+      "title": "Troubleshooting No Heat",
+      "anchorSlug": "troubleshooting-no-heat",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/troubleshooting-no-heat.html"
+    },
+    {
+      "title": "Pet Safety Considerations",
+      "anchorSlug": "pet-safety-considerations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pet-safety-considerations.html"
+    },
+    {
+      "title": "Commercial TI Complete Guide",
+      "anchorSlug": "commercial-ti-complete-guide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/commercial-ti-complete-guide.html"
+    },
+    {
+      "title": "Tenant Improvements Owners/Tenants",
+      "anchorSlug": "tenant-improvements-owners-tenants",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tenant-improvements-owners-tenants.html"
+    },
+    {
+      "title": "TI Process Every Phase",
+      "anchorSlug": "ti-process-every-phase",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ti-process-every-phase.html"
+    },
+    {
+      "title": "Commercial TI Projects Guide",
+      "anchorSlug": "commercial-ti-projects-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/commercial-ti-projects-guide.html"
+    },
+    {
+      "title": "Retail TI Industry Applications",
+      "anchorSlug": "retail-ti-industry-applications",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/retail-ti-industry-applications.html"
+    },
+    {
+      "title": "Office TI Layout Solutions",
+      "anchorSlug": "office-ti-layout-solutions",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/office-ti-layout-solutions.html"
+    },
+    {
+      "title": "Warehouse TI Storage Upgrades",
+      "anchorSlug": "warehouse-ti-storage-upgrades",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/warehouse-ti-storage-upgrades.html"
+    },
+    {
+      "title": "Restaurant TI Workflow Fixes",
+      "anchorSlug": "restaurant-ti-workflow-fixes",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/restaurant-ti-workflow-fixes.html"
+    },
+    {
+      "title": "TI Allowance Negotiations",
+      "anchorSlug": "ti-allowance-negotiations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ti-allowance-negotiations.html"
+    },
+    {
+      "title": "TI Cost Per Sq Ft 2026",
+      "anchorSlug": "ti-cost-per-sq-ft-2026",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ti-cost-per-sq-ft-2026.html"
+    },
+    {
+      "title": "Turnkey vs Vanilla TI",
+      "anchorSlug": "turnkey-vs-vanilla-ti",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/turnkey-vs-vanilla-ti.html"
+    },
+    {
+      "title": "TI Lease Legal Terms",
+      "anchorSlug": "ti-lease-legal-terms",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ti-lease-legal-terms.html"
+    },
+    {
+      "title": "Project Management TI",
+      "anchorSlug": "project-management-ti",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/project-management-ti.html"
+    },
+    {
+      "title": "Material Selection TI",
+      "anchorSlug": "material-selection-ti",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/material-selection-ti.html"
+    },
+    {
+      "title": "Sustainability TI Practices",
+      "anchorSlug": "sustainability-ti-practices",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainability-ti-practices.html"
+    },
+    {
+      "title": "Permits for Commercial TI",
+      "anchorSlug": "permits-for-commercial-ti",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-for-commercial-ti.html"
+    },
+    {
+      "title": "TI Engineering 2026",
+      "anchorSlug": "ti-engineering-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ti-engineering-2026.html"
+    },
+    {
+      "title": "Common TI Project Types",
+      "anchorSlug": "common-ti-project-types",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-ti-project-types.html"
+    },
+    {
+      "title": "TI Budgeting Best Practices",
+      "anchorSlug": "ti-budgeting-best-practices",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ti-budgeting-best-practices.html"
+    },
+    {
+      "title": "Professional Hiring TI",
+      "anchorSlug": "professional-hiring-ti",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/professional-hiring-ti.html"
+    },
+    {
+      "title": "TI Completion Inspection",
+      "anchorSlug": "ti-completion-inspection",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ti-completion-inspection.html"
+    },
+    {
+      "title": "TI for Investors Guide",
+      "anchorSlug": "ti-for-investors-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ti-for-investors-guide.html"
+    },
+    {
+      "title": "Tenant Finish Projects Guide",
+      "anchorSlug": "tenant-finish-projects-guide",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tenant-finish-projects-guide.html"
+    },
+    {
+      "title": "TI Planning Foundations",
+      "anchorSlug": "ti-planning-foundations",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ti-planning-foundations.html"
+    },
+    {
+      "title": "Avoid TI Mistakes",
+      "anchorSlug": "avoid-ti-mistakes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoid-ti-mistakes.html"
+    },
+    {
+      "title": "Takeover Agreement Basics",
+      "anchorSlug": "takeover-agreement-basics",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/takeover-agreement-basics.html"
+    },
+    {
+      "title": "Contractor Default Procedures",
+      "anchorSlug": "contractor-default-procedures",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/contractor-default-procedures.html"
+    },
+    {
+      "title": "Drafting Takeover Agreements",
+      "anchorSlug": "drafting-takeover-agreements",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/drafting-takeover-agreements.html"
+    },
+    {
+      "title": "Surety Takeover Mechanics",
+      "anchorSlug": "surety-takeover-mechanics",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/surety-takeover-mechanics.html"
+    },
+    {
+      "title": "FAR Default Termination",
+      "anchorSlug": "far-default-termination",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/far-default-termination.html"
+    },
+    {
+      "title": "Default Procedure Steps",
+      "anchorSlug": "default-procedure-steps",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/default-procedure-steps.html"
+    },
+    {
+      "title": "Owner Obligations Takeover",
+      "anchorSlug": "owner-obligations-takeover",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/owner-obligations-takeover.html"
+    },
+    {
+      "title": "Surety Completion Options",
+      "anchorSlug": "surety-completion-options",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/surety-completion-options.html"
+    },
+    {
+      "title": "Payment Handling Post-Default",
+      "anchorSlug": "payment-handling-post-default",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/payment-handling-post-default.html"
+    },
+    {
+      "title": "Change Orders Takeover",
+      "anchorSlug": "change-orders-takeover",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/change-orders-takeover.html"
+    },
+    {
+      "title": "Liquidated Damages Negotiation",
+      "anchorSlug": "liquidated-damages-negotiation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/liquidated-damages-negotiation.html"
+    },
+    {
+      "title": "Latent Defects Liability",
+      "anchorSlug": "latent-defects-liability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/latent-defects-liability.html"
+    },
+    {
+      "title": "Completion Contractor Selection",
+      "anchorSlug": "completion-contractor-selection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/completion-contractor-selection.html"
+    },
+    {
+      "title": "New Completion Schedule",
+      "anchorSlug": "new-completion-schedule",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/new-completion-schedule.html"
+    },
+    {
+      "title": "DBE Requirements Takeover",
+      "anchorSlug": "dbe-requirements-takeover",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dbe-requirements-takeover.html"
+    },
+    {
+      "title": "Lender Protections Takeover",
+      "anchorSlug": "lender-protections-takeover",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lender-protections-takeover.html"
+    },
+    {
+      "title": "Risks for Completion Contractor",
+      "anchorSlug": "risks-for-completion-contractor",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/risks-for-completion-contractor.html"
+    },
+    {
+      "title": "Surety Pre-Takeover Due Diligence",
+      "anchorSlug": "surety-pre-takeover-due-diligence",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/surety-pre-takeover-due-diligence.html"
+    },
+    {
+      "title": "Dispute Resolution Takeover",
+      "anchorSlug": "dispute-resolution-takeover",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dispute-resolution-takeover.html"
+    },
+    {
+      "title": "Owner Claims Limits",
+      "anchorSlug": "owner-claims-limits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/owner-claims-limits.html"
+    },
+    {
+      "title": "Takeover vs Rebid",
+      "anchorSlug": "takeover-vs-rebid",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/takeover-vs-rebid.html"
+    },
+    {
+      "title": "Notice Cure Periods",
+      "anchorSlug": "notice-cure-periods",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/notice-cure-periods.html"
+    },
+    {
+      "title": "Tripartite Agreement Use",
+      "anchorSlug": "tripartite-agreement-use",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tripartite-agreement-use.html"
+    },
+    {
+      "title": "Materials Ownership Default",
+      "anchorSlug": "materials-ownership-default",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/materials-ownership-default.html"
+    },
+    {
+      "title": "Default Termination Avoidance",
+      "anchorSlug": "default-termination-avoidance",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/default-termination-avoidance.html"
+    },
+    {
+      "title": "Choosing Contractor Expert Witness",
+      "anchorSlug": "choosing-contractor-expert-witness",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-contractor-expert-witness.html"
+    },
+    {
+      "title": "Construction Dispute Expert Role",
+      "anchorSlug": "construction-dispute-expert-role",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/construction-dispute-expert-role.html"
+    },
+    {
+      "title": "Construction Litigation Guide",
+      "anchorSlug": "construction-litigation-guide",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/construction-litigation-guide.html"
+    },
+    {
+      "title": "Selecting Construction Experts",
+      "anchorSlug": "selecting-construction-experts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/selecting-construction-experts.html"
+    },
+    {
+      "title": "Contractor Licensing Experts",
+      "anchorSlug": "contractor-licensing-experts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/contractor-licensing-experts.html"
+    },
+    {
+      "title": "HSE Construction Witness Services",
+      "anchorSlug": "hse-construction-witness-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hse-construction-witness-services.html"
+    },
+    {
+      "title": "Defect Litigation Expert Role",
+      "anchorSlug": "defect-litigation-expert-role",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/defect-litigation-expert-role.html"
+    },
+    {
+      "title": "California Contractor Witness",
+      "anchorSlug": "california-contractor-witness",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/california-contractor-witness.html"
+    },
+    {
+      "title": "Expert Testimony Impact",
+      "anchorSlug": "expert-testimony-impact",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/expert-testimony-impact.html"
+    },
+    {
+      "title": "Expert Report Requirements",
+      "anchorSlug": "expert-report-requirements",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/expert-report-requirements.html"
+    },
+    {
+      "title": "Daubert Methodology Standards",
+      "anchorSlug": "daubert-methodology-standards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/daubert-methodology-standards.html"
+    },
+    {
+      "title": "Consulting vs Testifying Experts",
+      "anchorSlug": "consulting-vs-testifying-experts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/consulting-vs-testifying-experts.html"
+    },
+    {
+      "title": "Delay Claims Analysis",
+      "anchorSlug": "delay-claims-analysis",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/delay-claims-analysis.html"
+    },
+    {
+      "title": "Deposition Preparation Tips",
+      "anchorSlug": "deposition-preparation-tips",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deposition-preparation-tips.html"
+    },
+    {
+      "title": "Trial Testimony Best Practices",
+      "anchorSlug": "trial-testimony-best-practices",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/trial-testimony-best-practices.html"
+    },
+    {
+      "title": "Standard of Care Opinions",
+      "anchorSlug": "standard-of-care-opinions",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/standard-of-care-opinions.html"
+    },
+    {
+      "title": "Cost Estimation Testimony",
+      "anchorSlug": "cost-estimation-testimony",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-estimation-testimony.html"
+    },
+    {
+      "title": "Safety/OSHA Compliance",
+      "anchorSlug": "safety-osha-compliance",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/safety-osha-compliance.html"
+    },
+    {
+      "title": "Forensic Engineering Role",
+      "anchorSlug": "forensic-engineering-role",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/forensic-engineering-role.html"
+    },
+    {
+      "title": "Code Compliance Expertise",
+      "anchorSlug": "code-compliance-expertise",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/code-compliance-expertise.html"
+    },
+    {
+      "title": "Multiple Expert Coordination",
+      "anchorSlug": "multiple-expert-coordination",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multiple-expert-coordination.html"
+    },
+    {
+      "title": "Geographic Expertise Need",
+      "anchorSlug": "geographic-expertise-need",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/geographic-expertise-need.html"
+    },
+    {
+      "title": "Report Writing Excellence",
+      "anchorSlug": "report-writing-excellence",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/report-writing-excellence.html"
+    },
+    {
+      "title": "Prior Testimony Disclosure",
+      "anchorSlug": "prior-testimony-disclosure",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/prior-testimony-disclosure.html"
+    },
+    {
+      "title": "Expert Practice Building",
+      "anchorSlug": "expert-practice-building",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/expert-practice-building.html"
+    },
+    {
+      "title": "Takeover Agreement Explained",
+      "anchorSlug": "takeover-agreement-explained",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/takeover-agreement-explained.html"
+    },
+    {
+      "title": "Default Termination Procedures",
+      "anchorSlug": "default-termination-procedures",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/default-termination-procedures.html"
+    },
+    {
+      "title": "Drafting Takeover Contracts",
+      "anchorSlug": "drafting-takeover-contracts",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/drafting-takeover-contracts.html"
+    },
+    {
+      "title": "Surety Takeover Nuts & Bolts",
+      "anchorSlug": "surety-takeover-nuts-bolts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/surety-takeover-nuts-bolts.html"
+    },
+    {
+      "title": "Fixing Bad Contractor Work",
+      "anchorSlug": "fixing-bad-contractor-work",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fixing-bad-contractor-work.html"
+    },
+    {
+      "title": "Who Pays for Previous Mistakes",
+      "anchorSlug": "who-pays-for-previous-mistakes",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/who-pays-for-previous-mistakes.html"
+    },
+    {
+      "title": "New Contractor Responsibilities",
+      "anchorSlug": "new-contractor-responsibilities",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/new-contractor-responsibilities.html"
+    },
+    {
+      "title": "Cure Notice Before Firing",
+      "anchorSlug": "cure-notice-before-firing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cure-notice-before-firing.html"
+    },
+    {
+      "title": "Hidden Problems from Old Work",
+      "anchorSlug": "hidden-problems-from-old-work",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hidden-problems-from-old-work.html"
+    },
+    {
+      "title": "Timeline After Takeover Starts",
+      "anchorSlug": "timeline-after-takeover-starts",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timeline-after-takeover-starts.html"
+    },
+    {
+      "title": "Keeping Old Subcontractors",
+      "anchorSlug": "keeping-old-subcontractors",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/keeping-old-subcontractors.html"
+    },
+    {
+      "title": "Permits for Takeover Work",
+      "anchorSlug": "permits-for-takeover-work",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-for-takeover-work.html"
+    },
+    {
+      "title": "Change Requests Mid-Takeover",
+      "anchorSlug": "change-requests-mid-takeover",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/change-requests-mid-takeover.html"
+    },
+    {
+      "title": "Final Inspection Process",
+      "anchorSlug": "final-inspection-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/final-inspection-process.html"
+    },
+    {
+      "title": "Lawyer Role in Takeovers",
+      "anchorSlug": "lawyer-role-in-takeovers",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lawyer-role-in-takeovers.html"
+    },
+    {
+      "title": "Documents New Contractor Needs",
+      "anchorSlug": "documents-new-contractor-needs",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/documents-new-contractor-needs.html"
+    },
+    {
+      "title": "Surety Refusal Scenarios",
+      "anchorSlug": "surety-refusal-scenarios",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/surety-refusal-scenarios.html"
+    },
+    {
+      "title": "Cost Overruns in Takeover",
+      "anchorSlug": "cost-overruns-in-takeover",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-overruns-in-takeover.html"
+    },
+    {
+      "title": "Original Contractor Lawsuits",
+      "anchorSlug": "original-contractor-lawsuits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/original-contractor-lawsuits.html"
+    },
+    {
+      "title": "Bond Requirements for New Contractor",
+      "anchorSlug": "bond-requirements-for-new-contractor",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bond-requirements-for-new-contractor.html"
+    },
+    {
+      "title": "Avoiding Future Defaults",
+      "anchorSlug": "avoiding-future-defaults",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-future-defaults.html"
+    },
+    {
+      "title": "Takeover vs Full Rebid Speed",
+      "anchorSlug": "takeover-vs-full-rebid-speed",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/takeover-vs-full-rebid-speed.html"
+    },
+    {
+      "title": "Site Access After Default",
+      "anchorSlug": "site-access-after-default",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/site-access-after-default.html"
+    },
+    {
+      "title": "Materials from Old Contractor",
+      "anchorSlug": "materials-from-old-contractor",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/materials-from-old-contractor.html"
+    },
+    {
+      "title": "Insurance During Takeover",
+      "anchorSlug": "insurance-during-takeover",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/insurance-during-takeover.html"
+    },
+    {
+      "title": "2026 New Home Building Steps",
+      "anchorSlug": "2026-new-home-building-steps",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-new-home-building-steps.html"
+    },
+    {
+      "title": "Land + Custom Build Guide",
+      "anchorSlug": "land-custom-build-guide",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/land-custom-build-guide.html"
+    },
+    {
+      "title": "2026 Custom Home Features",
+      "anchorSlug": "2026-custom-home-features",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-custom-home-features.html"
+    },
+    {
+      "title": "Why Build Custom in 2026",
+      "anchorSlug": "why-build-custom-in-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-build-custom-in-2026.html"
+    },
+    {
+      "title": "2026 Custom Planning Strategy",
+      "anchorSlug": "2026-custom-planning-strategy",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-custom-planning-strategy.html"
+    },
+    {
+      "title": "2026 Home Design Trends",
+      "anchorSlug": "2026-home-design-trends",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-home-design-trends.html"
+    },
+    {
+      "title": "Luxury Custom Trends 2026",
+      "anchorSlug": "luxury-custom-trends-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/luxury-custom-trends-2026.html"
+    },
+    {
+      "title": "2026 Luxury Interiors",
+      "anchorSlug": "2026-luxury-interiors",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-luxury-interiors.html"
+    },
+    {
+      "title": "2026 Building Trends",
+      "anchorSlug": "2026-building-trends",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2026-building-trends.html"
+    },
+    {
+      "title": "High-End 2026 Interiors",
+      "anchorSlug": "high-end-2026-interiors",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/high-end-2026-interiors.html"
+    },
+    {
+      "title": "Site Truth in Design",
+      "anchorSlug": "site-truth-in-design",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/site-truth-in-design.html"
+    },
+    {
+      "title": "Early Material Selection",
+      "anchorSlug": "early-material-selection",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/early-material-selection.html"
+    },
+    {
+      "title": "Permit Sequencing",
+      "anchorSlug": "permit-sequencing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permit-sequencing.html"
+    },
+    {
+      "title": "Rochester Custom Expertise",
+      "anchorSlug": "rochester-custom-expertise",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rochester-custom-expertise.html"
+    },
+    {
+      "title": "Value-Add Features",
+      "anchorSlug": "value-add-features",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/value-add-features.html"
+    },
+    {
+      "title": "Kitchen 2026 Trends",
+      "anchorSlug": "kitchen-2026-trends",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-2026-trends.html"
+    },
+    {
+      "title": "Color Trends 2026",
+      "anchorSlug": "color-trends-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/color-trends-2026.html"
+    },
+    {
+      "title": "FHA Custom Financing",
+      "anchorSlug": "fha-custom-financing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fha-custom-financing.html"
+    },
+    {
+      "title": "Contractor Vetting Process",
+      "anchorSlug": "contractor-vetting-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/contractor-vetting-process.html"
+    },
+    {
+      "title": "Permit Types List",
+      "anchorSlug": "permit-types-list",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permit-types-list.html"
+    },
+    {
+      "title": "Custom vs Resale Benefits",
+      "anchorSlug": "custom-vs-resale-benefits",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-vs-resale-benefits.html"
+    },
+    {
+      "title": "Flexible Space Design",
+      "anchorSlug": "flexible-space-design",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/flexible-space-design.html"
+    },
+    {
+      "title": "Sustainable Envelope",
+      "anchorSlug": "sustainable-envelope",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainable-envelope.html"
+    },
+    {
+      "title": "Pre-Construction Pacing",
+      "anchorSlug": "pre-construction-pacing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-construction-pacing.html"
+    },
+    {
+      "title": "Local Builder Advantages",
+      "anchorSlug": "local-builder-advantages",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/local-builder-advantages.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://behrconstruction.aiovisibility.net/articles.html",
+    "https://behrconstruction.aiovisibility.net/articles/getting-started.html",
+    "https://behrconstruction.aiovisibility.net/articles/services-and-process.html",
+    "https://behrconstruction.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://behrconstruction.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://behrconstruction.aiovisibility.net/articles/local-service-guidance.html",
+    "https://behrconstruction.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}
