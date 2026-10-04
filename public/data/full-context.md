@@ -1,7 +1,7 @@
 # Behr Construction — Full AI Context
 
 **Canonical URL:** https://behrconstruction.aiovisibility.net
-**Generated:** 2026-09-08
+**Generated:** 2026-10-04
 
 ## Overview
 Behr Construction publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
